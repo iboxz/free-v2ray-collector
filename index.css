@@ -1,0 +1,540 @@
+.sectionHero {
+  color: #222;
+
+  display: grid;
+  grid-template-columns: repeat(5, 50%);
+  grid-template-rows: repeat(5, auto);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+
+  width: 100%;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/* navbarHolder --------------------------------- */
+.sectionHero .navbarHolder {
+  grid-area: 1 / 1 / 2 / 3;
+  font-family: "YekanBakhFaNum";
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: flex-end;
+  column-gap: 5vmin;
+  padding-right: 5vmin;
+  padding-top: 5vmin;
+  font-size: clamp(0.8rem, 1.1vw, 100rem);
+}
+.sectionHero .navbarHolder > p {
+  cursor: pointer;
+  border: 0.1vmin solid black;
+  border-radius: 1vmin;
+  padding: 0.2vmin 3vmin;
+}
+/* imageHolder --------------------------------- */
+.sectionHero .imageHolder {
+  grid-area: 2 / 2 / 3 / 3;
+  width: 100%;
+
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  font-size: clamp(1.5rem, 4vmin, 100rem);
+  white-space: nowrap;
+  color: black;
+  position: relative;
+  /* filter: invert(100%); */
+}
+.sectionHero .imageHolder::before {
+  content: "";
+  position: absolute;
+  height: 20vmax;
+  width: 70vw;
+  top: 25%;
+  right: 0%;
+
+  background: rgba(239, 122, 37, 0.72);
+  z-index: -1;
+}
+.sectionHero .imageHolder > img {
+  width: 100%;
+  object-fit: contain;
+  padding: 10%;
+}
+
+.sectionHero .imageHolder #github {
+  width: 25vmax;
+  padding: 1vmin 10vmin;
+
+  margin: 0%;
+  border-radius: 1vmin;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(9.199999809265137px);
+
+  position: absolute;
+  right: 0%;
+  top: 65%;
+  transform: translateY(-60%);
+  z-index: 5;
+
+  cursor: pointer;
+}
+.sectionHero .imageHolder #github p {
+  position: relative;
+  margin: 0%;
+}
+
+.sectionHero .imageHolder #github p::before {
+  content: "";
+  position: absolute;
+  background: url(assets/IconGithub.svg) center/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -8vmin;
+  width: 8vmin;
+}
+.sectionHero .imageHolder #IBOX {
+  width: 25vmax;
+  padding: 1vmin 10vmin;
+
+  margin: 0%;
+  border-radius: 1vmin;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(9.199999809265137px);
+
+  position: absolute;
+  right: 0%;
+  top: 65%;
+  transform: translateY(60%);
+  z-index: 6;
+
+  cursor: pointer;
+}
+.sectionHero .imageHolder #IBOX p {
+  position: relative;
+  margin: 0%;
+}
+
+.sectionHero .imageHolder #IBOX p::before {
+  content: "";
+  position: absolute;
+  background: url(assets/firstIBOXeye.gif) center/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -8vmin;
+  width: 8vmin;
+}
+/* TitleHolder --------------------------------- */
+.sectionHero .TitleHolder {
+  height: fit-content;
+  width: 100%;
+
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  grid-area: 2 / 1 / 3 / 2;
+
+  display: grid;
+  gap: 0px 0px;
+
+  width: min-content;
+  margin: 10vmin;
+}
+
+.sectionHero #hereTitleTop {
+  width: min-content;
+}
+.sectionHero #hereTitleTop > div:nth-child(2) {
+  /* letter-spacing: 2px;
+      line-height: 1.3; */
+  line-height: 0.8;
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  overflow: hidden;
+  font-size: clamp(8rem, 20vw, 100rem);
+}
+.sectionHero #hereTitleTop > div:nth-child(1) {
+  display: flex;
+  flex-direction: row;
+}
+
+.sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
+  font-size: clamp(3rem, 6vw, 100rem);
+  line-height: 0.9;
+}
+
+.sectionHero #hereTitleTop div:nth-child(1) div:nth-child(2) {
+  background: url("assets/hero-assets.jpg") center/cover no-repeat;
+
+  margin-left: 2vh;
+  margin-right: 100%;
+  border-radius: 100vh;
+  width: 100%;
+}
+
+.sectionHero #hereTitleTop + div {
+  height: fit-content;
+  font-size: clamp(3rem, 11.5vw, 100rem);
+  line-height: 0.8;
+  height: fit-content;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 576px) {
+  .sectionHero {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(5, auto);
+  }
+  .sectionHero .navbarHolder {
+    grid-area: 3 / 1 / 4 / 2;
+    justify-content: space-around;
+    column-gap: 0;
+    padding-right: 0;
+  }
+  .sectionHero .imageHolder {
+    grid-area: 2 / 1 / 3 / 2;
+  }
+  .sectionHero .TitleHolder {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+  .sectionHero .TitleHolder {
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+  }
+
+  .sectionHero .imageHolder > img {
+    padding: 0;
+  }
+
+  /* hereTitleTop ----------------- */
+  .sectionHero #hereTitleTop div:nth-child(2) {
+    font-size: clamp(7rem, 35vw, 100rem);
+    width: fit-content;
+    line-height: 0.8;
+  }
+
+  .sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
+    font-size: clamp(2rem, 5vw, 100rem);
+    line-height: 0.9;
+  }
+  .sectionHero #hereTitleTop + div {
+    height: fit-content;
+    writing-mode: vertical-rl;
+    font-size: clamp(2.35rem, 11vw, 100rem);
+    width: min-content;
+    line-height: 1.2;
+  }
+
+  .sectionHero .navbarHolder {
+    padding-top: 10vmin;
+  }
+}
+.sectionConfig {
+  padding-top: 5vh;
+}
+.sectionConfig > p {
+  font-size: clamp(2rem, 3vmax, 100rem);
+  font-family: "YekanBakhFaNum";
+  font-weight: 1000;
+  text-align: right;
+  padding-right: 10%;
+}
+
+.sectionConfig .mainContainer {
+  background: #2d2d2b url(assets/cardsDust2.png) left top/60% no-repeat;
+  display: flex;
+  flex-direction: row;
+
+  font-family: "LeagueGothic", "YekanBakhFaNum";
+  text-transform: uppercase;
+  color: white;
+
+  margin: 3vw;
+  padding: 10vmin;
+}
+.sectionConfig .buttonC {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-top: 5vmin;
+}
+.sectionConfig .buttonC button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: clamp(2rem, 3vmax, 100rem);
+  text-transform: uppercase;
+  text-align: left;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.sectionConfig .linkC {
+  width: 50%;
+}
+.sectionConfig .linkC #topSection {
+  white-space: nowrap;
+  font-size: clamp(1.5rem, 2vmax, 100rem);
+  display: flex;
+  padding: 1vh 3vh;
+  line-height: 1;
+}
+
+.sectionConfig .linkC #topSection p:nth-child(1) {
+  position: relative;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.sectionConfig .linkC #topSection p:nth-child(1)::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: -45vw;
+  right: 200%;
+  border-top: 1px #ececec solid;
+  pointer-events: none;
+}
+.sectionConfig .linkC #topSection p:nth-child(1)::after {
+  content: "";
+  position: absolute;
+  background: url(assets/IconCopy.png) right/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -200%;
+  right: 100%;
+  pointer-events: none;
+}
+.sectionConfig .linkC #topSection p:nth-child(2) {
+  position: relative;
+  margin-left: 15vmin;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.sectionConfig .linkC #topSection p:nth-child(2)::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: -14vmin;
+  right: 140%;
+  border-top: 1px #ececec solid;
+  pointer-events: none;
+}
+.sectionConfig .linkC #topSection p:nth-child(2)::after {
+  content: "";
+  position: absolute;
+  background: url(assets/Iconfetch.png) right/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -200%;
+  right: 105%;
+  pointer-events: none;
+}
+.sectionConfig .linkC #bottomSection {
+  height: calc(100% - 3vmin);
+  background: white;
+  color: black;
+  position: relative;
+  padding: 5vmin;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+.sectionConfig .linkC #bottomSection a {
+  color: black;
+  display: -webkit-box;
+  -webkit-line-clamp: 10; /* number of lines to show */
+  line-clamp: 10;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  -webkit-user-select: all;
+  -ms-user-select: all;
+  user-select: all;
+}
+
+.sectionConfig .linkC #bottomSection::before {
+  content: "";
+  position: absolute;
+  border: 1px white solid;
+  top: -0.5vmin;
+  bottom: -0.5vmin;
+  left: -0.5vmin;
+  right: -0.5vmin;
+  pointer-events: none;
+}
+
+@media only screen and (max-width: 576px) {
+  .sectionConfig .mainContainer {
+    flex-direction: column;
+  }
+  .sectionConfig .buttonC {
+    width: 100%;
+  }
+
+  .sectionConfig .linkC {
+    width: 100%;
+  }
+}
+
+.sectionConfig * {
+  transition: ease 0.1s;
+}
+.sectionConfig .clickedButton {
+  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
+  margin-left: 5%;
+  position: relative;
+}
+.sectionConfig .clickedButton::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: -10%;
+  right: 102%;
+  border: 1px #ececec solid;
+
+  animation-name: animation2;
+  animation-duration: 0.4s;
+}
+
+@keyframes animation2 {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: -10%;
+  }
+}
+.sectionDownload {
+  position: relative;
+  background: #131313;
+  color: #ececec;
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  height: fit-content;
+  margin-top: 5vh;
+  display: flex;
+  align-items: center;
+  padding: 30vmin 0 10vmin 0;
+  filter: invert(1);
+}
+.sectionDownload > p {
+  position: absolute;
+  top: 8%;
+  left: 10%;
+  font-size: clamp(4rem, 15vmin, 100rem);
+  line-height: 0.8;
+}
+.sectionDownload .MainButtonHolder {
+  background-color: #3f4a2d;
+  width: 70%;
+  padding: 10vh 0;
+  display: flex;
+  flex-direction: row;
+}
+.sectionDownload .secondaryButton {
+  margin-left: 10vw;
+  text-transform: none;
+}
+.sectionDownload .secondaryButton a {
+  color: #ececec;
+  font-size: clamp(1.8rem, 2.5vmax, 100rem);
+}
+.sectionDownload .MainButtonHolder div {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+}
+.sectionDownload .MainButtonHolder button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: clamp(2rem, 3vmax, 100rem);
+  text-transform: uppercase;
+  text-align: left;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+@media only screen and (max-width: 576px) {
+  .sectionDownload .MainButtonHolder {
+    width: 100%;
+    margin: 3vmin;
+  }
+}
+
+.sectionDownload * {
+  transition: ease 0.1s;
+}
+.sectionDownload .clickedButton {
+  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
+  margin-left: 10%;
+  position: relative;
+}
+.sectionDownload .clickedButton::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: -30%;
+  right: 105%;
+  border: 1px #ececec solid;
+
+  animation-name: animation1;
+  animation-duration: 0.4s;
+}
+
+@keyframes animation1 {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: -30%;
+  }
+}
+
+/* footer */
+
+.footer {
+  padding: 15vmin 0 3vmin 0;
+  text-align: center;
+  font-family: YekanBakhFaNum;
+}
+
+.social-links {
+  margin-bottom: 1vmin;
+}
+
+.social-links a {
+  color: #333;
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #007bff;
+}
+
+.footer-rights {
+  font-size: 14px;
+  color: #888;
+}
