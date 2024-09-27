@@ -1,0 +1,90 @@
+.sectionDownload {
+  position: relative;
+  background: #131313;
+  color: #ececec;
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  height: fit-content;
+  margin-top: 5vh;
+  display: flex;
+  align-items: center;
+  padding: 30vmin 0 10vmin 0;
+  filter: invert(1);
+}
+.sectionDownload > p {
+  position: absolute;
+  top: 8%;
+  left: 10%;
+  font-size: clamp(4rem, 15vmin, 100rem);
+  line-height: 0.8;
+}
+.sectionDownload .MainButtonHolder {
+  background-color: #3f4a2d;
+  width: 70%;
+  padding: 10vh 0;
+  display: flex;
+  flex-direction: row;
+}
+.sectionDownload .secondaryButton {
+  margin-left: 10vw;
+  text-transform: none;
+}
+.sectionDownload .secondaryButton a {
+  color: #ececec;
+  font-size: clamp(1.8rem, 2.5vmax, 100rem);
+}
+.sectionDownload .MainButtonHolder div {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+}
+.sectionDownload .MainButtonHolder button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: clamp(2rem, 3vmax, 100rem);
+  text-transform: uppercase;
+  text-align: left;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: pointer;
+}
+@media only screen and (max-width: 576px) {
+  .sectionDownload .MainButtonHolder {
+    width: 100%;
+    margin: 3vmin;
+  }
+}
+
+.sectionDownload * {
+  transition: ease 0.1s;
+}
+.sectionDownload .clickedButton {
+  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
+  margin-left: 10%;
+  position: relative;
+}
+.sectionDownload .clickedButton::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  left: -30%;
+  right: 105%;
+  border: 1px #ececec solid;
+
+  animation-name: animation1;
+  animation-duration: 0.4s;
+}
+
+@keyframes animation1 {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: -30%;
+  }
+}

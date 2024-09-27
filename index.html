@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        @font-face {
+            font-family: "LeagueGothic";
+            src: url("assets/LeagueGothic.woff2") format("woff2");
+        }
+
+        @font-face {
+            font-family: "YekanBakhFaNum";
+            src: url("assets/YekanBakhFaNum-Regular.woff2") format("woff2");
+            font-weight: 400;
+        }
+
+        @font-face {
+            font-family: "YekanBakhFaNum";
+            src: url("assets/YekanBakhFaNum-Fat.woff2") format("woff2");
+            font-weight: 1000;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0%;
+            padding: 0%;
+        }
+
+        body,
+        html {
+            margin: 0%;
+            padding: 0%;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background-color: #ececec;
+        }
+
+        main {
+
+            background-color: #ececec;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #c5c3a8
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #22272c
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #000
+        }
+
+        ::-moz-selection {
+            color: #fff;
+            background: #15181b
+        }
+
+        ::selection {
+            color: #fff;
+            background: #15181b
+        }
+
+        ::-moz-selection {
+            color: rgb(0, 0, 0);
+            background: rgb(177, 138, 70);
+        }
+
+        ::selection {
+            color: rgb(0, 0, 0);
+            background: rgb(177, 138, 70);
+        }
+    </style>
+    <link rel="stylesheet" href="sectionHero.css" />
+    <link rel="stylesheet" href="sectionDownload.css" />
+    <link rel="stylesheet" href="sectionConfig.css" />
+    <link rel="stylesheet" href="sectionStructure.css">
+</head>
+
+<body>
+    <div id="smooth-wrapper">
+        <main id="smooth-content">
+            <section class="sectionHero">
+                <div class="navbarHolder">
+                    <p id="ButtonConfigSection">دریافت کانفیگ</p>
+                    <p id="ButtonDownloadSection">دانلود نرم‌افزار</p>
+                </div>
+                <div class="TitleHolder">
+                    <div id="hereTitleTop">
+                        <div>
+                            <div id="heroText">free</div>
+                            <div></div>
+                        </div>
+                        <div>v2ray</div>
+                    </div>
+                    <div>collector</div>
+                </div>
+                <div class="imageHolder">
+                    <div id="github">
+                        <p>github project</p>
+                    </div>
+                    <div id="IBOX">
+                        <p>IBOX (Creator)</p>
+                    </div>
+                    <img src="assets/cute_robotic_cat-6.png" alt="" />
+                </div>
+            </section>
+            <section class="sectionDownload" id="sectionDownload">
+                <p>download v2ray application</p>
+                <div class="MainButtonHolder">
+                    <div>
+                        <button onclick="DownloadV2ray('windows')">windows</button>
+                        <button onclick="DownloadV2ray('android')">android</button>
+                        <button onclick="DownloadV2ray('ios')">ios</button>
+                        <button onclick="DownloadV2ray('MacOS')">MacOS</button>
+                        <button onclick="DownloadV2ray('linux')">linux</button>
+                    </div>
+                    <div class="secondaryButton"></div>
+                </div>
+            </section>
+            <section class="sectionConfig">
+                <p>دریافت کانفیگ</p>
+                <div class="mainContainer">
+                    <div class="buttonC">
+                        <button onclick="ConfigLink('mix')">mix</button>
+                        <button onclick="ConfigLink('reality')">reality</button>
+                        <button onclick="ConfigLink('vless')">vless</button>
+                        <button onclick="ConfigLink('vmess')">vmess</button>
+                        <button onclick="ConfigLink('shadowsocks')">shadowsocks</button>
+                        <button onclick="ConfigLink('trojan')">trojan</button>
+                    </div>
+                    <div class="linkC">
+                        <div id="topSection">
+                            <p onclick="copyLink(this)">copy</p>
+                            <p onclick="fetchLink(this)">fetch link</p>
+                        </div>
+                        <div id="bottomSection"></div>
+                        <div style="opacity: 0;" id="TextInput"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src='https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/ScrollSmoother.min.js'></script>
+    <script src="https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/SplitText.min.js"></script>
+    <script src='https://cdn.glitch.global/8352fc0e-bebe-4680-ae0b-269da8b54259/CSSRulePlugin.min.js'></script>
+    </script>
+    <script src="app.js"></script>
+</body>
+
+</html>

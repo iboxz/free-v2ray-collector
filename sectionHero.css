@@ -1,0 +1,233 @@
+.sectionHero {
+  color: #222;
+
+  display: grid;
+  grid-template-columns: repeat(5, 50%);
+  grid-template-rows: repeat(5, auto);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+
+  width: 100%;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/* navbarHolder --------------------------------- */
+.sectionHero .navbarHolder {
+  grid-area: 1 / 1 / 2 / 3;
+  font-family: "YekanBakhFaNum";
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: flex-end;
+  column-gap: 5vmin;
+  padding-right: 5vmin;
+  padding-top: 5vmin;
+  font-size: clamp(0.8rem, 1.1vw, 100rem);
+}
+.sectionHero .navbarHolder > p {
+  cursor: pointer;
+  border: 0.1vmin solid black;
+  border-radius: 1vmin;
+  padding: 0.2vmin 3vmin;
+}
+/* imageHolder --------------------------------- */
+.sectionHero .imageHolder {
+  grid-area: 2 / 2 / 3 / 3;
+  width: 100%;
+
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  font-size: clamp(1.5rem, 4vmin, 100rem);
+  white-space: nowrap;
+  color: black;
+  position: relative;
+  /* filter: invert(100%); */
+}
+.sectionHero .imageHolder::before {
+  content: "";
+  position: absolute;
+  height: 20vmax;
+  width: 70vw;
+  top: 25%;
+  right: 0%;
+
+  background: rgba(239, 122, 37, 0.72);
+  z-index: -1;
+}
+.sectionHero .imageHolder > img {
+  width: 100%;
+  object-fit: contain;
+  padding: 10%;
+}
+
+.sectionHero .imageHolder #github {
+  width: 25vmax;
+  padding: 1vmin 10vmin;
+
+  margin: 0%;
+  border-radius: 1vmin;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(9.199999809265137px);
+
+  position: absolute;
+  right: 0%;
+  top: 65%;
+  transform: translateY(-60%);
+  z-index: 5;
+
+  cursor: pointer;
+}
+.sectionHero .imageHolder #github p {
+  position: relative;
+  margin: 0%;
+}
+
+.sectionHero .imageHolder #github p::before {
+  content: "";
+  position: absolute;
+  background: url(assets/IconGithub.svg) center/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -8vmin;
+  width: 8vmin;
+}
+.sectionHero .imageHolder #IBOX {
+  width: 25vmax;
+  padding: 1vmin 10vmin;
+
+  margin: 0%;
+  border-radius: 1vmin;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(9.199999809265137px);
+
+  position: absolute;
+  right: 0%;
+  top: 65%;
+  transform: translateY(60%);
+  z-index: 6;
+
+  cursor: pointer;
+}
+.sectionHero .imageHolder #IBOX p {
+  position: relative;
+  margin: 0%;
+}
+
+.sectionHero .imageHolder #IBOX p::before {
+  content: "";
+  position: absolute;
+  background: url(assets/firstIBOXeye.gif) center/contain no-repeat;
+
+  top: 0%;
+  bottom: 0%;
+  left: -8vmin;
+  width: 8vmin;
+}
+/* TitleHolder --------------------------------- */
+.sectionHero .TitleHolder {
+  height: fit-content;
+  width: 100%;
+
+  font-family: "LeagueGothic";
+  text-transform: uppercase;
+  grid-area: 2 / 1 / 3 / 2;
+
+  display: grid;
+  gap: 0px 0px;
+
+  width: min-content;
+  margin: 10vmin;
+}
+
+.sectionHero #hereTitleTop {
+  width: min-content;
+}
+.sectionHero #hereTitleTop > div:nth-child(2) {
+  /* letter-spacing: 2px;
+    line-height: 1.3; */
+  line-height: 0.8;
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  overflow: hidden;
+  font-size: clamp(8rem, 20vw, 100rem);
+}
+.sectionHero #hereTitleTop > div:nth-child(1) {
+  display: flex;
+  flex-direction: row;
+}
+
+.sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
+  font-size: clamp(3rem, 6vw, 100rem);
+  line-height: 0.9;
+}
+
+.sectionHero #hereTitleTop div:nth-child(1) div:nth-child(2) {
+  background: url("assets/hero-assets.jpg") center/cover no-repeat;
+
+  margin-left: 2vh;
+  margin-right: 100%;
+  border-radius: 100vh;
+  width: 100%;
+}
+
+.sectionHero #hereTitleTop + div {
+  height: fit-content;
+  font-size: clamp(3rem, 11.5vw, 100rem);
+  line-height: 0.8;
+  height: fit-content;
+  overflow: hidden;
+}
+
+@media only screen and (max-width: 576px) {
+  .sectionHero {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(5, auto);
+  }
+  .sectionHero .navbarHolder {
+    grid-area: 3 / 1 / 4 / 2;
+    justify-content: space-around;
+    column-gap: 0;
+    padding-right: 0;
+  }
+  .sectionHero .imageHolder {
+    grid-area: 2 / 1 / 3 / 2;
+  }
+  .sectionHero .TitleHolder {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+  .sectionHero .TitleHolder {
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+  }
+
+  .sectionHero .imageHolder > img {
+    padding: 0;
+  }
+
+  /* hereTitleTop ----------------- */
+  .sectionHero #hereTitleTop div:nth-child(2) {
+    font-size: clamp(7rem, 35vw, 100rem);
+    width: fit-content;
+    line-height: 0.8;
+  }
+
+  .sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
+    font-size: clamp(2rem, 5vw, 100rem);
+    line-height: 0.9;
+  }
+  .sectionHero #hereTitleTop + div {
+    height: fit-content;
+    writing-mode: vertical-rl;
+    font-size: clamp(2.35rem, 11vw, 100rem);
+    width: min-content;
+    line-height: 1.2;
+  }
+
+  .sectionHero .navbarHolder {
+    padding-top: 10vmin;
+  }
+}
