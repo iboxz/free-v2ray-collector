@@ -1,4 +1,4 @@
- vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?path=/websocket&security=tls&alpn=http/1.1&encryption=none&host=st-gb-1.brocdn.com&fp=chrome&type=ws&sni=st-gb-1.brocdn.com#US🇺🇸
+ vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?path=/websocket&security=tls&alpn=http/1.1&encryption=none&host=st-gb-1.brocdn.com&fp=chrome&type=ws&sni=st-gb-1.brocdn.com#CA🇨🇦
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.131:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp050KvBgB.eHsAnDnS10.iR#US🇺🇸
 
@@ -30,12 +30,6 @@ vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=/&securi
 
 vless://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=/&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#FR🇫🇷
 
-vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&authority=&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=28f58957#IT🇮🇹
-
-vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?path=/&security=tls&encryption=none&host=pardazeshvpn-tg70.pages.dev&type=ws&sni=pardazeshvpn-tg70.pages.dev#INT🌍
-
-vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&alpn=h2,http/1.1&encryption=none&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#IT🇮🇹
-
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:38971?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-117@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
@@ -62,9 +56,9 @@ vless://6a5fb830-a114-410e-df1f-9c36f841dc41@unlimiteddev.fastly80-3.hosting-ip.
 
 vless://6a5fb830-a114-410e-df1f-9c36f841dc41@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
 
-vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#CA🇨🇦
+vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
-vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#CA🇨🇦
+vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
 vless://43e585a6-4369-4502-c459-ac933f70c495@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
 
