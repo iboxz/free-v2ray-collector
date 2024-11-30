@@ -1,4 +1,6 @@
- ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
+ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
 
@@ -52,7 +54,7 @@ vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&e
 
 vless://IGEShW5kexUwmDGLjhnK@77.73.67.216:433?security=reality&encryption=none&pbk=LI5VU2h1LyAVbB-kDvCFDMmS7cRRUKQR8CxSRYt-LWM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=spb.hola-git.ru&sid=822c85ff#RU🇷🇺
 
-vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=/&security=tls&encryption=none&host=pardazeshvpn-tg62.pages.dev&type=ws&sni=pardazeshvpn-tg62.pages.dev#INT🌍
+vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=/&security=tls&encryption=none&host=pardazeshvpn-tg62.pages.dev&type=ws&sni=pardazeshvpn-tg62.pages.dev#US🇺🇸
 
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=/&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#INT🌍
 
@@ -96,11 +98,5 @@ vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&t
 
 vless://3e0f091c-7895-4582-a9a5-3e9ee9ea49c0@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
-vless://43e585a6-4369-4502-c459-ac933f70c495@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
-
-vless://43e585a6-4369-4502-c459-ac933f70c495@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
-
-vless://ca2a61db-d58f-4615-f57a-31f69a0eb39c@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
-
-vless://ca2a61db-d58f-4615-f57a-31f69a0eb39c@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
+trojan://Channel-VPNCUSTOMIZE@104.17.234.12:443?type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2560&security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&fragment=50-100,10-20,tlshello#INT🌍
 
