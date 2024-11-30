@@ -28,8 +28,6 @@ vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=/&security=
 
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=/&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#INT🌍
 
-vless://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=/&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#FR🇫🇷
-
 vless://Parsashonam-118@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-118@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
@@ -80,5 +78,5 @@ vless://1cb61814-12c0-4302-8514-254c1ccc04f2@unlimiteddev.fastly80-2.hosting-ip.
 
 vless://856a737b-a69b-4f2c-fd68-682e22fc7f13@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
-vless://856a737b-a69b-4f2c-fd68-682e22fc7f13@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
+vless://856a737b-a69b-4f2c-fd68-682e22fc7f13@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#CA🇨🇦
 
