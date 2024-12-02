@@ -4,8 +4,6 @@ vless://DIGIV2RAY@www.speedtest.net:2095?path=/tm-Digiv2-__teldIGIv2__-DIGIV&sec
 
 vless://cfcd45b7-46fe-42fa-8254-da6710a51db0@65.109.167.10:58880?security=reality&encryption=none&pbk=MTopCrSKPLCi1jsL4bvu84pQd6jxsWapeZporc61m1k&headerType=none&fp=random&spx=/&type=tcp&sni=yahoo.com&sid=8c679e503bbff055#FI🇫🇮
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
 
 vless://f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?path=/Omid?ed=2560&security=none&encryption=none&host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#SE🇸🇪
@@ -48,7 +46,7 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.131:443?mode=gun&security
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp050KvBgB.eHsAnDnS10.iR#US🇺🇸
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#US🇺🇸
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#CH🇨🇭
 
@@ -86,9 +84,9 @@ vless://e84de5d0-f69c-454a-a61b-bceae745e14f@purina.rs:443?path=ws/community/gr?
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
 
-vless://ID-ViraV2ray-7539@104.19.15.10:2095?path=digikala.com/login/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#CA🇨🇦
+vless://ID-ViraV2ray-7539@104.19.15.10:2095?path=digikala.com/login/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#INT🌍
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#CA🇨🇦
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?security=reality&encryption=none&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=4048A3da#AE🇦🇪
 
