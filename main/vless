@@ -30,7 +30,7 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.131:443?mode=gun&security
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp050KvBgB.eHsAnDnS10.iR#US🇺🇸
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#US🇺🇸
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security=reality&encryption=none&authority=&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&fp=firefox&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=28f58957#IT🇮🇹
 
@@ -44,9 +44,9 @@ vless://feb6f54a-1c99-4281-b0d4-113765e70c61@93.185.163.238:8082?path=media/down
 
 vless://e84de5d0-f69c-454a-a61b-bceae745e14f@purina.rs:443?path=ws/community/gr?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=ammar.ir&fp=chrome&type=ws&sni=purina.rs#US🇺🇸
 
-vless://ID-ViraV2ray-7539@104.19.15.10:2095?path=digikala.com/login/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#CA🇨🇦
+vless://ID-ViraV2ray-7539@104.19.15.10:2095?path=digikala.com/login/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#INT🌍
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#CA🇨🇦
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?security=reality&encryption=none&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=4048A3da#AE🇦🇪
 
