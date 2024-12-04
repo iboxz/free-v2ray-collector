@@ -60,7 +60,7 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.131:443?mode=gun&security
 
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp050KvBgB.eHsAnDnS10.iR#NL🇳🇱
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#CA🇨🇦
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@speedtest.net:80?path=/&security=none&encryption=none&host=MOSI-MOSIV2.COM&type=ws#US🇺🇸
 
