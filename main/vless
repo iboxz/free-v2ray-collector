@@ -26,9 +26,9 @@ vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=/&securit
 
 vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=/&security=tls&encryption=none&host=wss.ahmadi4ux.ir&fp=firefox&type=ws&sni=wss.ahmadi4ux.ir#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
 vless://9e3d07c0-4103-4bd6-80f3-457fa6160184@185.77.96.75:39411?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
 
@@ -36,7 +36,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.10:587?path=/?ed=2560&s
 
 vless://f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?path=/Omid?ed=2560&security=none&encryption=none&host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws#SE🇸🇪
 
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#CA🇨🇦
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.182.136.181:2222?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#IR🇮🇷
 
@@ -52,7 +52,7 @@ vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?security=re
 
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&alpn=h2,http/1.1&encryption=none&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=f77e5398#IT🇮🇹
 
-vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=/REvilxXx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#INT🌍
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053?path=/REvilxXx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=EDGETunnel-AMl.pages.DEV&fp=safari&type=ws&sni=EDGETunnel-AMl.pages.DEV#US🇺🇸
 
 vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?path=/websocket&security=tls&alpn=http/1.1&encryption=none&host=st-gb-1.brocdn.com&fp=chrome&type=ws&sni=st-gb-1.brocdn.com#INT🌍
 
@@ -70,7 +70,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=t
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
-vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#SE🇸🇪
+vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#INT🌍
 
 vless://telegram-id-ArV2ray@arv2ry.fastly80-2.hosting-ip.com:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80&security=none&encryption=none&host=fem2sowk.net&type=ws#US🇺🇸
 
