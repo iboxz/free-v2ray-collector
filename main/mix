@@ -32,7 +32,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=/?ed=2560&se
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
 
 vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=lc86.lebasnoo.ir.&type=ws#SE🇸🇪
 
@@ -82,16 +82,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#DE🇩🇪
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#DE🇩🇪
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig9.usecharge.ir:443#INT🌍
 
 vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@speedtest.net:80?path=/&security=none&encryption=none&host=MOSI-MOSIV2.COM&type=ws#US🇺🇸
@@ -116,6 +106,12 @@ vless://Parsashonam-119@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@cdnplus31.mandirectdom.shop:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#US🇺🇸
 
+vless://Parsashonam-121@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-121@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
+
+vless://Parsashonam-121@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+
 vless://Parsashonam-120@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-120@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
@@ -129,6 +125,14 @@ vless://Parsashonam-119@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 vless://Parsashonam-119@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://7bb5f35d-0041-42eb-cacc-916a6b921023@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
+
+vless://7bb5f35d-0041-42eb-cacc-916a6b921023@visa.com.co:80?encryption=none&security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.UNLIMITEDDEV.unlimiteddev.community&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#INT🌍
+
+vless://b710d95e-1841-4450-955b-cb5cdabb5ef2@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
+
+vless://b710d95e-1841-4450-955b-cb5cdabb5ef2@104.17.234.12:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
 vless://698131bd-1146-415a-e2b2-f8f5fc905a79@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
 
