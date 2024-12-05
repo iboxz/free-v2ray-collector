@@ -32,7 +32,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=/?ed=2560&se
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
 vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=lc86.lebasnoo.ir.&type=ws#SE🇸🇪
 
@@ -96,7 +96,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=t
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
-vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#SE🇸🇪
+vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#INT🌍
 
 vless://telegram-id-ArV2ray@arv2ry.fastly80-2.hosting-ip.com:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80&security=none&encryption=none&host=fem2sowk.net&type=ws#US🇺🇸
 
@@ -149,12 +149,4 @@ vless://93d1e628-e14a-4c00-feed-df69dcfc78bd@visa.com.co:80?encryption=none&secu
 vless://e231f42b-a384-4b50-d1a7-1c5c27c4237a@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
 
 vless://e231f42b-a384-4b50-d1a7-1c5c27c4237a@104.17.234.12:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
-
-vless://d432ad3b-5ef4-4b9e-986b-2b237cd0c9b5@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
-
-vless://d432ad3b-5ef4-4b9e-986b-2b237cd0c9b5@151.101.194.133:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
-
-vless://b2d763b2-4f58-4f50-cf1c-a53ddfaa820d@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
-
-vless://b2d763b2-4f58-4f50-cf1c-a53ddfaa820d@104.17.234.12:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
