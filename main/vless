@@ -26,7 +26,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=/?ed=2560&se
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
 vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=lc86.lebasnoo.ir.&type=ws#SE🇸🇪
 
@@ -70,11 +70,11 @@ vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@speedtest.net:80?path=/&security=no
 
 vless://TELEGRAM-ServerNett@[2a01:4f8:c17:1cd7::1]:54467?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
-vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#SE🇸🇪
+vless://2541604d-62fb-475f-94db-b2ef5e7d0a18@tun.ferdowsi.shop:2087?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&sni=g4.ferdowsi.shop#INT🌍
 
 vless://telegram-id-ArV2ray@arv2ry.fastly80-2.hosting-ip.com:80?path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80&security=none&encryption=none&host=fem2sowk.net&type=ws#US🇺🇸
 
@@ -97,6 +97,14 @@ vless://Parsashonam-119@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 vless://Parsashonam-119@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://698131bd-1146-415a-e2b2-f8f5fc905a79@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
+
+vless://698131bd-1146-415a-e2b2-f8f5fc905a79@visa.com.co:80?encryption=none&security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.UNLIMITEDDEV.unlimiteddev.community&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#INT🌍
+
+vless://da71779c-a6ec-4419-94e8-f402da0053b4@104.17.234.128:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&encryption=none#INT🌍
+
+vless://da71779c-a6ec-4419-94e8-f402da0053b4@104.17.234.12:8080?security=none&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=join.bede.UNLIMITEDDEV.www.speedtest.net.de.Abrha.co.sabadyt.ir&encryption=none#INT🌍
 
 vless://93d1e628-e14a-4c00-feed-df69dcfc78bd@unlimiteddev.fastly80-3.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#US🇺🇸
 
