@@ -26,11 +26,11 @@ vless://81ea9859-804d-4307-9fd5-c5648375dc26@46.202.152.9:53723?security=none&en
 
 vless://81ea9859-804d-4307-9fd5-c5648375dc26@46.202.152.9:53723?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.31:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
 
 vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=lc86.lebasnoo.ir.&type=ws#SE🇸🇪
 
@@ -42,9 +42,9 @@ vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=/&securit
 
 vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=/&security=tls&encryption=none&host=wss.ahmadi4ux.ir&fp=firefox&type=ws&sni=wss.ahmadi4ux.ir#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=/?ed=2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#CA🇨🇦
 
 vless://9e3d07c0-4103-4bd6-80f3-457fa6160184@185.77.96.75:39411?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
 
