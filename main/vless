@@ -26,15 +26,15 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@japan.com:2053?path=/?ed=2560&secur
 
 vless://6416f6e7-d71a-4b5f-be6d-4777f0cf288e@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gco.gov.qa:8443?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gco.gov.qa:8443?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#CA🇨🇦
 
 vless://de6434f6-1f9d-4917-9c14-86fdcc4cd16b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=hsdhvifubh6.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#ES🇪🇸
 
 vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gov.ua:2096?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gov.ua:2096?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#US🇺🇸
 
-vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@209.38.112.141:12345?security=reality&encryption=none&pbk=QDqpqvWPsDtooLg5PTHd2rmRfQhDJLf7-S5cUyFxUQk&headerType=none&fp=chrome&type=tcp&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=8e36c7e79b74a6fa#US🇺🇸
+vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@209.38.112.141:12345?security=reality&encryption=none&pbk=QDqpqvWPsDtooLg5PTHd2rmRfQhDJLf7-S5cUyFxUQk&headerType=none&fp=chrome&type=tcp&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=8e36c7e79b74a6fa#DE🇩🇪
 
 vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE🇩🇪
 
@@ -48,15 +48,21 @@ vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=/&security
 
 vless://08e9220b-a099-4628-a0ff-26885421642f@23.187.72.90:49510?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org#US🇺🇸
 
-vless://6842f2ae-8c18-4e30-8a42-d4632a849f98@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷
+vless://Chanell-hopev2ray@[2a01:4f8:c010:5c29::1]:2640?security=none&encryption=none&host=Zara.com&headerType=http&type=tcp#INT🌍
 
-vless://b9e935e3-6e39-41da-bf8e-2631e0c3f579@spd.fastly80-3.hosting-ip.com:80?path=/SPdnet?ed=2048&security=none&encryption=none&host=vamp.spdteam.ir.&type=ws#US🇺🇸
+vless://d154304e-ca84-416e-897d-3c9d17b00bd0@[2a01:4f8:1c1b:1891::1]:443?mode=gun&security=reality&encryption=none&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#INT🌍
 
-vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeWz.NeT&type=ws#US🇺🇸
+vless://TELEGRAM-NUFiLTER@nufilter.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Hajmoji216.neT&type=ws#US🇺🇸
 
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed&security=none&encryption=none&host=kazemi1zerofun.coM&type=ws#US🇺🇸
+vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@speedtest.net:80?path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#US🇺🇸
 
-vless://11a943c5-67a5-4b46-b124-e8274cb9ef6e@live.skornorth.com:443?path=/@custom_config?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=easy4all.com&fp=chrome&type=ws&sni=live.skornorth.com#ES🇪🇸
+vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@zmaoz.faculty.ucdavis.edu:443?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=tls&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
+
+vless://SVNTEAM@JOIN-SVNTEAM.fast.hosting-ip.com:80?path=/@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam?ed=2048&security=none&encryption=none&host=CloudFlare.JOIN-SVNTEAM.com&type=ws#US🇺🇸
+
+vless://bfb490c9-18d0-48a4-cb72-e4cc9002afde@zmaoz.faculty.ucdavis.edu:443?path=/olem/ws?ed=4096&security=tls&alpn=h2,http/1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#ES🇪🇸
+
+vless://Chanell-hopev2ray@[2a01:4f8:c010:5c29::1]:2640?security=none&encryption=none&host=Zara.com&headerType=http&type=tcp#INT🌍
 
 vless://Parsashonam-132@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -77,6 +83,10 @@ vless://Parsashonam-130@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 vless://Parsashonam-130@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://039a403d-1b62-4805-9d61-83da0aaa55f8@speedtest.net:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
+
+vless://039a403d-1b62-4805-9d61-83da0aaa55f8@zmaoz.faculty.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
 
 vless://99f0273f-b1ea-49d8-bfba-e8d9080492bc@speedtest.net:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
 
