@@ -46,7 +46,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@japan.com:2053?path=/?ed=2560&secur
 
 vless://6416f6e7-d71a-4b5f-be6d-4777f0cf288e@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gco.gov.qa:8443?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gco.gov.qa:8443?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#CA🇨🇦
 
 vless://de6434f6-1f9d-4917-9c14-86fdcc4cd16b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=hsdhvifubh6.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#ES🇪🇸
 
