@@ -54,7 +54,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.98:443?path=/?ed=2560&se
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@japan.com:2053?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@japan.com:2053?path=/?ed=2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#US🇺🇸
 
 vless://6416f6e7-d71a-4b5f-be6d-4777f0cf288e@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#DE🇩🇪
 
@@ -111,6 +111,12 @@ vless://TELEGRAM-NUFiLTER@nufilter.fastly80-2.hosting-ip.com:80?path=/telegram-N
 vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@speedtest.net:80?path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#US🇺🇸
 
 vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@zmaoz.faculty.ucdavis.edu:443?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=tls&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
+
+vless://SVNTEAM@JOIN-SVNTEAM.fast.hosting-ip.com:80?path=/@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam----@SvnTeam?ed=2048&security=none&encryption=none&host=CloudFlare.JOIN-SVNTEAM.com&type=ws#US🇺🇸
+
+vless://bfb490c9-18d0-48a4-cb72-e4cc9002afde@zmaoz.faculty.ucdavis.edu:443?path=/olem/ws?ed=4096&security=tls&alpn=h2,http/1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#ES🇪🇸
+
+vless://Chanell-hopev2ray@[2a01:4f8:c010:5c29::1]:2640?security=none&encryption=none&host=Zara.com&headerType=http&type=tcp#INT🌍
 
 vless://Parsashonam-134@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
