@@ -46,7 +46,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.gov.ua:2096?path=/?ed=2560&secu
 
 vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@209.38.112.141:12345?security=reality&encryption=none&pbk=QDqpqvWPsDtooLg5PTHd2rmRfQhDJLf7-S5cUyFxUQk&headerType=none&fp=chrome&type=tcp&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=8e36c7e79b74a6fa#DE🇩🇪
 
-vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE🇩🇪
+vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#INT🌍
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#INT🌍
 
