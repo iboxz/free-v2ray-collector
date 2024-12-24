@@ -56,13 +56,13 @@ vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@209.38.112.141:12345?security=reali
 
 vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE🇩🇪
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#CA🇨🇦
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#INT🌍
 
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=/telegram-proxy_mtm/?ed=2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#CA🇨🇦
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=/telegram-proxy_mtm/?ed=2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#INT🌍
 
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&encryption=none&host=meti-u9d.pages.dev&fp=chrome&type=ws&sni=meti-u9d.pages.dev#CA🇨🇦
+vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&encryption=none&host=meti-u9d.pages.dev&fp=chrome&type=ws&sni=meti-u9d.pages.dev#INT🌍
 
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#CA🇨🇦
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=/telegram-proxy_mtm/?ed=2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#INT🌍
 
 vless://204d63ae-51a8-4350-8395-d742c55bffda@fast.avandsecurity.sbs:41683?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
