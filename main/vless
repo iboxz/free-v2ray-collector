@@ -10,7 +10,7 @@ vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&se
 
 vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#US🇺🇸
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#INT🌍
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?path=/1jk0RN6A5M3aEMof&security=tls&alpn=http/1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#INT🌍
 
@@ -40,7 +40,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.101:443?path=/ProxyIP=P
 
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.98:443?path=/?ed=2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#US🇺🇸
 
-vless://SVNTEAM@wWw.SpeedTeSt.Net:8880?path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8080&security=none&encryption=none&host=JOIN.SVNTEAM.FreeConfigs.SVNTEAMsec.ip-ddns.com&type=httpupgrade#INT🌍
+vless://SVNTEAM@wWw.SpeedTeSt.Net:8880?path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8080&security=none&encryption=none&host=JOIN.SVNTEAM.FreeConfigs.SVNTEAMsec.ip-ddns.com&type=httpupgrade#CA🇨🇦
 
 vless://fd8082a0-7731-4772-9091-59ed9971088f@mmd.fast.hosting-ip.com:80?path=/PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
 
@@ -56,13 +56,11 @@ vless://Parsashonam-137@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 
 vless://Parsashonam-137@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://Parsashonam-136@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
-
-vless://Parsashonam-136@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
-
-vless://Parsashonam-136@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://3e6ec0b6-dee3-4669-b0dc-731a652a4a4a@151.101.1.6:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
+
+vless://3e6ec0b6-dee3-4669-b0dc-731a652a4a4a@zmaoz.faculty.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
 
 vless://3801078c-d5e5-49bd-aa69-b6374588220b@151.101.1.6:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
 
@@ -75,8 +73,4 @@ vless://2ab500f2-1ee2-4073-b79d-5400553348b6@zmaoz.faculty.ucdavis.edu:443?type=
 vless://2ab500f2-1ee2-4073-b79d-5400553348b6@151.101.1.6:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
 
 vless://2ab500f2-1ee2-4073-b79d-5400553348b6@zmaoz.faculty.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
-
-vless://1ad59ede-fb5b-470a-a1b9-4867e2560576@speedtest.net:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
-
-vless://1ad59ede-fb5b-470a-a1b9-4867e2560576@zmaoz.faculty.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
 
