@@ -8,9 +8,9 @@ vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&se
 
 vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#CA🇨🇦
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#INT🌍
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?path=/1jk0RN6A5M3aEMof&security=tls&alpn=http/1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#CA🇨🇦
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?path=/1jk0RN6A5M3aEMof&security=tls&alpn=http/1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#INT🌍
 
 vless://654538ef-5726-4076-82e3-af10f02debf2@bg.com:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
@@ -54,11 +54,17 @@ vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@209.38.112.141:12345?security=reali
 
 vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#DE🇩🇪
 
-vless://Chanell-hopev2ray@[2a01:4f8:c010:5c29::1]:2640?security=none&encryption=none&host=Zara.com&headerType=http&type=tcp#INT🌍
+vless://51fea0e7-4aa1-46f9-9e6c-9a64e2c88e8e@s14.fastly80-2.hosting-ip.com:80?path=/TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM-TELEGRAM-@PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
 
-vless://SVNTEAM@wWw.SpeedTeSt.Net:8880?path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8080&security=none&encryption=none&host=JOIN.SVNTEAM.FreeConfigs.SVNTEAMsec.ip-ddns.com&type=httpupgrade#INT🌍
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷
+
+vless://37ec7228-f4ea-4820-84ea-d4f101575851@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=hvwrfuerhetitugj44yhrthj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#ES🇪🇸
+
+vless://dcdef1eb-d219-451c-b9e6-9db194721c8c@[2a01:4f8:1c1b:1891::1]:443?mode=gun&security=reality&encryption=none&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#INT🌍
 
 vless://548de56a-cc35-4723-823c-c4422216a1d9@speedtest.net:80?path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#US🇺🇸
+
+vless://TELEGRAM-ServerNett@[2a01:4f8:c012:2a1c::1]:18577?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-138@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
