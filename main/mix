@@ -28,7 +28,7 @@ vless://af74b39a-d1c2-45b9-810a-951e52209672@bg.com:80?path=/?ed=2056&security=n
 
 vless://854f75f3-9a67-4b79-a010-b48d9230e99b@1b933cb11bb3d53b.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#US🇺🇸
 
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB🇬🇧
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷
 
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#GB🇬🇧
 
@@ -36,7 +36,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE�
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#FR🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#MD🇲🇩
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
 
@@ -50,7 +50,7 @@ vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&se
 
 vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#INT🌍
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.173:443?path=/freedom-1rj.pages.dev/?ed=2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#US🇺🇸
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?path=/1jk0RN6A5M3aEMof&security=tls&alpn=http/1.1&encryption=none&host=cloudflareiran1.pages.dev&fp=randomized&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#INT🌍
 
