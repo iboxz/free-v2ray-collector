@@ -12,9 +12,9 @@ vless://af74b39a-d1c2-45b9-810a-951e52209672@bg.com:80?path=/?ed=2056&security=n
 
 vless://854f75f3-9a67-4b79-a010-b48d9230e99b@1b933cb11bb3d53b.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#US🇺🇸
 
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB🇬🇧
 
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#FR🇫🇷
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#GB🇬🇧
 
 vless://ce7b5e36-a3a0-4f61-af4d-6ca132f892c5@deu.kitten-tube.com:443?security=reality&encryption=none&pbk=LRnxYf6GAqSZwr6JWbVSnq_pKW99mXJ5VjhtLJMzom0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5c75A51C#DE🇩🇪
 
