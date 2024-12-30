@@ -1,4 +1,8 @@
- ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#US🇺🇸
+ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig50.usecharge.ir:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#PL🇵🇱
 
@@ -11,10 +15,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#PL🇵🇱
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#US🇺🇸
-
-vless://f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
-
-vless://V2RAXX@speedtest.net:80?path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#US🇺🇸
 
@@ -54,7 +54,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE�
 
 vless://2add6241-8fe8-3922-8347-da25e8ced601@ger.aaaa.gay:443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#DE🇩🇪
 
-vless://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=cglx.ewqmeta.com#CA🇨🇦
+vless://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=cglx.ewqmeta.com#INT🌍
 
 vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@151.101.194.228:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#US🇺🇸
 
@@ -70,9 +70,9 @@ vless://af74b39a-d1c2-45b9-810a-951e52209672@bg.com:80?path=/?ed=2056&security=n
 
 vless://854f75f3-9a67-4b79-a010-b48d9230e99b@1b933cb11bb3d53b.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#US🇺🇸
 
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#FR🇫🇷
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB🇬🇧
 
-vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#FR🇫🇷
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
 
@@ -104,27 +104,23 @@ vless://7f72b445-2293-416b-b036-d6cd2fc7fa39@151.101.66.228:443?path=ws/?ed=2048
 
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#US🇺🇸
 
-vless://52539f87-739f-4f9e-bdb7-806bacf5577d@s14.fastly80-2.hosting-ip.com:80?path=/@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM---@PROXY_MTM---@PROXY_MTM---PROXY_MTM---PROXY_MTM---@PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
-
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?security=&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://TELEGRAM-NUFiLTER@fishlab.ucdavis.edu:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Doogh-nufilter.coM&type=ws#US🇺🇸
-
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=&encryption=none&host=mast-nufilter2.com&type=ws#US🇺🇸
-
-vless://65ea7896-d74f-4e5f-81ff-a3305a0ce2cd@speedtest.net:80?path=/vless?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI/?ed=2560&security=&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.nakdk.ir&type=ws#US🇺🇸
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#AE🇦🇪
-
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:9ff4::1]:29628?security=&encryption=none&headerType=none&type=tcp#INT🌍
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#GB🇬🇧
 
-vless://SAVTEAM9@live.989bull.com:443?path=/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443&security=tls&alpn=http/1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#ES🇪🇸
+vless://bd43999d-6b1f-442c-b7b3-b9c8dbc1531c@s14.fastly80-2.hosting-ip.com:80?path=/TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
 
-vless://Parsashonam-141@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#ES🇪🇸
+vless://bd43999d-6b1f-442c-b7b3-b9c8dbc1531c@mmd.fast.hosting-ip.com:80?path=/TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
 
-vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=tls&alpn=h2,http/1.1&encryption=none&host=mast-nufilter2.coM&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#ES🇪🇸
+vless://SAVTEAM10@live.989bull.com:443?path=/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443&security=tls&alpn=http/1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#ES🇪🇸
+
+vless://bd43999d-6b1f-442c-b7b3-b9c8dbc1531c@s14.fastly80-2.hosting-ip.com:80?path=/TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM?ed=2048&security=none&encryption=none&host=mmd.ir&type=ws#US🇺🇸
+
+vless://fab84a1b-1832-4f4e-ad95-4049ce54a9af@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=s1-join.kiava.live&fp=chrome&type=xhttp&sni=s1-join.kiava.live#INT🌍
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#AE🇦🇪
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN1BxUXBueWhzbnpLTnJt@admin.c3.havij.co:443#BH🇧🇭
 
 vless://Parsashonam-141@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -139,6 +135,10 @@ vless://Parsashonam-140@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2
 vless://Parsashonam-140@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://8dba9100-3aaa-4e50-a74b-bdea69059569@151.101.1.6:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
+
+vless://8dba9100-3aaa-4e50-a74b-bdea69059569@zmaoz.faculty.ucdavis.edu:443?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=zmaoz.faculty.ucdavis.edu#ES🇪🇸
 
 vless://210bfeb3-a59a-4479-8f74-cfcab2ae4edd@151.101.1.6:80?security=&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&encryption=none#US🇺🇸
 
