@@ -1,10 +1,18 @@
  vless://V2RAXX-@speedtest.net:80?path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#US🇺🇸
 
+vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&encryption=none&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
+
+vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
+
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦
+
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
+
 vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE🇩🇪
 
 vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE🇩🇪
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
 
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net&type=ws#US🇺🇸
 
@@ -37,14 +45,6 @@ vless://854f75f3-9a67-4b79-a010-b48d9230e99b@1b933cb11bb3d53b.fast.hosting-ip.co
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#GB🇬🇧
 
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#GB🇬🇧
-
-vless://ce7b5e36-a3a0-4f61-af4d-6ca132f892c5@deu.kitten-tube.com:443?security=reality&encryption=none&pbk=LRnxYf6GAqSZwr6JWbVSnq_pKW99mXJ5VjhtLJMzom0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5c75A51C#DE🇩🇪
-
-vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#US🇺🇸
-
-vless://654538ef-5726-4076-82e3-af10f02debf2@bg.com:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
-
-vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?path=/?ed=2056&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g9h.com&type=ws#US🇺🇸
 
 vless://TELEGRAM-NUFiLTER@fishlab.ucdavis.edu:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=&encryption=none&host=Doogh-nufilter.coM&type=ws#US🇺🇸
 
