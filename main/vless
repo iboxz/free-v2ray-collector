@@ -26,16 +26,6 @@ vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&e
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=google.com&type=ws#DE🇩🇪
 
-vless://528b1201-8b21-5bc2-bbce-5863731a4ac9@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#US🇺🇸
-
-vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#US🇺🇸
-
-vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@scp-fasttttly.tencent.su:80?path=/ws&security=none&encryption=none&host=scp-only.ws.com&type=ws#
-
-vless://telegram-gozargah-azadi@persian--k2k.gamebaz98.ir:7870?security=reality&encryption=none&pbk=jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=wordpress.org&sid=5cebd3fd#DE🇩🇪
-
-vless://022404e1-6083-48e1-beee-9048dda539bc@bwdraper.faculty.ucdavis.edu:443?path=/?ed=1024&security=tls&encryption=none&host=Cloud.majidpin.com&fp=chrome&type=ws&sni=bwdraper.faculty.ucdavis.edu#US🇺🇸
-
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&encryption=none&headerType=none&type=tcp#
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦
