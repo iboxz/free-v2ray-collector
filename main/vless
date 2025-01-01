@@ -1,8 +1,8 @@
- vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&encryption=none&headerType=none&type=tcp#
+ vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#US🇺🇸
+
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&encryption=none&headerType=none&type=tcp#
 
 vless://47b541d6-3ad7-45cb-ac22-77d559d73687@fre.alireza.com.tr:2087?security=none&seed=Dg28jJdm1b&encryption=none&headerType=none&type=kcp#FR🇫🇷
-
-vless://V2RAXX-@speedtest.net:80?path=/Telegram,V2RAXX,Telegram,?ed=2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#US🇺🇸
 
 vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&encryption=none&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
 
@@ -16,7 +16,7 @@ vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@outshop.bestshop10.ir:26745?securit
 
 vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE🇩🇪
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=none&encryption=none&headerType=none&type=tcp#CA🇨🇦
 
 vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net&type=ws#US🇺🇸
 
