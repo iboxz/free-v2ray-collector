@@ -2,8 +2,6 @@
 
 vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#US🇺🇸
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:15229?security=none&encryption=none&headerType=none&type=tcp#
-
 vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@faculty.ucdavis.edu:443?security=tls&encryption=none&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
 
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
