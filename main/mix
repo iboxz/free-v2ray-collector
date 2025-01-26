@@ -82,20 +82,6 @@ vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@kr06.ssr.ee:443?security=reality&en
 
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?security=reality&encryption=none&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#US🇺🇸
 
-vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#IR🇮🇷
-
-vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@rs1.vless.sitespeedtest.net:80?path=/vless?ed=2048&security=none&encryption=none&host=rs1.vless.sitespeedtest.net&type=ws#RS🇷🇸
-
-vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80?path=/vless?ed=2048&security=none&encryption=none&host=rs1.vless.sitespeedtest.net&type=ws#RS🇷🇸
-
-vmess://eyJhZGQiOiIyMC4yMTMuMjAuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMyMDZlMDIyLTM0YzYtNGZlMy1hMjMyLWI5YzA3YmEzMTY1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc3MTgiLCJwcyI6IkFVXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?security=reality&encryption=none&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#US🇺🇸
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
-
-vless://5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#JP🇯🇵
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@spb1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp#RU🇷🇺
