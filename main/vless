@@ -16,6 +16,12 @@ vless://41028f19-152d-480d-9367-f0915e5f9cc5@ww.speedmeter.life:80?path=/-LiV2ry
 
 vless://1cd20fd5-caca-47d6-8b35-4fbe05f8c1c7@zula.ir:8080?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,&host=chanel.kolacghi.ir.&security=none#US🇺🇸
 
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:8443?path=/&security=tls&encryption=none&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm#US🇺🇸
+
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetm.com:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=stackoverflow.com&sid=f785b38130e64177#US🇺🇸
+
+vless://66924fa3-47cf-4272-a290-9bd476ebc6cd@85.208.139.13:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=github.com#TH🇹🇭
+
 vless://a79f88dc-17e0-4438-92e7-f64e50154e0a@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE🇩🇪
 
 vless://b178ad90-5167-46af-9ed9-54ea713e057a@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#FI🇫🇮
@@ -51,14 +57,6 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mil-it.fromblancwithlove.com:8443?s
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@buh-ro-01.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp#RO🇷🇴
 
 vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#TR🇹🇷
-
-vless://d45deab2-5e28-4ca9-b594-20b2fe775cfa@swedeeen.mehrdadsadaf.com:30756?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=1300vless&sni=rosbalt.ru&sid=765e8e700426816c#US🇺🇸
-
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#TR🇹🇷
-
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=/?ed=2048&security=none&encryption=none&host=teleirani.ir&type=ws#US🇺🇸
-
-vless://a0e0fc1f-e056-4ca0-b0fe-3af4fecd70e1@45.55.212.210:443?security=reality&encryption=none&pbk=vi3w2Fhxm959AJySnMWGZwFLnppnLbAoFEZ9seJ8Ph8&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=036c2e0826c4#US🇺🇸
 
 vless://222c9ecc-21fd-4d26-a893-12d4b00ec0bc@ZuLa.ir:8080?path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#INT🌍
 
