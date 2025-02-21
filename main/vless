@@ -44,15 +44,15 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&secu
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=/9BX39ZVMZoLNZe35?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#INT🌍
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=/9BX39ZVMZoLNZe35?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#US🇺🇸
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/G9WiaAeAdacfio6X?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=randomized&type=ws&sni=hAsTi.frEEairLainEs.Com#INT🌍
 
@@ -90,6 +90,8 @@ vless://Parsashonam-179@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=no
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://2b91402d-68d2-42ea-b301-6bf2920693b7@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
+
 vless://f418e04e-4685-420d-92bb-7d919f8b9464@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://faa98649-d48f-4ba4-882c-c967f22cca88@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
@@ -99,8 +101,4 @@ vless://faa98649-d48f-4ba4-882c-c967f22cca88@fishlab.ucdavis.edu:443?type=ws&hos
 vless://1ea9f12f-cfab-400d-825c-aa70e3d6decc@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://1ea9f12f-cfab-400d-825c-aa70e3d6decc@fishlab.ucdavis.edu:443?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#US🇺🇸
-
-vless://1ea9f12f-cfab-400d-825c-aa70e3d6decc@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
-
-vless://1ea9f12f-cfab-400d-825c-aa70e3d6decc@fishlab.ucdavis.edu:443?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#US🇺🇸
 
