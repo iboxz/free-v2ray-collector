@@ -30,23 +30,23 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80?path=/&security=non
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.212.64:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/MTMVPN/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/MTMVPN/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#US🇺🇸
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
