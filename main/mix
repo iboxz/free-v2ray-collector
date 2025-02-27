@@ -32,11 +32,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/?ed=2560&sec
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80?path=/&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#NL🇳🇱
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80?path=/&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#US🇺🇸
 
@@ -104,7 +104,7 @@ vless://TELEGRAM-NUFiLTER-b1a5272cb242@NUFiLTER.fastly80.hosting-ip.com:80?path=
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=/Telegram-mtmvpn?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://49cfd6a5-d373-4306-a137-64eb31cb9217@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy#DE🇩🇪
 
@@ -118,11 +118,11 @@ vless://Parsashonam-180@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=no
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://efac8004-0c48-47b1-b7ae-bf4925396911@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
+
 vless://f14ab857-3641-42ea-8427-2348e02be8c2@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://b0d66453-c4a9-436e-8768-6bdcdfda4629@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://9b1dd17c-7bc5-4845-8408-e1a542a2b70c@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
-
-vless://9379076a-4dce-4d81-aa34-77688f176474@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
