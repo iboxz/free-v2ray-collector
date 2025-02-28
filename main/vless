@@ -32,11 +32,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&secu
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/telegram@V2ray_Alpha/?ed=2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560/V2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560/V2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638759005394000330.oslo-mpl-eaj.info:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#CA🇨🇦
 
@@ -110,13 +110,19 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752843863.paris-mpl-dra.in
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?path=/HHckQNclCR9cRpvM?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=hasTI.freeAirlAineS.COm&fp=randomized&type=ws&sni=hAsTI.FreEAIRlaiNES.COM#INT🌍
 
-vless://TELEGRAM-NUFiLTER-b1a5272cb242@NUFiLTER.fastly80.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=1.nufilter-telegram.ir&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=/Telegram-mtmvpn?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://TELEGRAM-NUFiLTER-1a8d87399f56@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=4.nufilter-telegram.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://ec6d7f6c-e17a-45a4-8f84-8fc6e75364ba@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#US🇺🇸
 
-vless://49cfd6a5-d373-4306-a137-64eb31cb9217@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy#DE🇩🇪
+vless://f3f395e1-11ca-42a3-9884-dc513dd6e3df@mehdi.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=BqyR1J0knEz_ExHwER9WKfxCeoMduUlb4oCGTez7-yg&fp=chrome&spx=/&type=grpc&serviceName=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&sni=www.cdn77.com&sid=6b#DE🇩🇪
+
+vless://Parsashonam-180@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-181@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+
+vless://Parsashonam-181@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-180@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
