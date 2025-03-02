@@ -36,7 +36,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.175:8880?mode=gun&secur
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a19.bewface-smart.rest#CA🇨🇦
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a19.bewface-smart.rest#US🇺🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.174.232:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
@@ -131,4 +131,6 @@ vless://262baa16-f300-4bf2-b463-9868e5eb6fee@join.unlimiteddev.fastly80-3.hostin
 vless://5715c723-06f3-48a3-a05d-f09f19548707@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://efac8004-0c48-47b1-b7ae-bf4925396911@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
+
+vless://f14ab857-3641-42ea-8427-2348e02be8c2@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
