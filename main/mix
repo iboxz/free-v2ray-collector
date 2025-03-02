@@ -1,4 +1,8 @@
- vless://631cea31-f6e9-4b92-b5b5-59092455daa6@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
+ vless://f17df6fe-0548-4b9b-8af2-33bd90392298@hajlab.ucdavis.edu:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=none&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#US🇺🇸
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.116.25:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#DE🇩🇪
+
+vless://631cea31-f6e9-4b92-b5b5-59092455daa6@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560#US🇺🇸
 
@@ -38,21 +42,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.c
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.175:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a19.bewface-smart.rest#CA🇨🇦
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=a19.bewface-smart.rest#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.174.232:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
-vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#CA🇨🇦
+vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638759052694241499.vienna-lmn-eak.info:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
@@ -139,6 +143,8 @@ vless://Parsashonam-181@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&
 vless://Parsashonam-181@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://a6ffb252-9b92-4ea3-bfed-b0150fd74843@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://560b742d-7124-4f44-9187-fd5a278f2c77@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
