@@ -6,8 +6,6 @@ vless://1dd9c619-aac7-4c80-be42-c43d3a74f5f6@g.soskom.ir:11045?type=grpc&service
 
 vless://0b25e9f1-9aa6-43e1-b586-c6f642b9bcfe@ISV.fastly80-2.hosting-ip.com:80?path=/vless-ws&security=none&encryption=none&host=xcs.ir&fp=chrome&type=ws#US🇺🇸
 
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS29.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#INT🌍
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.175:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
