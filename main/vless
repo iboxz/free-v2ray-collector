@@ -1,4 +1,8 @@
- vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?security=tls&alpn=h2,http/1.1&encryption=none&host=redw.pooriam.ir&fp=chrome&type=ws&sni=REDw.pOOriam.Ir#US🇺🇸
+ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?encryption=none&security=none&type=grpc#FI🇫🇮
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?encryption=none&security=none&type=grpc#FI🇫🇮
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?security=tls&alpn=h2,http/1.1&encryption=none&host=redw.pooriam.ir&fp=chrome&type=ws&sni=REDw.pOOriam.Ir#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
@@ -12,11 +16,11 @@ vless://d7f8fb85-a467-4c31-850e-a439a65e12bb@g.soskom.ir:11045?type=grpc&service
 
 vless://390f5dbb-a820-4a53-8e0e-b21153f21262@tgju.org:80?encryption=none&security=none&type=ws&host=MagiCAL-FAcE.OnEEAT.CO.&path=/?ed=2048#US🇺🇸
 
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=aejfa.abuja-ghashang.org&type=ws&host=aejfa.abuja-ghashang.org&path=/morano#US🇺🇸
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=aejfa.abuja-ghashang.org&type=ws&host=aejfa.abuja-ghashang.org&path=/morano#CA🇨🇦
 
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?encryption=none&security=tls&sni=lpjen.ankara-halianian.org&type=ws&host=lpjen.ankara-halianian.org&path=/morano#US🇺🇸
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?encryption=none&security=tls&sni=lpjen.ankara-halianian.org&type=ws&host=lpjen.ankara-halianian.org&path=/morano#CA🇨🇦
 
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?encryption=none&security=tls&sni=tmnkg.aleppo-hipersonictodolist.info&type=ws&host=tmnkg.aleppo-hipersonictodolist.info&path=/morano#US🇺🇸
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?encryption=none&security=tls&sni=tmnkg.aleppo-hipersonictodolist.info&type=ws&host=tmnkg.aleppo-hipersonictodolist.info&path=/morano#CA🇨🇦
 
 vless://82e3d4d5-573e-4665-9a14-c4a98f02ac08@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=f319to.allgums.com&alpn=http/1.1&type=ws&host=f319to.allgums.com&path=/wss#US🇺🇸
 
@@ -76,11 +80,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638759052694241499.vienna-lmn-eak.i
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638752458298717294.madrid-lmn-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://TELEGRAM-NUFiLTER-fc54df693e22@nufilter.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=2.nuf-telegram.ir&type=ws#US🇺🇸
+vless://TELEGRAM-NUFiLTER-884fa7512446@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=2.nuf-telegram.ir&type=ws#US🇺🇸
 
-vless://TELEGRAM-NUFiLTER-c65f55669fe1@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=4.nuf-telegram.ir&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
-vless://bde33c35-9aea-41db-be04-a7b756b93fe1@s3.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=32v2F8Ymo35CC3Q9D-T0uUMCoz-bvtvl5aMYQ-kvCV8&fp=chrome&spx=/&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=33a68471e114bb72#INT🌍
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?path=/3um9NK8jwisKz35E?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#US🇺🇸
 
 vless://Parsashonam-185@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -105,8 +109,4 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 vless://ea92241d-dd9d-4b04-8f96-c7acfd3469eb@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://977a37f9-7d88-45b9-b286-df86379ccadd@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
-
-vless://c66b1fac-f708-4691-9c50-e8e8cffeffaf@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
-
-vless://ccf5ce22-2bb8-40e3-ab48-f6973ecaa3dc@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
