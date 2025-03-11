@@ -1,4 +1,6 @@
- vless://TELEGRAM-NUFiLTER-a8f0b955ecdc@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=3.nuf-telegram.ir&type=ws#US🇺🇸
+ vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@usa1sni.vpn-instagram.com:443?encryption=none&security=tls&sni=usa1sni.vpn-instagram.com&fp=firefox&type=ws&path=/#US🇺🇸
+
+vless://TELEGRAM-NUFiLTER-a8f0b955ecdc@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=3.nuf-telegram.ir&type=ws#US🇺🇸
 
 vless://V2RAXX-@join.SRCVPN.fastly80-3.hosting-ip.com:80?path=/Telegram,V2RAXX,Telegram,?ed=2048&alpn=@SRCVPN,@SRCVPN,@SRCVPN&host=V2RAXX.ir&type=ws#US🇺🇸
 
@@ -26,21 +28,17 @@ vless://4da451aa-ef72-4c61-b363-3e71c25110ad@s7.vact.ir:443?security=reality&enc
 
 vless://0f3af1cf-1220-462b-bf1a-ea5aabee2c47@s8.vact.ir:443?security=reality&encryption=none&pbk=-Klt3151vv7nNAJFA1XI73cfw8DUnKjIetrSLxXGBEw&fp=chrome&spx=/&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=83a3c1c336165ead#INT🌍
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?encryption=none&security=none&type=grpc#FI🇫🇮
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?encryption=none&security=none&type=grpc#FI🇫🇮
-
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560/V2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560/V2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/MTMVPN/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
@@ -72,7 +70,17 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/&security=no
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://TELEGRAM-NUFiLTER-033eae10fe9e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#US🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=/?ed=MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/@ShadowProxy66?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#PH🇵🇭
+
+vless://TELEGRAM-NUFiLTER-d01141d6e371@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#US🇺🇸
+
+vless://Parsashonam-189@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-189@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+
+vless://Parsashonam-189@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-188@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
@@ -85,12 +93,6 @@ vless://Parsashonam-187@185.146.173.39:8880?path=/&security=none&encryption=none
 vless://Parsashonam-187@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 
 vless://Parsashonam-187@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://Parsashonam-186@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
-
-vless://Parsashonam-186@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
-
-vless://Parsashonam-186@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
