@@ -10,17 +10,17 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=non
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#PH🇵🇭
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=ShadowProxy66/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=ShadowProxy66/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
@@ -58,9 +58,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&secur
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.215:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@passer02.ultranumber.top:19381?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#TR🇹🇷
+vless://0c20237c-0f96-4e84-bcbc-ead7b8364d1c@passer01.ultranumber.top:22344?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#DE🇩🇪
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=/?ed=MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://5ec8aebb-acd2-4b4b-958b-85a5d360e606@passer02.ultranumber.top:19381?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#TR🇹🇷
 
 vless://Parsashonam-191@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
