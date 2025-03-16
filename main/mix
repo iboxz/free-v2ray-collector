@@ -1,4 +1,10 @@
- vless://8c8a881f-7b1f-4bb5-9142-4bad9f924724@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
+ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#US🇺🇸
+
+vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
+
+trojan://Pooria@104.17.147.22:443?security=tls&sni=redfree8w.pooriam.ir&alpn=h2,http/1.1&fp=randomized&type=ws&host=redfree8w.pooriam.ir&path=/trJF1XisQEbWZpxEHh?ed=2560#US🇺🇸
+
+vless://8c8a881f-7b1f-4bb5-9142-4bad9f924724@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#US🇺🇸
 
@@ -14,12 +20,6 @@ vless://e529afed-5419-46d9-a83f-5dfce224d48a@g.soskom.ir:11045?mode=gun&security
 
 vless://e529afed-5419-46d9-a83f-5dfce224d48a@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
 
-vless://98a3a96e-5b51-42f6-ba30-eeb7be5a2605@mehdi3.vact.ir:443?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=tGXAl9pU7hafPTs_zWo_mtcJ3Uj-7R3QiN-d_gTXIwY&sid=4704370842ec&spx=/&type=grpc&authority=&serviceName=Telegram-MTMVPN-telegram-MTMVPN&mode=gun#DE🇩🇪
-
-vless://98a3a96e-5b51-42f6-ba30-eeb7be5a2605@mehdi3.vact.ir:443?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=tGXAl9pU7hafPTs_zWo_mtcJ3Uj-7R3QiN-d_gTXIwY&sid=4704370842ec&spx=/&type=grpc&authority=&serviceName=Telegram-MTMVPN-telegram-MTMVPN&mode=gun#DE🇩🇪
-
-vless://04229380-9cbd-4187-ac63-f99d88cffd1a@54.37.78.215:36633?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&mode=gun#DE🇩🇪
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
@@ -34,13 +34,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?mode=gun&securi
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#PH🇵🇭
 
