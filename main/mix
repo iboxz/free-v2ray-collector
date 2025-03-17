@@ -26,7 +26,7 @@ vless://cb9a339b-238b-4065-b52e-65e2b947a0d0@151.101.64.155:80?encryption=none&s
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=none&security=tls&sni=D031tAp7Jq.MySpDmMeTi.CoM&alpn=h2&type=grpc#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#LT🇱🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#US🇺🇸
 
 vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 
@@ -36,13 +36,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&se
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#INT🌍
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/vpnowl?ed=2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/vpnowl?ed=2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
