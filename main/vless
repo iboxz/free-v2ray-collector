@@ -1,4 +1,6 @@
- vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
+ vless://00cb16a4-4170-4e97-a5a3-852dea723681@mw1.rogha.ir:443?security=reality&encryption=none&pbk=gFo7E95jYIdI1R8fmBzuPfCyQ4CHTFW-KHoDKIql7XE&headerType=none&fp=chrome&spx=/&type=tcp&sni=eset.com&sid=5d589d05#DE🇩🇪
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
@@ -26,13 +28,11 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=n
 
 vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 
-vless://8c8a881f-7b1f-4bb5-9142-4bad9f924724@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
@@ -58,7 +58,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=/?ed=2560&secu
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#PH🇵🇭
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=ShadowProxy66/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#CA🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=ShadowProxy66/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
@@ -74,19 +74,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=
 
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=/Telegram-mtmvpn?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
 
-vless://Parsashonam-193@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+vless://afacef98-b5fa-4835-8bb7-efa4e93e3258@mehdi3.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=tGXAl9pU7hafPTs_zWo_mtcJ3Uj-7R3QiN-d_gTXIwY&fp=chrome&spx=/&type=grpc&serviceName=Telegram-MTMVPN-MTMVPN-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-MTMVPN&sni=www.cdn77.com&sid=4704370842ec#DE🇩🇪
 
-vless://Parsashonam-193@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+vless://2be30745-21f4-423e-e4a4-76b749cb7454@speedtest.net:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Xpnxpnxpxn0xj.iR&type=xhttp#US🇺🇸
 
-vless://Parsashonam-193@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
-
-vless://Parsashonam-192@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
-
-vless://Parsashonam-192@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
-
-vless://Parsashonam-192@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://TELEGRAM-NUFiLTER-ae3087607725@www.speedtest.net:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=banagh.motorphrotan.ir&fp=chrome&type=ws&sni=banagh.motorphrotan.ir#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
