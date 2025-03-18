@@ -28,17 +28,17 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=n
 
 vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#CA🇨🇦
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/vpnowl?ed=2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/vpnowl?ed=2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
@@ -84,9 +84,11 @@ vless://TELEGRAM-NUFiLTER-ae3087607725@www.speedtest.net:443?path=/telegram-NUFi
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://41454b20-c9f8-4392-85df-fb6c69447c59@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
+
+vless://41454b20-c9f8-4392-85df-fb6c69447c59@huffingtonpost.es:443?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&sni=huffingtonpost.es#NL🇳🇱
+
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
 vless://557fa110-899e-4fcc-8d0f-a31f9b90528e@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
-
-vless://99c1f042-5026-419e-a89d-b3936fddccb7@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
