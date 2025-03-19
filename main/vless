@@ -34,11 +34,11 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=6PaI52dYm3.DmNeWnOd110.CoM&type=ws&sni=6PaI52dYm3.DmNeWnOd110.CoM#US🇺🇸
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:2096?path=/&security=tls&encryption=none&host=FuMzLrHj.kOrTiZ.InFo&type=ws&sni=FuMzLrHj.kOrTiZ.InFo#INT🌍
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:2096?path=/&security=tls&encryption=none&host=FuMzLrHj.kOrTiZ.InFo&type=ws&sni=FuMzLrHj.kOrTiZ.InFo#CA🇨🇦
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=50C1iGiMpI.mYsPdMmEtI.cOm#SE🇸🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#NL🇳🇱
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#IR🇮🇷
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
