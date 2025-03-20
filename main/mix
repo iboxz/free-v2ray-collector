@@ -32,19 +32,19 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnO
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
@@ -144,6 +144,10 @@ vless://Parsashonam-194@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=no
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://5b95b221-60ba-4a90-af51-e33f05f04dba@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
+
+vless://5b95b221-60ba-4a90-af51-e33f05f04dba@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
+
 vless://a15cac1e-114b-4edd-a158-4528a41f2957@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
 vless://a15cac1e-114b-4edd-a158-4528a41f2957@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
@@ -151,6 +155,4 @@ vless://a15cac1e-114b-4edd-a158-4528a41f2957@huffingtonpost.es:80?type=xhttp&mod
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
 vless://41454b20-c9f8-4392-85df-fb6c69447c59@huffingtonpost.es:443?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=tls&sni=huffingtonpost.es#NL🇳🇱
-
-vless://41454b20-c9f8-4392-85df-fb6c69447c59@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#US🇺🇸
 
