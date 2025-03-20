@@ -32,9 +32,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:44
 
 vless://e0c23a67-1fd3-4225-bf67-f1fdd465e9f7@91.107.156.176:443?security=reality&encryption=none&pbk=0sxnaKMU6kGtDElfjsdnNlL_7SxBq0QPhaaaWvAj9zw&headerType=none&fp=chrome&type=tcp&sni=mw5.baradshops.ir&sid=ac#DE🇩🇪
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=PbDcFyWr0.KoTtArY.InFo&type=ws&sni=PbDcFyWr0.KoTtArY.InFo#CA🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=PbDcFyWr0.KoTtArY.InFo&type=ws&sni=PbDcFyWr0.KoTtArY.InFo#US🇺🇸
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=6PaI52dYm3.DmNeWnOd110.CoM&type=ws&sni=6PaI52dYm3.DmNeWnOd110.CoM#CA🇨🇦
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=6PaI52dYm3.DmNeWnOd110.CoM&type=ws&sni=6PaI52dYm3.DmNeWnOd110.CoM#US🇺🇸
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:2096?path=/&security=tls&encryption=none&host=FuMzLrHj.kOrTiZ.InFo&type=ws&sni=FuMzLrHj.kOrTiZ.InFo#US🇺🇸
 
@@ -54,7 +54,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&se
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
 
