@@ -28,7 +28,7 @@ vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=/test=true
 
 vless://b008cf5e-d8f9-48de-a6ec-b551a94cb579@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
 
@@ -48,11 +48,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB�
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
-vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?path=/?ed=2560&security=none&encryption=none&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&type=ws#INT🌍
+vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?path=/?ed=2560&security=none&encryption=none&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&type=ws#US🇺🇸
 
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.180.60:443?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
 
