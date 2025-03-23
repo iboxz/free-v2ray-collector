@@ -28,15 +28,9 @@ vless://Bargovpn_Bargovpn@bahbah.khoreshtsabzi.ir:20622?security=reality&encrypt
 
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=/test=true&security=none&encryption=none&host=d1.hetzner.com&type=ws#PL🇵🇱
 
-vless://b008cf5e-d8f9-48de-a6ec-b551a94cb579@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#US🇺🇸
-
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?path=/?ed=2560&security=none&encryption=none&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&type=ws#CA🇨🇦
-
-vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=0110.wdpkomyt.workers.dev&type=ws#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
@@ -44,7 +38,31 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=/&security=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#US🇺🇸
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
+
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?path=/?ed=2560&security=none&encryption=none&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&type=ws#INT🌍
+
+vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=0110.wdpkomyt.workers.dev&type=ws#INT🌍
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
@@ -92,7 +110,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/&security=non
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#INT🌍
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
 vless://e0c23a67-1fd3-4225-bf67-f1fdd465e9f7@91.107.156.176:443?security=reality&encryption=none&pbk=0sxnaKMU6kGtDElfjsdnNlL_7SxBq0QPhaaaWvAj9zw&headerType=none&fp=chrome&type=tcp&sni=mw5.baradshops.ir&sid=ac#DE🇩🇪
 
@@ -111,26 +129,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
-
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/vpnowl?ed=2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
