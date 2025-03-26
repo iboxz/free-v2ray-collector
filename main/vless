@@ -26,9 +26,9 @@ vless://b1335e20-6006-4bc1-a791-8820772903fd@65.109.200.53:23856?security=none&e
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
@@ -46,9 +46,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/LwW5jwrnymnO
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#INT🌍
 
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?path=/?ed=2560&security=none&encryption=none&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&type=ws#CA🇨🇦
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?path=/?ed=2560&security=none&encryption=none&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&type=ws#INT🌍
 
-vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=0110.wdpkomyt.workers.dev&type=ws#CA🇨🇦
+vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=0110.wdpkomyt.workers.dev&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
@@ -56,7 +56,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=/&security=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#JP🇯🇵
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#INT🌍
 
@@ -132,6 +132,10 @@ vless://Parsashonam-200@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=no
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
+vless://a1281738-5b92-44cc-acfc-ead0c4b4c628@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
+
+vless://a1281738-5b92-44cc-acfc-ead0c4b4c628@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
+
 vless://ebef2e11-96e9-492d-8e1c-6c8d41237734@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
 vless://ebef2e11-96e9-492d-8e1c-6c8d41237734@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
@@ -143,8 +147,4 @@ vless://17dc7c46-0e94-4290-8b00-1cfeeec8f107@huffingtonpost.es:80?type=xhttp&mod
 vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
 vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
-
-vless://7d54a4ed-a079-453e-9320-61fd06c596e2@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
-
-vless://7d54a4ed-a079-453e-9320-61fd06c596e2@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
