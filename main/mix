@@ -1,4 +1,8 @@
- vless://07d2dd7e-685f-4d30-8493-8430f42c4c03@de.jihuyun.icu:20888?security=reality&encryption=none&pbk=dVGMFKi-8oq2Pet7fslU29gPgY_Sl_l35b6ljcrXEAM&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#DE🇩🇪
+ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
+
+vless://07d2dd7e-685f-4d30-8493-8430f42c4c03@de.jihuyun.icu:20888?security=reality&encryption=none&pbk=dVGMFKi-8oq2Pet7fslU29gPgY_Sl_l35b6ljcrXEAM&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#INT🌍
 
 vless://f4d6a33e-f8bb-43ba-937d-135d468e3c79@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=/&type=grpc&serviceName=Tel : @NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#DE🇩🇪
 
@@ -28,21 +32,17 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=no
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ToWhIpPk2.CaFuNeAr.iNfO&alpn=h2http/1.1&type=ws&host=ToWhIpPk2.CaFuNeAr.iNfO&path=/#US🇺🇸
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=GtIbRcMp3.RoMaNyAe.iNfO&alpn=h2http/1.1&type=ws&host=GtIbRcMp3.RoMaNyAe.iNfO&path=/#CA🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=GtIbRcMp3.RoMaNyAe.iNfO&alpn=h2http/1.1&type=ws&host=GtIbRcMp3.RoMaNyAe.iNfO&path=/#US🇺🇸
 
 vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir#US🇺🇸
 
 vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir#CA🇨🇦
 
-vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir#US🇺🇸
+vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir#CA🇨🇦
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#BH🇧🇭
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUDNKTjk4QzZFT1I=@62.60.233.21:443#TR🇹🇷
-
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#IR🇮🇷
-
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#IR🇮🇷
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
@@ -50,7 +50,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:44
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&encryption=none&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a6a18a6e0259#DE🇩🇪
 
@@ -77,28 +77,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=/vpnowl?ed=256
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#PH🇵🇭
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?path=/&security=none&encryption=none&host=301.pooriam.ir&type=ws#NL🇳🇱
-
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#SE🇸🇪
-
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#GB🇬🇧
-
-vless://e0c23a67-1fd3-4225-bf67-f1fdd465e9f7@91.107.156.176:443?security=reality&encryption=none&pbk=0sxnaKMU6kGtDElfjsdnNlL_7SxBq0QPhaaaWvAj9zw&headerType=none&fp=chrome&type=tcp&sni=mw5.baradshops.ir&sid=ac#DE🇩🇪
-
-vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir#INT🌍
-
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#US🇺🇸
-
-vless://b1335e20-6006-4bc1-a791-8820772903fd@65.109.200.53:23856?security=none&encryption=none&headerType=none&type=tcp#FI🇫🇮
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
