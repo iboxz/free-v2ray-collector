@@ -8,23 +8,23 @@ vless://60a1eb6d-ba29-48d2-9c82-6dbe62834a09@91.107.249.196:443?security=reality
 
 vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&encryption=none&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c5a5eca0d8234375#DE🇩🇪
 
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@soft98.ir.p31download.com:8080?encryption=none&security=none&type=ws&host=sNaPp.MaStErSrV.ir.&path=?ed=8080#ID🇮🇩
+vless://762e148f-39f7-4ef3-a348-c3584bf436d2@soft98.ir.p31download.com:8080?encryption=none&security=none&type=ws&host=sNaPp.MaStErSrV.ir.&path=?ed=8080#GB🇬🇧
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GtIbRcMp5.RoMaNyAe.iNfO&alpn=h2http/1.1&type=ws&host=GtIbRcMp5.RoMaNyAe.iNfO&path=/#US🇺🇸
 
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ToWhIpPk2.CaFuNeAr.iNfO&alpn=h2http/1.1&type=ws&host=ToWhIpPk2.CaFuNeAr.iNfO&path=/#US🇺🇸
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=GtIbRcMp3.RoMaNyAe.iNfO&alpn=h2http/1.1&type=ws&host=GtIbRcMp3.RoMaNyAe.iNfO&path=/#US🇺🇸
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=GtIbRcMp3.RoMaNyAe.iNfO&alpn=h2http/1.1&type=ws&host=GtIbRcMp3.RoMaNyAe.iNfO&path=/#CA🇨🇦
 
 vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir#US🇺🇸
 
-vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir#US🇺🇸
+vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir#CA🇨🇦
 
 vless://a41c5712-9ee8-4199-bf94-207521f3c304@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s32.elitemizban.ir#US🇺🇸
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#IR🇮🇷
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#IR🇮🇷
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
