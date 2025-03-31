@@ -1,4 +1,8 @@
- vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.ir:443?encryption=none&security=tls&sni=karshenashamrah.ir&alpn=h2,http/1.1&fp=randomized&type=ws&host=karshenashamrah.ir&path=/3um9NK8jwisKz35E?ed=#US🇺🇸
+ vless://d2198c8a-c69d-574d-b38a-11bd3009faf0@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#IT🇮🇹
+
+vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#RS🇷🇸
+
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.ir:443?encryption=none&security=tls&sni=karshenashamrah.ir&alpn=h2,http/1.1&fp=randomized&type=ws&host=karshenashamrah.ir&path=/3um9NK8jwisKz35E?ed=#US🇺🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 
@@ -26,13 +30,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Rmh5T2lCQnN2Tm43MkFScEhHdVp1@109.120.177.12
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@91.230.27.95:54075#LT🇱🇹
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUDNKTjk4QzZFT1I=@62.60.233.21:443#TR🇹🇷
-
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@soft98.ir.p31download.com:8080?encryption=none&security=none&type=ws&host=sNaPp.MaStErSrV.ir.&path=?ed=8080#US🇺🇸
-
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#IR🇮🇷
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
@@ -44,7 +44,7 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&
 
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&encryption=none&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a6a18a6e0259#DE🇩🇪
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=/oiBBYyE4WkprI2wD?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#CA🇨🇦
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=/oiBBYyE4WkprI2wD?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
