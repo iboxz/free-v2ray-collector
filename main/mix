@@ -1,4 +1,10 @@
- vless://d2198c8a-c69d-574d-b38a-11bd3009faf0@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#IT🇮🇹
+ vless://0f4b1da0-47e2-41ac-8d1f-cee08026d7c1@g.soskom.ir:11045?type=grpc&serviceName=Tel : @NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=/#DE🇩🇪
+
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiXC9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiJVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJDSFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vless://d2198c8a-c69d-574d-b38a-11bd3009faf0@95.164.46.39:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#IT🇮🇹
 
 vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#RS🇷🇸
 
@@ -12,37 +18,19 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-a
 
 vless://07d2dd7e-685f-4d30-8493-8430f42c4c03@de.jihuyun.icu:20888?security=reality&encryption=none&pbk=dVGMFKi-8oq2Pet7fslU29gPgY_Sl_l35b6ljcrXEAM&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#INT🌍
 
-vless://f4d6a33e-f8bb-43ba-937d-135d468e3c79@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=/&type=grpc&serviceName=Tel : @NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#DE🇩🇪
-
-trojan://telegram-id-privatevpns@18.199.39.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE🇩🇪
-
-vless://65ea203c-27a7-4316-a95d-159df119d007@45.129.242.165:2020?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless2020#DE🇩🇪
-
-vless://60a1eb6d-ba29-48d2-9c82-6dbe62834a09@91.107.249.196:443?security=reality&encryption=none&pbk=kEIOgIsXFxz2b5sO93_w8uw6WltaRC9NlKY1btzlWzI&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=24c1f4c1408c4165#DE🇩🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@146.19.247.183:8388#DE🇩🇪
-
-vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&encryption=none&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c5a5eca0d8234375#DE🇩🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTa0VkV0xBOGdqbUhSVUFuS3FobTM5@138.124.54.120:63083#DE🇩🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Rmh5T2lCQnN2Tm43MkFScEhHdVp1@109.120.177.122:6774#DE🇩🇪
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@91.230.27.95:54075#LT🇱🇹
-
 vless://6a7c21ba-57d1-46cd-d579-449a58b36c79@95.217.1.83:26586?security=none&encryption=none&host=www.189.cn&headerType=http&type=tcp#FI🇫🇮
 
 vless://4c95eeb9-905f-5a27-a5db-2d6787b0b15e@5.181.23.67:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#EE🇪🇪
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#INT🌍
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed=2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#US🇺🇸
 
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#NL🇳🇱
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#HK🇭🇰
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#BH🇧🇭
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#NL🇳🇱
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
 
