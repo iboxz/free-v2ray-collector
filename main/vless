@@ -1,4 +1,12 @@
- vless://644c439d-6613-44ff-b6d3-fd3a4902af6a@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
+ vless://d653116d-be7c-4c21-b44a-e71969564200@usgateway.crehistory.org:21000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=none&type=tcp#IR🇮🇷
+
+vless://51b73782-3536-48d7-b125-9e3f48c4052f@fr-point.orgspeed.net:14000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=http&type=tcp#IR🇮🇷
+
+vless://bf4f1bc0-5436-4484-8c42-126ba318c544@se-nord.crehistory.org:17000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=http&type=tcp#IR🇮🇷
+
+vless://bf4f1bc0-5436-4484-8c42-126ba318c544@usgateway.crehistory.org:21000?security=none&encryption=none&host=rubika.ir.igap.net.soft98.ir&headerType=none&type=tcp#IR🇮🇷
+
+vless://644c439d-6613-44ff-b6d3-fd3a4902af6a@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
 
 vless://88534d2a-8de8-4928-b0c8-59f4e2707fba@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
 
@@ -13,8 +21,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?encryption=none&se
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=/join---MTMVPN---join?ed=2560#US🇺🇸
-
-vless://4113e9e7-6062-446a-a2d3-bc0a62691681@173.245.59.100:8080?type=ws&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir&host=prnim.kipa2.ir&security=none#US🇺🇸
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#NL🇳🇱
 
