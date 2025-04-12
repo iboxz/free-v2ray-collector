@@ -28,17 +28,17 @@ vless://bf4f1bc0-5436-4484-8c42-126ba318c544@usgateway.crehistory.org:21000?secu
 
 vless://644c439d-6613-44ff-b6d3-fd3a4902af6a@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
 
-vless://88534d2a-8de8-4928-b0c8-59f4e2707fba@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#INT🌍
+vless://88534d2a-8de8-4928-b0c8-59f4e2707fba@173.245.59.100:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
 
-vless://88534d2a-8de8-4928-b0c8-59f4e2707fba@188.114.97.155:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#INT🌍
+vless://88534d2a-8de8-4928-b0c8-59f4e2707fba@188.114.97.155:8080?encryption=none&security=none&type=ws&host=prnim.kipa2.ir&path=/@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir,@NIM_VPN_ir#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=/Telegram@proxy_mtm/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
