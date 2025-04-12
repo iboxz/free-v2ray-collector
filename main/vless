@@ -36,7 +36,7 @@ vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&enc
 
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#NL🇳🇱
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#US🇺🇸
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=/SIGrNRCU4ongDlz4?ed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#INT🌍
 
 vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&encryption=none&host=2r.YFxG2buH2B.zULaIr.orG.&type=ws#INT🌍
 
@@ -71,6 +71,10 @@ vless://Parsashonam-219@185.146.173.39:8880?path=/&security=none&encryption=none
 vless://Parsashonam-219@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 
 vless://Parsashonam-219@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+
+vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
+
+vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
