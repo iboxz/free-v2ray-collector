@@ -36,17 +36,17 @@ vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&
 
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&type=grpc&sni=www.target.com&sid=2b2e#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
@@ -60,7 +60,7 @@ vless://51331216-24fe-4eda-8bf1-0f03d2c97915@190.93.247.56:8080?path=/?ed=2560&s
 
 vless://e5513584-3c19-49be-ab4d-8118ea22ffe1@web.wiroholding.ir:27081?security=none&encryption=none&host=fast com&headerType=http&type=tcp#DE🇩🇪
 
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#BZ🇧🇿
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?path=/&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#NL🇳🇱
 
 vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&encryption=none&host=2r.YFxG2buH2B.zULaIr.orG.&type=ws#INT🌍
 
