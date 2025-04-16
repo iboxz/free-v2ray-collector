@@ -18,21 +18,21 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&s
 
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#US🇺🇸
 
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?path=/4McLR3NKFOydbxDs/MTguMTk5LjIxMy4yMDE&security=tls&alpn=http/1.1&encryption=none&host=digitalscientificresearchgroup.ir&fp=randomized&type=ws&sni=DigITALsciENTIfiCrESeARCHGRoup.IR#US🇺🇸
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?path=/4McLR3NKFOydbxDs/MTguMTk5LjIxMy4yMDE&security=tls&alpn=http/1.1&encryption=none&host=digitalscientificresearchgroup.ir&fp=randomized&type=ws&sni=DigITALsciENTIfiCrESeARCHGRoup.IR#INT🌍
 
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#US🇺🇸
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#DE🇩🇪
 
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&type=grpc&sni=www.target.com&sid=2b2e#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
