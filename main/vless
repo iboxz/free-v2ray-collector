@@ -22,13 +22,13 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=/?ed=2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#CA🇨🇦
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=/?ed=2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#US🇺🇸
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#CA🇨🇦
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#US🇺🇸
 
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ZA🇿🇦
 
