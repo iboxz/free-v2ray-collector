@@ -1,8 +1,8 @@
  vless://51a29401-f065-4a8e-8cba-b4804ad27008@vibe.orgspeed.net:2083?encryption=none&security=tls&sni=vibe.orgspeed.net&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#US🇺🇸
 
-vless://6e23c30c-a248-4dbe-9239-8412f8a8834b@de-karlsruhe.orgspeed.net:12000?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=WcjPU1iR-woM10JNMkMmv-c1Dl37z6PRsqmciMAitlg&sid=cb45d5eb4577c376&type=grpc&authority=rubika.ir.igap.net.soft98.ir&serviceName=Tok&mode=gun#DE🇩🇪
+vless://6e23c30c-a248-4dbe-9239-8412f8a8834b@de-karlsruhe.orgspeed.net:12000?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=WcjPU1iR-woM10JNMkMmv-c1Dl37z6PRsqmciMAitlg&sid=cb45d5eb4577c376&type=grpc&authority=rubika.ir.igap.net.soft98.ir&serviceName=Tok&mode=gun#INT🌍
 
-vless://6543593a-f55e-422c-8ffd-b6d930b1808c@is.crehistory.org:2053?encryption=none&security=tls&sni=is.crehistory.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#US🇺🇸
+vless://6543593a-f55e-422c-8ffd-b6d930b1808c@is.crehistory.org:2053?encryption=none&security=tls&sni=is.crehistory.org&alpn=h2,http/1.1&fp=chrome&type=ws&path=/#FI🇫🇮
 
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@ru-zone.persia.my:19000?encryption=none&security=none&type=tcp&headerType=http&host=rubika.ir.igap.net.soft98.ir:19000#RU🇷🇺
 
@@ -28,7 +28,7 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=/sinavm-sina
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=/&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#US🇺🇸
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#CA🇨🇦
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#US🇺🇸
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#US🇺🇸
 
@@ -38,11 +38,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB�
 
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#DE🇩🇪
 
-vless://51fda508-20aa-419e-b4c3-3a6202411412@tgju.org:8080?path=/?ed=2048&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#US🇺🇸
+vless://51fda508-20aa-419e-b4c3-3a6202411412@tgju.org:8080?path=/?ed=2048&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#CA🇨🇦
 
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?path=/&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#IR🇮🇷
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
@@ -82,13 +82,13 @@ vless://a7e48dcf-c612-41d3-9af2-3a4e7bcf23db@ufc.ru:80?path=/Channel----VPNCUSTO
 
 vless://a7e48dcf-c612-41d3-9af2-3a4e7bcf23db@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#INT🌍
 
-vless://Parsashonam@37.27.17.202:443?security=reality&encryption=none&pbk=dpnl4wAPN5nZvYHjAN6gmaNDVK1OMoHSXSoGsiHjABg&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=a6f4#FI🇫🇮
-
 vless://Parsashonam-223@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
 vless://Parsashonam-223@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
 
-vless://Parsashonam-223@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://Parsashonam-224@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+
+vless://Parsashonam@37.27.17.202:443?security=reality&encryption=none&pbk=dpnl4wAPN5nZvYHjAN6gmaNDVK1OMoHSXSoGsiHjABg&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=a6f4#FI🇫🇮
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
