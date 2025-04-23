@@ -36,15 +36,15 @@ vless://f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8@PROXY-MTM.fastly80-3.hosting-ip.com
 
 vless://e89188b0-3cd1-4f56-aaad-078912950049@PROXY-MTM.fastly80-3.hosting-ip.com:80?type=ws&path=/joinMTMVPN?ed=2560&host=mt.acvs.ir&security=none#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#GB🇬🇧
 
