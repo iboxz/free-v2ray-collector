@@ -36,13 +36,13 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&s
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#US🇺🇸
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=/Telegram@proxy_mtm/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=/Telegram@proxy_mtm/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 
@@ -68,13 +68,13 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:31086?security=none&encryption=none&headerType=none&type=tcp#INT🌍
+vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#INT🌍
 
-vless://cc771e3e-26b9-4664-821e-b1c16b825866@www.speedtest.net:8080?path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=jo.IPV2RY.iran.ir.arvancloud.ir.acvss.ddns-ip.net.&fp=randomized&type=ws#INT🌍
+vless://20a49abc-b801-4308-83e4-80abcad4115c@[2a00:6d42:1242:a47::1]:28125?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#INT🌍
 
-vless://a7e48dcf-c612-41d3-9af2-3a4e7bcf23db@ufc.ru:80?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#US🇺🇸
+vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#US🇺🇸
 
-vless://a7e48dcf-c612-41d3-9af2-3a4e7bcf23db@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#INT🌍
+vless://cfc29a51-129c-449f-fe2c-772401fe319b@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#GB🇬🇧
 
 vless://Parsashonam-225@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
