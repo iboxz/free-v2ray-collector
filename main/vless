@@ -32,15 +32,15 @@ vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?encryption=none&se
 
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&headerType=none#TW🇹🇼
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
@@ -76,17 +76,21 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=/sinavm-sina
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=/&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#INT🌍
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#INT🌍
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#CA🇨🇦
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#INT🌍
 
-vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#INT🌍
+vless://cfc29a51-129c-449f-fe2c-772401fe319b@uk.darkteam.vipt-t.info:13039?mode=gun&security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN#GB🇬🇧
 
-vless://20a49abc-b801-4308-83e4-80abcad4115c@[2a00:6d42:1242:a47::1]:28125?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#INT🌍
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=foffmelo.com&type=ws#US🇺🇸
+vless://f9e0d63b-97a4-490d-8952-141b8e425bc7@website.acveo.ir:8080?path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048&security=none&encryption=none&host=website.acveo.ir&type=httpupgrade#INT🌍
 
-vless://cfc29a51-129c-449f-fe2c-772401fe319b@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#GB🇬🇧
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@germanmel.mehrdadsadaf.com:7594?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=7594vless&sni=dash.cloudflare.com&sid=765e8e700426816c#DE🇩🇪
+
+vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#CZ🇨🇿
+
+vless://bf4c45e7-2723-457d-8f81-6789c3f42439@www.speedtest.net:8880?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&alpn=h3,h2,http/1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#INT🌍
 
 vless://Parsashonam-227@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
