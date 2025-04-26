@@ -32,15 +32,15 @@ vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?encryption=none&se
 
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&headerType=none#TW🇹🇼
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
