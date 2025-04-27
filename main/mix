@@ -26,7 +26,7 @@ vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.59:443?path=/?ed=2560&s
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@icook.hk:443?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&fp=randomized&type=ws&sni=vlee.amclubs.nyc.mn#US🇺🇸
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@icook.hk:443?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&fp=randomized&type=ws&sni=vlee.amclubs.nyc.mn#INT🌍
 
 vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#DE🇩🇪
 
@@ -36,13 +36,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#US🇺🇸
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=/net.net?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
 
@@ -58,13 +58,13 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&s
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#INT🌍
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
@@ -96,9 +96,9 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=/sinavm-sina
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=/&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#INT🌍
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#CA🇨🇦
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=/sinavm-sinavm/?ed=2560flow=-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#INT🌍
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#CA🇨🇦
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
 
