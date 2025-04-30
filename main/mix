@@ -38,17 +38,17 @@ vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=realit
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#US🇺🇸
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=/?ed=2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#INT🌍
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome&type=ws&sni=MdLoXlYg.rIcKtMoUsE.InFo#CA🇨🇦
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=/&security=tls&encryption=none&host=MdLoXlYg.rIcKtMoUsE.InFo&fp=chrome&type=ws&sni=MdLoXlYg.rIcKtMoUsE.InFo#INT🌍
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#CA🇨🇦
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#US🇺🇸
 
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=/47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#INT🌍
 
