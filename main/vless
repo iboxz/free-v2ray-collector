@@ -46,6 +46,16 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443?security=tls&alp
 
 vless://53249200-30ff-436f-a032-0bb00605f8f9@104.21.35.247:443?path=/MgovppNO6WZwOCU5JqXZxjQ5ILc&security=tls&alpn=http/1.1&encryption=none&host=3edcvb.huangshang2030.dpdns.org&fp=chrome&type=ws&sni=3edcvb.huangshang2030.dpdns.org#US🇺🇸
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
+
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#US🇺🇸
+
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=/&security=tls&encryption=none&host=d1.medicaldream.ir&type=ws&sni=d1.medicaldream.ir#US🇺🇸
+
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&type=ws&sni=cr77.hedieh.dpdns.org#US🇺🇸
+
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US🇺🇸
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#US🇺🇸
@@ -73,16 +83,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?path=/&secur
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=NvOvRkPi12.mInTiVo.oRg&type=ws&sni=NvOvRkPi12.mInTiVo.oRg#US🇺🇸
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?path=/&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#US🇺🇸
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
-
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=/?ed=2048flow=-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#US🇺🇸
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?path=/&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#US🇺🇸
-
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:2096?path=/&security=tls&encryption=none&host=RwQfYqAh14.tRaViQo.oRg&fp=chrome&type=ws&sni=RwQfYqAh14.tRaViQo.oRg#US🇺🇸
-
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.151.74:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#US🇺🇸
 
 vless://V2RAXX@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#CH🇨🇭
 
