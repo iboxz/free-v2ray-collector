@@ -58,6 +58,20 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?security
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzkwZjBiNjhmM2ZjZTli@163.171.110.9:10739#AR🇦🇷
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&encryption=none&host=iPsyCHO.SUEx12.iR&fp=random&type=ws&sni=iPsyCHO.SUEx12.iR#US🇺🇸
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#US🇺🇸
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
 
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#US🇺🇸
