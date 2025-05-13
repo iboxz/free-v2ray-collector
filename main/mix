@@ -18,12 +18,6 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=/fJBvsL0uR2Mt
 
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@fi.panelmarzban.com:1010?security=reality&encryption=none&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&fp=chrome&type=tcp&sni=refersion.com#FI🇫🇮
 
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=/?ed=2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#ZA🇿🇦
-
-vless://b1966903-2fe2-4bce-9de7-64232ed435ce@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#FR🇫🇷
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/re5IzbZ9IZZMddtw?ed=2560&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#US🇺🇸
-
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#US🇺🇸
 
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?path=/&security=tls&encryption=none&host=d5.medicaltreatment.ir&fp=chrome&type=ws&sni=d5.medicaltreatment.ir#US🇺🇸
@@ -42,15 +36,15 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZ
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&encryption=none&host=iPsyCHO.SUEx12.iR&fp=random&type=ws&sni=iPsyCHO.SUEx12.iR#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
 
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#INT🌍
 
@@ -88,7 +82,7 @@ vless://3091880b-13e7-4c1f-8211-f2a79428671d@[2a01:4f8:1c1b:11e::1]:20000?securi
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:443?path=/re5IzbZ9IZZMddtw?ed=2560/?@Selinc&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:443?path=/re5IzbZ9IZZMddtw?ed=2560/?@Selinc&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
 
 vless://Parsashonam-235@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
