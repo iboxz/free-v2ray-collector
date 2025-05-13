@@ -34,11 +34,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-a
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&encryption=none&host=iPsyCHO.SUEx12.iR&fp=random&type=ws&sni=iPsyCHO.SUEx12.iR#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
 
@@ -54,13 +54,13 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:2096?path=/&secur
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=/RiuadVWEiFmFyL3C?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#CA🇨🇦
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560flow=-udp443flow=-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/re5IzbZ9IZZMddtw?ed=2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#INT🌍
 
