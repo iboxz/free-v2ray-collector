@@ -32,7 +32,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-a
 
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#RU🇷🇺
 
-vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#US🇺🇸
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#INT🌍
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=GxVpOnLl13.pRiMeXaD.OrG&type=ws&sni=GxVpOnLl13.pRiMeXaD.OrG#INT🌍
 
