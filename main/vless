@@ -34,7 +34,7 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?encryption=no
 
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?encryption=none&security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.networkpro.net&path=/?ed=2048#US🇺🇸
 
-vless://f2837ac7-778a-4915-b0f4-801756687859@whatismyipaddress.com:2053?encryption=none&security=tls&sni=gerall.sabinhosting.ir&type=ws&host=gerall.sabinhosting.ir&path=/#US🇺🇸
+vless://f2837ac7-778a-4915-b0f4-801756687859@whatismyipaddress.com:2053?encryption=none&security=tls&sni=gerall.sabinhosting.ir&type=ws&host=gerall.sabinhosting.ir&path=/#CA🇨🇦
 
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?encryption=none&security=none&type=grpc#FI🇫🇮
 
@@ -54,9 +54,9 @@ vless://b7151658-c1b1-4648-9799-02095a2b9fd2@italy.gamingbazirani.ir:3993?encryp
 
 vless://b7151658-c1b1-4648-9799-02095a2b9fd2@uk.gamingbazirani.ir:17297?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=85978f35bcf139b5&type=xhttp&host=server.ir&path=/unlimite&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#GB🇬🇧
 
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=/&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#CA🇨🇦
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=/&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#INT🌍
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
