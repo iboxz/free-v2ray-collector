@@ -20,7 +20,7 @@ vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?encryption=none&se
 
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@norin.orgspeed.net:21000?security=&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#NL🇳🇱
 
-vless://dda291d1-b8f8-4967-93a6-4ffe46b9717b@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&security=none&encryption=none&host=abrarvan1.com.&type=ws#US🇺🇸
+vless://dda291d1-b8f8-4967-93a6-4ffe46b9717b@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&security=none&encryption=none&host=abrarvan1.com.&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?path=/?ed=2560fp=chrome&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#AT🇦🇹
 
@@ -45,16 +45,6 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?path=/&securi
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=/&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#INT🌍
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638817026935097685.amsterdam-shledrc-accc.info:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
-
-vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#RU🇷🇺
-
-vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=/&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#INT🌍
 
 vless://b6c7a0c3-3026-49d7-b7af-ac3c768bfead@speedtest.net:80?mode=auto&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=&encryption=none&host=jointo_vmessorg.ir&type=xhttp#US🇺🇸
 
