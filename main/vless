@@ -30,7 +30,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=n
 
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&security=tls&encryption=none&host=ru01.abvpn.ru&fp=chrome&type=ws&sni=ru01.abvpn.ru#RU🇷🇺
 
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=/?ed=2048flow=-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#CA🇨🇦
+vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=/?ed=2048flow=-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#US🇺🇸
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 
