@@ -34,13 +34,13 @@ vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none
 
 vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&sid=09&type=grpc#DE🇩🇪
 
-trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#CA🇨🇦
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#US🇺🇸
 
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@104.152.210.36:25536?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apps.apple.com&fp=qq&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8&type=tcp&headerType=none#CA🇨🇦
 
 trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=/linkvws#US🇺🇸
 
-trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?security=tls&sni=b9uujhyt.890604.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=b9uujhyt.890604.dpdns.org&path=/l6lvY4hFZriQDBimbKYmPIggy#US🇺🇸
+trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?security=tls&sni=b9uujhyt.890604.dpdns.org&alpn=http/1.1&fp=chrome&type=ws&host=b9uujhyt.890604.dpdns.org&path=/l6lvY4hFZriQDBimbKYmPIggy#CA🇨🇦
 
 vless://10d4737f-494a-45f0-b0c2-d18f99041d4a@tabriz-website.thorav.ir:443?encryption=none&security=reality&sni=www.cdn77.com&fp=qq&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&sid=b1417d&spx=/&type=grpc&authority=&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&mode=gun#INT🌍
 
@@ -50,7 +50,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#R
 
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#CA🇨🇦
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#INT🌍
 
@@ -123,6 +123,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB�
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=/?ed=2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.networkpro.net&type=ws#US🇺🇸
 
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=moradqoli.com&type=ws#US🇺🇸
+
+vless://Parsashonam-242@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
+
+vless://Parsashonam-242@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+
+vless://Parsashonam-242@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://Parsashonam-241@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
