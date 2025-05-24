@@ -28,7 +28,7 @@ vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?encryption=none&
 
 vless://b77143a4-d480-42fb-8ba3-1f7282948a97@77.110.98.221:36994?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&sid=8b5ba7aca4&type=tcp&headerType=none#FI🇫🇮
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&path=/#US🇺🇸
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&path=/#CA🇨🇦
 
 vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=c4SulGQSmzY2P-uF7XlCEkzKXU15FsZnxDddoUB6vFA&sid=66ef&type=tcp&headerType=none#US🇺🇸
 
@@ -42,7 +42,7 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?encryption=none&s
 
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#INT🌍
 
