@@ -44,7 +44,7 @@ vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none
 
 vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&sid=09&type=grpc#DE🇩🇪
 
-trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#CA🇨🇦
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&sni=T.taipEi108.Dpdns.Org&alpn=http/1.1&fp=chrome&type=ws&host=t.taipei108.dpdns.org&path=/Dmby2AKiZKvMo1YauoQwY5#INT🌍
 
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@104.152.210.36:25536?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apps.apple.com&fp=qq&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8&type=tcp&headerType=none#CA🇨🇦
 
