@@ -24,7 +24,7 @@ vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?encryption=none&se
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 
-vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@parspack.com:443?encryption=none&security=tls&sni=abrarvan1.com&fp=qq&type=ws&host=abrarvan1.com&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048#CA🇨🇦
+vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@parspack.com:443?encryption=none&security=tls&sni=abrarvan1.com&fp=qq&type=ws&host=abrarvan1.com&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048#US🇺🇸
 
 vless://e8b49992-62a9-4e5e-a6b4-1503a5c4353c@lunavopershian.adas.monster:57065?encryption=none&security=reality&sni=lunavopershiansni369871.adas.monster&fp=chrome&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&sid=e559dd&spx=/&type=xhttp&path=/shahin2001&mode=auto#DE🇩🇪
 
@@ -34,9 +34,9 @@ vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:80?encryption=none&s
 
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#RU🇷🇺
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#CA🇨🇦
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gorgeserver1.ir&path=/#US🇺🇸
 
-vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@parspack.com:443?encryption=none&security=tls&sni=abrarvan1.com&fp=qq&type=ws&host=abrarvan1.com&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048#US🇺🇸
+vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@parspack.com:443?encryption=none&security=tls&sni=abrarvan1.com&fp=qq&type=ws&host=abrarvan1.com&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048#INT🌍
 
 vless://e8b49992-62a9-4e5e-a6b4-1503a5c4353c@lunavopershian.adas.monster:57065?encryption=none&security=reality&sni=lunavopershiansni369871.adas.monster&fp=chrome&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&sid=e559dd&spx=/&type=xhttp&path=/shahin2001&mode=auto#DE🇩🇪
 
@@ -54,7 +54,7 @@ vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?encryption=none&
 
 vless://b77143a4-d480-42fb-8ba3-1f7282948a97@77.110.98.221:36994?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&sid=8b5ba7aca4&type=tcp&headerType=none#FI🇫🇮
 
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&path=/#INT🌍
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&path=/#US🇺🇸
 
 vless://e691b423-c7f7-4c78-a65b-694ac46767f4@54.147.77.121:39642?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=c4SulGQSmzY2P-uF7XlCEkzKXU15FsZnxDddoUB6vFA&sid=66ef&type=tcp&headerType=none#US🇺🇸
 
@@ -102,15 +102,19 @@ vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?path=/websocket&se
 
 vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=/?ed=2048flow=-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#INT🌍
 
-vless://TELEGRAM-NUFiLTER@theatlantic.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=khorzokhan.com&type=ws#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.6:80?path=Telegram:@vpnAndroid2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#NL🇳🇱
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?path=Telegram:@vpnAndroid2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#RO🇷🇴
+vless://03d9cf71-08a5-40fc-ac63-3241fe98168b@www.speedtest.net:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#INT🌍
 
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:247d::1]:50651?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
-vless://1f7a87e7-c52b-40a5-8f70-04cb6c2eb286@Shiraz-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&authority=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&pbk=PxdRM9vmg1ZX5PjB0T-jTX0Nt4w-nIpS1zJIC5vkcBo&fp=chrome&spx=/&type=grpc&sni=www.cdn77.com&sid=8973a5#CY🇨🇾
+vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@2.irancella.blog:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#INT🌍
 
-vless://61543d72-aa2d-4066-bbd3-5d470d4c77a1@www.speedtest.net:80?mode=auto&path=/?Join_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=mother690.dgclix.ir&type=xhttp#INT🌍
+vless://Parsashonam-244@Zmaoz.Faculty.Ucdavis.Edu:80?path=/@Parsashonam?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#US🇺🇸
+
+vless://SVNTEAM@public.misvn.ir:443?security=reality&encryption=none&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org#DE🇩🇪
+
+vless://SVNTEAM@public.misvn.ir:443?security=reality&encryption=none&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org#DE🇩🇪
 
 vless://Parsashonam-244@185.146.173.39:8880?path=/&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#SE🇸🇪
 
