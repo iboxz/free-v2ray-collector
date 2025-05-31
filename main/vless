@@ -1,4 +1,14 @@
- vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?security=reality&encryption=none&pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&host=TELEGRAM--@MARAMBASHI--@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net.vip.ger.dbsll.ir&sid=23f44163#DE🇩🇪
+ vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.cdn.maviks.eu:443?encryption=none&security=tls&sni=cdn.maviks.eu&fp=chrome&type=httpupgrade&host=cdn.maviks.eu&path=/MaGLM25tSikPTFr75Q0Yri#GB🇬🇧
+
+vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?encryption=none&security=tls&sni=72790032528889957475364702518915.v2line.online&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=72790032528889957475364702518915.v2line.online&path=/netherlands/amsterdam/vl/ws/tls#US🇺🇸
+
+vless://190492bf-0111-451b-aa16-3490dacd1be7@e.nl.cdn.maviks.eu:443?encryption=none&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560#GB🇬🇧
+
+vless://190492bf-0111-451b-aa16-3490dacd1be7@nodes.maviks.eu:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5&type=tcp&headerType=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join#DE🇩🇪
+
+vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.maviks.eu:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&type=tcp&headerType=none#NL🇳🇱
+
+vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?security=reality&encryption=none&pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&host=TELEGRAM--@MARAMBASHI--@MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net.vip.ger.dbsll.ir&sid=23f44163#DE🇩🇪
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 
@@ -18,7 +28,7 @@ vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?encryption=none&s
 
 vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.148.22:80?encryption=none&security=none&type=xhttp&host=mother521.dgclix.ir&path=/?Join_Bade_Channel@JOKERRVPN&mode=auto#CA🇨🇦
 
-vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.147.22:80?encryption=none&security=none&type=xhttp&host=mother521.dgclix.ir&path=/?Join_Bade_Channel@JOKERRVPN&mode=auto#US🇺🇸
+vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.147.22:80?encryption=none&security=none&type=xhttp&host=mother521.dgclix.ir&path=/?Join_Bade_Channel@JOKERRVPN&mode=auto#CA🇨🇦
 
 vless://562b6618-1e9c-434f-f970-252cfd81da2e@www.speedtest.net:2053?encryption=none&security=tls&sni=WWW.fashOARt749.COM&type=httpupgrade&host=GERNUR.fashOARt749.COM&path=/GERNUR.fashOARt749.COM@ipdomein-www.speedtest.net-zula.ir?ed=2048899#CA🇨🇦
 
@@ -26,7 +36,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880?encryption=none&
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#RU🇷🇺
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#US🇺🇸
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#INT🌍
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#INT🌍
 
@@ -34,11 +44,15 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880?encryption=none&s
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#AU🇦🇺
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#GB🇬🇧
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#DE🇩🇪
 
-vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?encryption=none&security=none&type=ws&host=mihanwebhost.iri&path=/vless#NL🇳🇱
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#US🇺🇸
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?encryption=none&security=none&type=grpc#LT🇱🇹
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#NL🇳🇱
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#US🇺🇸
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#SI🇸🇮
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#DE🇩🇪
 
@@ -63,16 +77,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?path=/?ed=2560&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.140.0.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#AE🇦🇪
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#DE🇩🇪
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.244.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#INT🌍
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#CZ🇨🇿
-
-vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=/&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#INT🌍
-
-vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@95.216.166.212:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/ShadowProxy66?ed=2560&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#INT🌍
 
