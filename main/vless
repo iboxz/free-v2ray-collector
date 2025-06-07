@@ -1,4 +1,6 @@
- vless://f828862f-80aa-4fd8-c729-f4f09bd9d899@188.34.164.75:6666?encryption=none&security=none&type=grpc&authority=&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&mode=gun#DE🇩🇪
+ vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?encryption=none&security=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI#CH🇨🇭
+
+vless://f828862f-80aa-4fd8-c729-f4f09bd9d899@188.34.164.75:6666?encryption=none&security=none&type=grpc&authority=&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&mode=gun#DE🇩🇪
 
 vless://bca566d7-a05a-4c5c-9d39-2cd7ec119749@188.34.164.75:2053?encryption=none&security=none&type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#DE🇩🇪
 
@@ -25,10 +27,6 @@ vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@146.190.255.7:2096?encryption=none&
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
 
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
-
-vless://44eb5324-0706-4b60-9dba-31988a9071a8@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
-
-vless://44eb5324-0706-4b60-9dba-31988a9071a8@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#AM🇦🇲
 
@@ -64,9 +62,9 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
-vless://7a63d2d0-f324-4f04-9d87-e85c06726d89@huffingtonpost.es:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#BE🇧🇪
+vless://2458b636-ebfd-4962-8b41-bd3749e66a5c@huffingtonpost.es:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#BE🇧🇪
+
+vless://7a63d2d0-f324-4f04-9d87-e85c06726d89@huffingtonpost.es:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
 vless://c2dd36a3-bf3b-4fcc-a7e1-cb08eeb0b22c@huffingtonpost.es:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
-
-vless://1cb7538b-2d3e-40c3-a0ed-f4f868ffe500@huffingtonpost.es:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#NL🇳🇱
 
