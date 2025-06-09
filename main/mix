@@ -1,4 +1,12 @@
- trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@tag-frown-lying.stark-industries.solutions:443?security=tls&type=tcp&headerType=none#NL🇳🇱
+ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?encryption=none&security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=Telegram@V2ray_Alpha/?ed=2560#DE🇩🇪
+
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2052?encryption=none&security=none&sni=domain2025.dpdns.org&type=ws&host=domain2025.dpdns.org&path=/Te-V2ray_Alpha/?ed=2560#US🇺🇸
+
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2086?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=/Te-V2ray_Alpha/?ed=2560#US🇺🇸
+
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=/Te-V2ray_Alpha/?ed=2560#US🇺🇸
+
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@tag-frown-lying.stark-industries.solutions:443?security=tls&type=tcp&headerType=none#NL🇳🇱
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@cushy-coil-chaos.stark-industries.solutions:443?security=tls&type=tcp&headerType=none#NL🇳🇱
 
@@ -41,14 +49,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?encryption=none&s
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?encryption=none&security=tls&sni=kavir.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=kavir.lnmarketplace.net&path=/kavir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&mode=stream-one#DE🇩🇪
 
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512#US🇺🇸
-
-vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?encryption=none&security=tls&sni=72790032528889957475364702518915.v2line.online&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=72790032528889957475364702518915.v2line.online&path=/netherlands/amsterdam/vl/ws/tls#US🇺🇸
-
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@146.190.255.7:2096?encryption=none&security=reality&sni=wwW.mIcrOsoFt.Com.&fp=safari&pbk=1-QFe6mJvRrvqXcLllKYD42VWq6vAVAfX0sk_v7eEDA&sid=5354221ef1e1b25c&type=tcp&headerType=none#CA🇨🇦
-
-vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
-
-vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#US🇺🇸
 
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:80?path=/JaxavRV98PXaUKdZ?ed=2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#US🇺🇸
 
