@@ -13,10 +13,7 @@ function DownloadV2ray(platform) {
       titles: ["v2rayN"],
     },
     android: {
-      links: [
-        "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-        "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases",
-      ],
+      links: ["https://play.google.com/store/apps/details?id=com.v2ray.ang", "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases"],
       titles: ["v2rayNG", "NekoBox"],
     },
     ios: {
@@ -28,26 +25,17 @@ function DownloadV2ray(platform) {
       titles: ["NapsternetV", "FoXray", "V2Box"],
     },
     MacOS: {
-      links: [
-        "https://apps.apple.com/us/app/foxray/id6448898396",
-        "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-      ],
+      links: ["https://apps.apple.com/us/app/foxray/id6448898396", "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"],
       titles: ["FoXray", "V2Box"],
     },
     linux: {
-      links: [
-        "https://github.com/Dreamacro/clash/releases",
-        "https://github.com/MatsuriDayo/nekoray/releases",
-      ],
+      links: ["https://github.com/Dreamacro/clash/releases", "https://github.com/MatsuriDayo/nekoray/releases"],
       titles: ["Clash", "NekoRay"],
     },
   };
 
   var info = downloadInfo[platform];
-  var linksHtml = info.links.map(
-    (link, index) =>
-      '<a href="' + link + '" target="_blank">' + info.titles[index] + "</a>"
-  );
+  var linksHtml = info.links.map((link, index) => '<a href="' + link + '" target="_blank">' + info.titles[index] + "</a>");
 
   secondaryButton.innerHTML = linksHtml.join("<br>");
 }
@@ -64,41 +52,27 @@ function ConfigLink(type) {
 
   var downloadInfo = {
     mix: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix"],
     },
     reality: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality"],
     },
     vless: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless"],
     },
     vmess: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess"],
     },
     shadowsocks: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks"],
     },
     trojan: {
-      links: [
-        "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan",
-      ],
+      links: ["https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan"],
     },
   };
 
   var info = downloadInfo[type];
-  var linksHtml = info.links.map(
-    (link, index) => '<a href="' + link + '" target="_blank">' + link + "</a>"
-  );
+  var linksHtml = info.links.map((link, index) => '<a href="' + link + '" target="_blank">' + link + "</a>");
 
   secondaryButton.innerHTML = linksHtml.join("<br>");
 }
@@ -109,8 +83,7 @@ document.getElementById("TextInput").appendChild(tempInput);
 function copyLink(copyText) {
   var linkElement = document.querySelector("#bottomSection a");
   if (linkElement == null) {
-    document.querySelector("#bottomSection").textContent =
-      "یکی از گزینه های لیست را انتخاب کنید";
+    document.querySelector("#bottomSection").textContent = "یکی از گزینه های لیست را انتخاب کنید";
     return;
   }
   tempInput.value = linkElement.textContent;
@@ -126,24 +99,19 @@ function fetchLink() {
   document.querySelector(".mainContainer #topSection p").textContent = "copy";
   var linkElement = document.querySelector("#bottomSection a");
   if (linkElement == null) {
-    document.querySelector("#bottomSection").textContent =
-      "یکی از گزینه های لیست را انتخاب کنید";
+    document.querySelector("#bottomSection").textContent = "یکی از گزینه های لیست را انتخاب کنید";
     return;
   }
   fetch(linkElement.href)
     .then((response) => response.text())
     .then((data) => {
       if (data === "404: Not Found") {
-        linkElement.textContent =
-          "لینک وجود ندارد، مشکل را به اونر پروژه ارجاع دهید.";
+        linkElement.textContent = "لینک وجود ندارد، مشکل را به اونر پروژه ارجاع دهید.";
         return;
       }
       linkElement.textContent = data;
     })
-    .catch(
-      (error) =>
-        (linkElement.textContent = "محتوا دریافت نشد، لینک را باز کنید.")
-    );
+    .catch((error) => (linkElement.textContent = "محتوا دریافت نشد، لینک را باز کنید."));
 }
 
 gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
@@ -181,9 +149,32 @@ gsap.to("main", {
 });
 
 window.addEventListener("load", (event) => {
+  const firstLoad = !localStorage.getItem("loadedBefore");
+  const delayTime = firstLoad ? 6 : 2;
+  if (firstLoad) {
+    localStorage.setItem("loadedBefore", "true");
+  }
+  gsap.set("#loading-screen", {
+    y: "0%",
+  });
+  gsap.to("#loading-screen", {
+    duration: 1,
+    delay: delayTime,
+    y: "100%",
+    ease: "power1.in",
+    onComplete: () => {
+      document.getElementById("loading-screen").style.display = "none";
+    },
+  });
+  gsap.to(".loader", {
+    paddingLeft: "1000%",
+    delay: delayTime,
+    duration: 1,
+  });
   gsap.to(".sectionHero #hereTitleTop div:nth-child(1) div:nth-child(2)", {
     duration: 3,
     marginRight: "0%",
+    delay: delayTime,
   });
   gsap.from(
     new SplitText(".sectionHero #hereTitleTop + div", {
@@ -196,6 +187,7 @@ window.addEventListener("load", (event) => {
       duration: 1,
       ease: "power1.out",
       stagger: 0.1,
+      delay: delayTime,
     }
   );
 
@@ -210,12 +202,14 @@ window.addEventListener("load", (event) => {
       duration: 1.5,
       ease: "power1.out",
       stagger: 0.2,
+      delay: delayTime,
     }
   );
   gsap.from(".sectionHero .imageHolder > img", {
     duration: 2.5,
     ease: "back.out(1.7)",
     scale: "1.5",
+    delay: delayTime,
   });
 });
 
@@ -223,6 +217,7 @@ gsap.from(".sectionDownload > p", {
   duration: 2,
   ease: "power1.out",
   skewY: 10,
+  delay: delayTime,
   y: "50%",
   x: "5%",
   scrollTrigger: {
@@ -240,6 +235,7 @@ gsap.to(CSSRulePlugin.getRule(".sectionHero .imageHolder::before"), {
     end: "bottom center",
     scrub: 2,
   },
+  delay: delayTime,
   cssRule: {
     y: "200%",
   },
@@ -249,6 +245,7 @@ gsap.from(".sectionConfig", {
   duration: 1,
   ease: "power1.out",
   skewY: -5,
+  delay: delayTime,
   scrollTrigger: {
     trigger: ".sectionConfig",
     toggleActions: "play none none reverse",

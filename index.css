@@ -1,3 +1,51 @@
+#loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #c4ecaa;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  z-index: 1000;
+  animation: background-cycle 6s linear infinite;
+}
+
+@keyframes background-cycle {
+  0% {
+    background-color: #c4ecaa;
+  }
+  30% {
+    background-color: #f5a623;
+  }
+  60% {
+    background-color: #c56a66;
+  }
+  100% {
+    background-color: #c4ecaa;
+  }
+}
+.loader {
+  font-family: "LeagueGothic";
+  font-size: 2rem;
+  color: #000000;
+  font-size: clamp(10rem, 1vw, 100rem);
+  text-wrap: nowrap;
+  background-color: white;
+  height: min-content;
+  width: fit-content;
+  animation: scroll-left 10s linear infinite;
+}
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-90%);
+  }
+}
+
 .sectionHero {
   color: #222;
 
