@@ -30,7 +30,7 @@
   font-family: "LeagueGothic";
   font-size: 2rem;
   color: #000000;
-  font-size: clamp(10rem, 1vw, 100rem);
+  font-size: clamp(6rem, 15vmin, 100rem);
   text-wrap: nowrap;
   background-color: white;
   height: min-content;
