@@ -37,6 +37,5 @@ You can directly receive subscriptions from the following links:
 - **Shadowsocks Config**: [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks)
 - **Trojan Config**: [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan)
 
-## حقوق
-
+## 
 Copyright © 2025 [FirstIBOX]("https://firstibox.glitch.me/) / All rights reserved
