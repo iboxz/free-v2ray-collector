@@ -64,7 +64,7 @@
 .sectionHero .navbarHolder {
   grid-area: 1 / 1 / 2 / 3;
   font-family: "Montserrat";
-  font-size: clamp(1.5rem, 1.1vw, 100rem);
+  font-size: clamp(1rem, 1.1vw, 100rem);
   font-weight: 800;
 
   display: flex;
@@ -263,6 +263,7 @@
   .sectionHero .navbarHolder > p {
     border-radius: 10vmin;
     cursor: pointer;
+    font-size: clamp(1.2rem, 1.1vw, 100rem);
 
     display: flex;
     justify-content: center;
@@ -274,8 +275,8 @@
     cursor: pointer;
     border-radius: 10vmin;
     line-height: 1;
-    width: 2vmax;
-    height: 2vmax;
+    width: 2.5vmax;
+    height: 2.5vmax;
     margin-right: 1vmin;
   }
   .sectionHero .imageHolder {
@@ -603,6 +604,7 @@
   padding: 15vmin 0 3vmin 0;
   text-align: center;
   font-family: Montserrat;
+  font-size: clamp(0.8rem, 1.4vmin, 100rem);
 }
 
 .social-links {
@@ -621,6 +623,7 @@
 }
 
 .footer-rights {
-  font-size: 14px;
+  font-size: clamp(0.6rem, 0.9vmin, 100rem);
+
   color: #888;
 }
