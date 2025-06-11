@@ -35,7 +35,7 @@
   background-color: white;
   height: min-content;
   width: fit-content;
-  animation: scroll-left 10s linear infinite;
+  animation: scroll-left 14s linear infinite;
 }
 @keyframes scroll-left {
   0% {
@@ -402,14 +402,14 @@
   white-space: -pre-wrap;
   white-space: -o-pre-wrap;
   word-wrap: break-word;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 55vmin;
 }
 .sectionConfig .linkC #bottomSection a {
   color: black;
   display: -webkit-box;
-  -webkit-line-clamp: 10; /* number of lines to show */
-  line-clamp: 10;
   -webkit-box-orient: vertical;
-  overflow: hidden;
   -webkit-user-select: all;
   -ms-user-select: all;
   user-select: all;

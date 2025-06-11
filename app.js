@@ -150,7 +150,7 @@ gsap.to("main", {
 
 window.addEventListener("load", (event) => {
   const firstLoad = !localStorage.getItem("loadedBefore");
-  const delayTime = firstLoad ? 6 : 2;
+  const delayTime = firstLoad ? 5 : 2;
   if (firstLoad) {
     localStorage.setItem("loadedBefore", "true");
   }
