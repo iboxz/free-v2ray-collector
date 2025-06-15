@@ -1,12 +1,16 @@
- vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@[::ffff:422a:768c]:443?mode=stream-one&path=/ertyu&security=none&encryption=none&type=xhttp#INT🌍
+ vmess://eyJhZGQiOiIxNzguMjM5LjE0NC45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYjkwYjk0Ny03MTFiLTdmZjYtNTE1NC05MTk1MGRhYmY5NDciLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIxMTAwMCIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#VE🇻🇪
+vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@[::ffff:422a:768c]:443?mode=stream-one&path=/ertyu&security=none&encryption=none&type=xhttp#INT🌍
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#US🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
 
-ss://YWVzLTI1Ni1nY206N2NiZDAzZWEtMDBkNC00M2ViLWI0ZTItMWI0ZjIyNzVkNmI1@51.178.41.178:8443#FR🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.118.235:443#GB🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
 
@@ -34,11 +38,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#GB🇬🇧
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ=?ed=2560/?BIA_CHANEL@JOKERRVPN&security=tls&alpn=h2,http/1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#US🇺🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ=?ed=2560/?BIA_CHANEL@JOKERRVPN&security=tls&alpn=h2,http/1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#CA🇨🇦
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#INT🌍
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#CA🇨🇦
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
 
