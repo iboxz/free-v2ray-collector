@@ -1,7 +1,5 @@
  vless://65da960e-97bd-499c-a79f-69c8c3a6984d@jahed.mobiletoskan.com:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#IR🇮🇷
 
-vless://722ad2c6-03aa-450c-a4a7-25986fd415ac@biography.com:80?encryption=none&security=none&type=tcp&headerType=none#US🇺🇸
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#US🇺🇸
 
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#US🇺🇸
@@ -26,7 +24,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/TELEGRAM
 
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&alpn=http/1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#INT🌍
 
-vless://2b5feae8-1a36-43cd-a722-83522e34853c@57.128.178.253:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&type=tcp&sni=en.linceedab.com#GB🇬🇧
+vless://2b5feae8-1a36-43cd-a722-83522e34853c@57.128.178.253:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&type=tcp&sni=en.linceedab.com#FR🇫🇷
 
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@195.226.194.122:443?path=/TG@wxgqlfx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vkk.wxgqlfx.cn&fp=random&type=ws&sni=vkk.wxgqlfx.cn#NL🇳🇱
 
@@ -34,7 +32,7 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvm
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#INT🌍
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#US🇺🇸
 
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@193.42.62.215:8443?path=/TG@wxgqlfx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vkk.wxgqlfx.cn&fp=random&type=ws&sni=vkk.wxgqlfx.cn#FR🇫🇷
 
@@ -66,9 +64,21 @@ vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=/?ed=2560&sec
 
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=/?ed=2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#INT🌍
 
-vless://Parsashonam@151.101.0.155:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttpNpv.ir&type=xhttp#US🇺🇸
+vless://Parsashonam-262@speedtest.net:80?type=xhttp&path=/-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam&host=ParsashonamTelegramChannel0.ir&mode=auto&security=none#US🇺🇸
 
-vless://d7da7d54-1fdd-48b7-bf22-89efef5a2478@151.101.0.155:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttp.global.ssl.fastly.net&type=xhttp#US🇺🇸
+vless://Parsashonam-262@151.101.2.216:80?type=xhttp&path=/-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam&host=ParsashonamTelegramChannel0.ir&mode=auto&security=none#US🇺🇸
+
+vless://Parsashonam-262@151.101.3.8:80?type=xhttp&path=/-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam&host=ParsashonamTelegramChannel0.ir&mode=auto&security=none#US🇺🇸
+
+vless://Parsashonam-262@151.101.130.219:80?type=xhttp&path=/-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam-----Parsashonam&host=ParsashonamTelegramChannel0.ir&mode=auto&security=none#US🇺🇸
+
+vless://Parsashonam@speedtest.net:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttpNpv.ir&type=xhttp#US🇺🇸
+
+vless://Parsashonam@151.101.2.216:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttpNpv.ir&type=xhttp#US🇺🇸
+
+vless://Parsashonam@151.101.3.8:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttpNpv.ir&type=xhttp#US🇺🇸
+
+vless://Parsashonam@151.101.0.155:80?mode=auto&path=/Parsashonam?ed=2048&security=none&encryption=none&host=ParsashonamTestXhttpNpv.ir&type=xhttp#US🇺🇸
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
