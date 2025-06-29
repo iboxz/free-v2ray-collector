@@ -20,19 +20,19 @@ vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=/?ed=2560&secu
 
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#US🇺🇸
 
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#US🇺🇸
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#CA🇨🇦
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#US🇺🇸
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#INT🌍
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#US🇺🇸
 
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#INT🌍
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#US🇺🇸
 
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#INT🌍
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#CA🇨🇦
 
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#INT🌍
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#CA🇨🇦
 
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#INT🌍
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#CA🇨🇦
 
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?path=/?ed=2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#INT🌍
 
@@ -86,5 +86,5 @@ vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
-vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?security=&type=tcp&encryption=none#CA🇨🇦
+vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?security=&type=tcp&encryption=none#US🇺🇸
 
