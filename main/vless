@@ -6,27 +6,27 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&se
 
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#US🇺🇸
 
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=/?ed=2560&security=tls&encryption=none&host=rc.ylks0033.dpdns.org&type=ws&sni=rc.ylks0033.dpdns.org#CA🇨🇦
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=/?ed=2560&security=tls&encryption=none&host=rc.ylks0033.dpdns.org&type=ws&sni=rc.ylks0033.dpdns.org#US🇺🇸
 
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvmhtztle?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#US🇺🇸
 
-vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#CA🇨🇦
+vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#US🇺🇸
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=randomized&type=ws&sni=azadnet1-706.pages.dev#US🇺🇸
 
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#CA🇨🇦
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#US🇺🇸
 
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#US🇺🇸
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE🇩🇪
 
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#US🇺🇸
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#CA🇨🇦
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#CA🇨🇦
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#DE🇩🇪
 
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#US🇺🇸
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#CA🇨🇦
 
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#FR🇫🇷
 
@@ -50,7 +50,9 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&sec
 
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#FR🇫🇷
 
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#INT🌍
+vless://fb557b79-8554-40d4-994f-0f4be3ca0cee@enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz:2087?mode=gun&security=reality&encryption=none&pbk=Co_fWsuPQ7frIIzkuH-Y0EjHz5vOSh3ZaWVqg0m0YV0&fp=chrome&spx=/&type=grpc&serviceName=enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz&sni=yahoo.com#DE🇩🇪
+
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY?ed=443&security=none&encryption=none&host=my.ski1plag.ir&type=ws#INT🌍
 
 vless://Parsashonam-274@104.17.147.22:2086?path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed=2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#INT🌍
 
