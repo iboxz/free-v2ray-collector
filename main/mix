@@ -1,4 +1,10 @@
- vless://0b608181-5ae5-4126-a7be-9cc1bedbe152@tunnel.dearagoon.sbs:60619?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
+ vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#LK🇱🇰
+
+vmess://eyJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiIzNDc0ZWJhOS02ZjQ2LTQxNGMtYTk0Zi1iZjI3OTI4YTY0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNzk3NyIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#IR🇮🇷
+
+vless://0b608181-5ae5-4126-a7be-9cc1bedbe152@tunnel.dearagoon.sbs:60619?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 
 vless://telegram-id-ArV2ray@104.18.26.90:80?path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#US🇺🇸
 
@@ -66,21 +72,15 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#DE🇩🇪
 
-vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=105e89ba3d2a1c3b#DE🇩🇪
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=ashil.tas-bazi.com&fp=firefox&type=xhttp&sni=ashil.tas-bazi.com#US🇺🇸
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?path=/Telegram@V2ray_Alpha=?ed=2560&security=tls&encryption=none&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#US🇺🇸
+vless://b692bef6-e13a-4e32-9ae3-968d30500b06@voip.fast.hosting-ip.com:80?mode=auto&path=/mx?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=mxishopyour-name.global.ssl.fastly.net&type=xhttp#US🇺🇸
 
-vless://60978be7-0ab8-4167-9883-db983114d4d1@nl.ir.tekcloud.site:45431?security=none&encryption=none&host=taaghche.com&headerType=http&type=tcp#IR🇮🇷
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
-
-vmess://eyJhZGQiOiJwcm8yLnByZ2FtZS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDM1NDdmZjUtYzE2Zi00YjVmLWI3NWMtNDhlOWUwNjg1NzE2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1OTQ0MiIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#GB🇬🇧
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB🇬🇧
+
+vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR🇮🇷
 
 vless://Parsashonam-277@104.17.147.22:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
 
