@@ -1,6 +1,6 @@
 # [Free V2ray Collector Website](https://free-v2ray-collector.glitch.me/)
 
-![Website Preview]([https://free-v2ray-collector.glitch.me/assets/websiteImg.png](https://v2ray-collector.gt.tc/assets/websiteImg.png))
+![Website Preview](https://v2ray-collector.gt.tc/assets/websiteImg.png)
 
 ## Features
 
