@@ -10,6 +10,19 @@
 - Web-based access with subscription links
 - Support for various protocols including mix, reality, vless, vmess, shadowsocks, and trojan
 
+## Direct Config Access
+
+Below are the subscription links for each protocol:
+
+| Protocol    | Subscription Link                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
+| Reality     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality)     |
+| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
+| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
+| Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
+| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan)      |
+
 ## How to Use
 
 ### - Getting Configs
@@ -53,18 +66,6 @@ There are two ways to use these configs:
 5. Set auto-update interval (if available in your client)
 6. Click update/import to load the configs
 
-## Direct Config Access
-
-Below are the subscription links for each protocol:
-
-| Protocol    | Subscription Link                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
-| Reality     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality)     |
-| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
-| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
-| Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
-| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan)      |
 
 ##
 
