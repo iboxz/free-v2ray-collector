@@ -13,7 +13,7 @@
         titles: ["v2rayN"],
       },
       android: {
-        links: ["https://play.google.com/store/apps/details?id=com.v2ray.ang", "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases"],
+        links: ["https://en.v2rayng.org/download/", "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases"],
         titles: ["v2rayNG", "NekoBox"],
       },
       ios: {
