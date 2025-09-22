@@ -69,4 +69,4 @@ There are two ways to use these configs:
 
 ##
 
-Copyright © 2025 [FirstIBOX]("https://firstibox.glitch.me/) / All rights reserved
+Copyright © 2025 ![FirstIBOX]("https://firstibox.glitch.me/) / All rights reserved
