@@ -30,12 +30,14 @@
 There are two ways to use these configs:
 
 ### 1. Individual Config Copy
+
 - Copy individual configs directly from the website
 - Suitable for all V2Ray clients
 - Requires manual updates when configs change
 - Best for testing specific configurations
 
 ### 2. Subscription Link Import
+
 - Import the subscription link directly into your client
 - Automatically updates configs every 2 hours
 - More convenient for long-term use
@@ -43,6 +45,7 @@ There are two ways to use these configs:
 - Recommended method if your client supports it
 
 ### How to Use Subscription Links
+
 1. Copy the subscription link for your desired protocol
 2. Open your V2Ray client
 3. Look for options like "Add Subscription", "Import Subscription" or "Add From URL"
@@ -54,14 +57,14 @@ There are two ways to use these configs:
 
 Below are the subscription links for each protocol:
 
-| Protocol | Subscription Link |
-|----------|------------------|
-| Mix | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix) |
-| Reality | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality) |
-| VLESS | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless) |
-| VMESS | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess) |
+| Protocol    | Subscription Link                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
+| Reality     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality)     |
+| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
+| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
 | Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
-| Trojan | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan) |
+| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan)      |
 
 ##
 
