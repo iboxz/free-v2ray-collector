@@ -1,82 +1,54 @@
- vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#LK🇱🇰
+ vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#DE🇩🇪
 
-vmess://eyJhZGQiOiJnZXJtYW55LXNvbHV0aW9uLmJuaXdyaW5nLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGl2YXJjZG4uY29tIiwiaWQiOiIzNDc0ZWJhOS02ZjQ2LTQxNGMtYTk0Zi1iZjI3OTI4YTY0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNzk3NyIsInBzIjoiSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://4c360a19-8d5d-4c7b-b2cd-a4825714554a@134.122.15.246:2053?security=reality&encryption=none&pbk=G6mshB36vZocfQp04RGcOjWFs52JjJhdvpI7wApQf00&headerType=none&fp=chrome&type=tcp&sni=www.openstreetmap.org&sid=d7#US🇺🇸
 
-vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#IR🇮🇷
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#US🇺🇸
 
-vless://0b608181-5ae5-4126-a7be-9cc1bedbe152@tunnel.dearagoon.sbs:60619?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v6.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-vless://telegram-id-ArV2ray@104.18.26.90:80?path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#US🇺🇸
+vless://2988936d-3c33-4572-900c-40df2c63faa0@nl.horizongatex.org:2087?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=nl.horizongatex.org#US🇺🇸
 
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#US🇺🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
+vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NL🇳🇱
 
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#US🇺🇸
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 
-vless://6c64eb8d-81bd-4a9b-932c-a470a15e68e2@84.32.190.251:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NL🇳🇱
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v6.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?path=/?ed=2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#US🇺🇸
+vless://turboo-server@turboo-server.aftabz.com:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
+vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
+vmess://eyJhZGQiOiI0Ny4yMzkuMjA0LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NjYwOGQyYy1iN2I0LTRjZGUtYTYzYi0zM2Q2ZTBiNmZkNjIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOiIzMzYxMSIsInBzIjoiSEtcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3,h2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
+vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#US🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#US🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
+vless://031fe63c-f7da-40b7-960d-1101df6eda60@mstr.fastly80.hosting-ip.com:80?path=/admin&security=none&encryption=none&host=Gn8656.io&type=ws#US🇺🇸
 
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#US🇺🇸
+vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#RU🇷🇺
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
+vless://Parsashonam-312@91.99.16.244:443?type=xhttp&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&host=&mode=auto&security=reality&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&sni=Google.com&sid=61e683d41fdb&spx=/#DE🇩🇪
 
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?path=/?ed=2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#US🇺🇸
+vless://Parsashonam-312@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#SE🇸🇪
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#US🇺🇸
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB🇬🇧
-
-vless://98635c25-7ce5-416e-9a45-3fcadc878f93@62739db65dd1d340.jjavaher.ir:11001?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-
-vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=/olem/ws?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#US🇺🇸
-
-vless://Parsashonam-277@104.17.147.22:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
-
-vless://Parsashonam-277@172.66.168.210:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
-
-vless://Parsashonam-277@188.114.96.0:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
-
-vless://Parsashonam-277@104.16.53.11:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
-
-vless://Parsashonam-276@104.16.53.11:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=FragmentFi.Rubika.cYoU.&security=none#US🇺🇸
-
-vless://980176a7-0350-40c1-afa7-42367ed04d1c@104.16.53.11:2086?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam/?ed=2560&security=none&encryption=none&host=Parsashonam-de.Rubika.cYoU.&type=httpupgrade#US🇺🇸
+vless://Parsashonam-312@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#INT🌍
 
 vless://ac6b3d48-d16f-4125-9f17-d986541a3ee9@web.bbv2ry.pics:443?type=ws&path=/&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http/1.1,h2&sni=Sky2.bbv2ry.pics#INT🌍
 
