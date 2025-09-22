@@ -278,5 +278,5 @@
   });
 
   document.getElementById("IBOX").addEventListener("click", function () {
-    window.open("https://firstibox.glitch.me/", "_blank");
+    window.open("https://firstibox.com/", "_blank");
   });
