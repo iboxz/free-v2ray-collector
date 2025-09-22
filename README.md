@@ -1,4 +1,4 @@
-# [Free V2ray Collector Website](https://free-v2ray-collector.glitch.me/)
+# [Free V2ray Collector Website](https://v2ray-collector.gt.tc/)
 
 ![Website Preview](https://v2ray-collector.gt.tc/assets/websiteImg.png)
 
@@ -69,4 +69,4 @@ There are two ways to use these configs:
 
 ##
 
-Copyright © 2025 [FirstIBOX]("https://firstibox.glitch.me/) / All rights reserved
+Copyright © 2025 [FirstIBOX](http://firstibox.com/) / All rights reserved
