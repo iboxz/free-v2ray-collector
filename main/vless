@@ -34,7 +34,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@167.68.42.168:443?mode=gun&security
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#US🇺🇸
 
-vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.de.test.digicyber.click.&type=ws#CA🇨🇦
+vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.de.test.digicyber.click.&type=ws#US🇺🇸
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#US🇺🇸
 
