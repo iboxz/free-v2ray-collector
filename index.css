@@ -29,20 +29,31 @@
 .loader {
   font-family: "LeagueGothic";
   font-size: 2rem;
-  color: #000000;
   font-size: clamp(6rem, 15vmin, 100rem);
+  color: #000000;
   text-wrap: nowrap;
+
   background-color: white;
   height: min-content;
-  width: fit-content;
-  animation: scroll-left 14s linear infinite;
+  width: max-content;
+
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll-left 150s linear infinite;
 }
+
+.loader::after {
+  content: "LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY";
+
+  white-space: nowrap;
+}
+
 @keyframes scroll-left {
   0% {
-    transform: translateX(0%);
+    transform: translate3d(0, 0, 0);
   }
   100% {
-    transform: translateX(-90%);
+    transform: translate3d(-100%, 0, 0);
   }
 }
 

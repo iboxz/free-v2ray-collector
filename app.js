@@ -166,11 +166,11 @@
         document.getElementById("loading-screen").style.display = "none";
       },
     });
-    gsap.to(".loader", {
+/*     gsap.to(".loader", {
       paddingLeft: "1000%",
       delay: delayTime,
       duration: 1,
-    });
+    }); */
     gsap.to(".sectionHero #hereTitleTop div:nth-child(1) div:nth-child(2)", {
       duration: 3,
       marginRight: "0%",
