@@ -216,7 +216,7 @@ window.addEventListener("load", (event) => {
     x: "5%",
     scrollTrigger: {
       trigger: ".sectionDownload > p",
-      toggleActions: "play reset play reverse",
+      toggleActions: "play none",
       start: "center 70%",
       end: "center -20%",
     },
@@ -240,7 +240,7 @@ window.addEventListener("load", (event) => {
     skewY: -5,
     scrollTrigger: {
       trigger: ".sectionConfig",
-      toggleActions: "play none none reverse",
+      toggleActions: "play none",
       start: "center 70%",
       end: "center -50%",
     },
