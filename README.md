@@ -17,7 +17,6 @@ Below are the subscription links for each protocol:
 | Protocol    | Subscription Link                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------ |
 | Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
-| Reality     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality)     |
 | VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
 | VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
 | Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
@@ -25,20 +24,11 @@ Below are the subscription links for each protocol:
 
 ## How to Use
 
-### - Getting Configs
-
-1. Go to the "Get Config" section.
-2. Choose one of the available protocols (mix, reality, vless, vmess, shadowsocks, trojan).
-3. Click on the "fetch link" button to get the config link.
-4. Click on the "copy" button to copy the link.
-
 ### - Software Download
 
 1. Go to the "Download Software" section.
 2. Choose your desired platform (Windows, Android, iOS, MacOS, Linux).
 3. Click on the respective button to start the download.
-
-## Usage Methods
 
 There are two ways to use these configs:
 
