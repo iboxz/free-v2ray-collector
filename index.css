@@ -80,6 +80,7 @@
   font-family: "Montserrat";
   font-size: clamp(1rem, 1.1vw, 100rem);
   font-weight: 800;
+  text-transform: capitalize;
 
   display: flex;
   flex-direction: row;
@@ -273,6 +274,7 @@
     align-items: center;
     flex-direction: column;
     padding-right: 0;
+    
   }
   .sectionHero .navbarHolder > p {
     border-radius: 10vmin;
@@ -281,7 +283,7 @@
 
     display: flex;
     justify-content: center;
-    padding: 1vmin 1.5vmin;
+    padding: 1.5vmin 1.5vmin;
     width: calc(100% - 10vmax);
     margin-top: 1vmax;
   }

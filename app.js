@@ -90,10 +90,9 @@ function copyLink(copyText) {
   copyText.textContent = "copied!";
 
   tempInput.select();
-  tempInput.setSelectionRange(0, 99999); /* For mobile devices */
+  tempInput.setSelectionRange(0, 99999);
   document.execCommand("copy");
 
-  //   copyText.onClick = smoother.scrollTo(".sectionConfig", true, "top top");
 }
 function fetchLink() {
   document.querySelector(".mainContainer #topSection p").textContent = "copy";
@@ -125,7 +124,7 @@ let smoother = ScrollSmoother.create({
 
 document.querySelectorAll("#ButtonDownloadSection").forEach((element) => {
   element.addEventListener("click", () => {
-    smoother.scrollTo("#sectionDownload", true, "top top");
+    smoother.scrollTo("#sectionDownload", true, "top 20%");
   });
 });
 
