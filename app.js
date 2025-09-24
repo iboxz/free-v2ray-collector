@@ -133,18 +133,6 @@ document.querySelectorAll("#ButtonConfigSection").forEach((element) => {
   });
 });
 
-gsap.to("main", {
-  scrollTrigger: {
-    trigger: ".sectionDownload",
-    start: "top 30vh",
-    end: "bottom 70vh",
-    toggleActions: "play reverse play reverse",
-    scrub: false,
-  },
-  duration: 0.5,
-  filter: "invert(1)",
-});
-
 const disableScroll = () => {
   document.body.style.overflow = "hidden";
 };
@@ -219,50 +207,64 @@ window.addEventListener("load", (event) => {
     scale: "1.5",
     delay: delayTime,
   });
-});
 
-gsap.from(".sectionDownload > p", {
-  duration: 2,
-  ease: "power1.out",
-  skewY: 10,
-  y: "50%",
-  x: "5%",
-  scrollTrigger: {
-    trigger: ".sectionDownload > p",
-    toggleActions: "play reset play reverse",
-    start: "center 70%",
-    end: "center -20%",
-  },
-});
+  gsap.from(".sectionDownload > p", {
+    duration: 2,
+    ease: "power1.out",
+    skewY: 10,
+    y: "50%",
+    x: "5%",
+    scrollTrigger: {
+      trigger: ".sectionDownload > p",
+      toggleActions: "play reset play reverse",
+      start: "center 70%",
+      end: "center -20%",
+    },
+  });
 
-gsap.to(CSSRulePlugin.getRule(".sectionHero .imageHolder::before"), {
-  scrollTrigger: {
-    trigger: ".sectionHero",
-    start: "40% center",
-    end: "bottom center",
-    scrub: 2,
-  },
-  cssRule: {
-    y: "200%",
-  },
-});
+  gsap.to(CSSRulePlugin.getRule(".sectionHero .imageHolder::before"), {
+    scrollTrigger: {
+      trigger: ".sectionHero",
+      start: "40% center",
+      end: "bottom center",
+      scrub: 2,
+    },
+    cssRule: {
+      y: "200%",
+    },
+  });
 
-gsap.from(".sectionConfig", {
-  duration: 1,
-  ease: "power1.out",
-  skewY: -5,
-  scrollTrigger: {
-    trigger: ".sectionConfig",
-    toggleActions: "play none none reverse",
-    start: "center 70%",
-    end: "center -50%",
-  },
-});
+  gsap.from(".sectionConfig", {
+    duration: 1,
+    ease: "power1.out",
+    skewY: -5,
+    scrollTrigger: {
+      trigger: ".sectionConfig",
+      toggleActions: "play none none reverse",
+      start: "center 70%",
+      end: "center -50%",
+    },
+  });
 
-document.getElementById("github").addEventListener("click", function () {
-  window.open("https://github.com/iboxz/free-v2ray-collector", "_blank");
-});
+  if (window.innerWidth > 768) {
+    gsap.to("main", {
+      scrollTrigger: {
+        trigger: ".sectionDownload",
+        start: "top center",
+        end: "bottom center",
+        toggleActions: "play reverse play reverse",
+        scrub: false,
+      },
+      duration: 0.5,
+      filter: "invert(1)",
+    });
+  }
 
-document.getElementById("IBOX").addEventListener("click", function () {
-  window.open("https://firstibox.com/", "_blank");
+  document.getElementById("github").addEventListener("click", function () {
+    window.open("https://github.com/iboxz/free-v2ray-collector", "_blank");
+  });
+
+  document.getElementById("IBOX").addEventListener("click", function () {
+    window.open("https://firstibox.com/", "_blank");
+  });
 });
