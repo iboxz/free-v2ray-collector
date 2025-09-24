@@ -17,7 +17,6 @@ Below are the subscription links for each protocol:
 | Protocol    | Subscription Link                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------ |
 | Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
-| Reality     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/reality)     |
 | VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
 | VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
 | Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
