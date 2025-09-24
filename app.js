@@ -134,11 +134,15 @@ document.querySelectorAll("#ButtonConfigSection").forEach((element) => {
 });
 
 const disableScroll = () => {
-  document.body.style.overflow = "hidden";
+  document.body.style.overflowY = "hidden";
+  document.body.style.overflowX = "hidden";
+  document.documentElement.style.overflowX = "hidden";
+  document.documentElement.style.overflowY = "hidden";
 };
 
 const enableScroll = () => {
-  document.body.style.overflow = "";
+  document.documentElement.style.overflowY = "";
+  document.body.style.overflowY = "";
 };
 
 window.addEventListener("load", (event) => {
