@@ -92,7 +92,6 @@ function copyLink(copyText) {
   tempInput.select();
   tempInput.setSelectionRange(0, 99999);
   document.execCommand("copy");
-
 }
 function fetchLink() {
   document.querySelector(".mainContainer #topSection p").textContent = "copy";
@@ -124,7 +123,7 @@ let smoother = ScrollSmoother.create({
 
 document.querySelectorAll("#ButtonDownloadSection").forEach((element) => {
   element.addEventListener("click", () => {
-    smoother.scrollTo("#sectionDownload", true, "top 20%");
+    smoother.scrollTo("#sectionDownload", true, "top 20vh");
   });
 });
 
@@ -137,8 +136,8 @@ document.querySelectorAll("#ButtonConfigSection").forEach((element) => {
 gsap.to("main", {
   scrollTrigger: {
     trigger: ".sectionDownload",
-    start: "top 30%",
-    end: "bottom 70%",
+    start: "top 30vh",
+    end: "bottom 70vh",
     toggleActions: "play reverse play reverse",
     scrub: false,
   },
@@ -258,28 +257,6 @@ gsap.from(".sectionConfig", {
     start: "center 70%",
     end: "center -50%",
   },
-});
-
-gsap.to(".windows > div > img", {
-  scrollTrigger: {
-    trigger: ".windows > div",
-    start: "top center",
-    end: "bottom center",
-    scrub: 2,
-  },
-  y: "50%",
-  duration: 1,
-});
-
-gsap.to(".android > div > img", {
-  scrollTrigger: {
-    trigger: ".android > div",
-    start: "top center",
-    end: "bottom center",
-    scrub: 2,
-  },
-  y: "50%",
-  duration: 1,
 });
 
 document.getElementById("github").addEventListener("click", function () {
