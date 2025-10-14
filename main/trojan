@@ -1,8 +1,8 @@
 trojan://01TELEGRAM-ID-conf0088@abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au:22878?security=tls&alpn=h3,h2,http/1.1&headerType=&fp=chrome&type=tcp#🏴‍☠️ UN | abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au
 trojan://telegram-id-directvpn@13.39.241.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.241.57
 trojan://telegram-id-directvpn@15.236.214.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.214.190
-trojan://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@172.66.44.58:443?security=tls&type=ws&sni=sflslf0flk0sfk0sf.pages.dev&path=/Telegram@Linkvws?ed=2560&host=sflslf0flk0sfk0sf.pages.dev#🇨🇦 CA | 172.66.44.58
-trojan://telegram-id-directvpn@3.124.147.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.124.147.46
+trojan://telegram-id-directvpn@3.220.69.59:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇺🇸 US | 3.220.69.59
+trojan://telegram-id-directvpn@13.37.210.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.210.69
 trojan://wulrTa8e-iPIIlakBo7Dgg@gr.sashabike.ir:44936?security=reality&pbk=RwNVeeU37VN4RCGNJhFFYTpHiylHq3CELUa9RNB1ySQ&host=varzesh3.com&headerType=none&fp=chrome&type=tcp&sni=tgju.org.www.tgju.org&sid=1db90c4dfd98632f#🇩🇪 DE | 91.107.145.195
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@13.39.241.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.241.57
@@ -14,5 +14,3 @@ trojan://telegram-id-v2rayvpnchannel@13.39.241.57:22223?security=tls&alpn=http/1
 trojan://telegram-id-v2rayvpnchannel@15.236.214.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.214.190
 trojan://AgnP0utNpk@dfgh.pmgdrs.site:11295?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=Wr-XbP0mD6n6H_EJE5KOcjgT2yqsopvOTTMgD8pw5HA&fp=chrome&sni=yahoo.com&sid=41fd1a53d877&spx=/#🇩🇪 DE | 91.107.133.11
 trojan://lmi0Gn7ZCo@dfgh.pmgdrs.site:11295?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=Wr-XbP0mD6n6H_EJE5KOcjgT2yqsopvOTTMgD8pw5HA&fp=chrome&sni=yahoo.com&sid=41fd1a53d877&spx=/#🇩🇪 DE | 91.107.133.11
-trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🇨🇦 CA | 162.159.153.13
-trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#🇺🇸 US | 104.18.12.229
