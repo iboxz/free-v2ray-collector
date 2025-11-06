@@ -7,8 +7,8 @@ trojan://telegram-id-privatevpns@63.180.184.162:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@51.44.127.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.127.0
 trojan://D3OJA7xY5U@209.200.246.53:10785/?type=grpc&serviceName=&authority=&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&sni=cloudflare.com&sid=20b09680&spx=/#🇨🇦 CA | 209.200.246.53
 trojan://D3OJA7xY5U@209.200.246.53:10785/?type=grpc&serviceName=&authority=&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&sni=cloudflare.com&sid=20b09680&spx=/#🇨🇦 CA | 209.200.246.53
-trojan://Aimer@176.124.223.40:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#🇨🇳 CN | 176.124.223.40
-trojan://Aimer@206.238.236.90:2087/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#🇸🇬 SG | 206.238.236.90
+trojan://Aimer@206.238.237.118:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🇸🇬 SG | 206.238.237.118
+trojan://bpb-trojan@45.131.209.114:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇧🇿 BZ | 45.131.209.114
 trojan://telegram-id-v2rayvpnchannel@63.180.184.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.180.184.162
 trojan://telegram-id-v2rayvpnchannel@51.44.127.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.127.0
 trojan://telegram-id-v2rayvpnchannel@51.44.127.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.127.0
