@@ -1,6 +1,7 @@
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🇺🇸 US | 104.26.12.31
 trojan://telegram-id-directvpn@13.38.220.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.220.77
 trojan://telegram-id-directvpn@35.181.179.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.179.99
+trojan://telegram-id-directvpn@35.181.212.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.212.211
 trojan://wulrTa8e-iPIIlakBo7Dgg@gr.sashabike.ir:44936?security=reality&pbk=RwNVeeU37VN4RCGNJhFFYTpHiylHq3CELUa9RNB1ySQ&host=varzesh3.com&headerType=none&fp=chrome&type=tcp&sni=tgju.org.www.tgju.org&sid=1db90c4dfd98632f#🇩🇪 DE | 91.107.145.195
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@13.38.220.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.220.77
