@@ -1,8 +1,7 @@
 trojan://38af00d3-7c80-49fe-b91a-34d0d8044ee2@57.129.16.72:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/57.129.16.72=2053&host=joss.gpj1.web.id#🇩🇪 DE | 57.129.16.72
 trojan://telegram-id-directvpn@35.181.120.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.120.20
 trojan://telegram-id-directvpn@35.181.120.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.120.20
-trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?path=/Free-VPN-CF-Geo-Project/36.50.90.241=35951&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#undefined HK | 36.50.90.241
-trojan://700f759e-6ecb-4632-861c-2c88b1ffc6c4@dtbr1.bitznet.one:33016?allowInsecure=1&sni=cert.bitbyte.one#🏴‍☠️ UN | dtbr1.bitznet.one
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#🇪🇪 EE | 37.252.5.75
 trojan://telegram-id-privatevpns@35.181.120.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.120.20
 trojan://telegram-id-privatevpns@35.181.120.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.120.20
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.89.176
