@@ -1,7 +1,7 @@
 trojan://telegram-id-directvpn@13.38.225.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.225.85
 trojan://telegram-id-directvpn@13.37.18.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.18.131
-trojan://pHEiSqez.13#🏴‍☠️ UN | pHEiSqez.13
-trojan://01b69355-17c1-4298-9e00-a266946fd977@176.10.124.178:443?path=/Free-VPN-CF-Geo-Project/176.10.124.178=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#🇨🇭 CH | 176.10.124.178
+trojan://telegram-id-directvpn@63.180.136.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.180.136.14
+trojan://2af761ca-a375-4a12-a68f-c4307db89f59@193.181.208.28:8443?path=/Free-VPN-CF-Geo-Project/193.181.208.28=8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#🇩🇰 DK | 193.181.208.28
 trojan://pHEiSqez.13#🏴‍☠️ UN | pHEiSqez.13
 trojan://telegram-id-privatevpns@13.38.225.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.225.85
 trojan://telegram-id-privatevpns@13.37.18.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.18.131
@@ -11,7 +11,7 @@ trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.co
 trojan://bpb-trojan@45.80.111.9:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇩🇪 DE | 45.80.111.9
 trojan://telegram-id-v2rayvpnchannel@13.38.225.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.225.85
 trojan://telegram-id-v2rayvpnchannel@13.37.18.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.18.131
-trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443?path=/Free-VPN-CF-Geo-Project/62.60.246.168=443&security=tls&host=joss.gpj.web.id&type=ws&sni=joss.gpj.web.id#🇫🇷 FR | 62.60.246.168
+trojan://f8eb228a-58a8-430f-ae39-f2a0ebbf8460@94.142.138.97:8443?path=/Free-VPN-CF-Geo-Project/94.142.138.97=8443&security=tls&host=joss.gpj.web.id&type=ws&sni=joss.gpj.web.id#🇫🇮 FI | 94.142.138.97
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🇵🇱 PL | 5.188.108.13
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#undefined HK | 58.152.26.173
 trojan://sWRWtubCe6@hbn.pmgdrs.site:37563?type=grpc&serviceName=&authority=&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
