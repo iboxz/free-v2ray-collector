@@ -1,12 +1,10 @@
 trojan://telegram-id-directvpn@15.188.166.63:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.166.63
 trojan://telegram-id-directvpn@35.180.217.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.217.68
-trojan://aacabcb-acba-caba-bdac-babccbcaabac@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
-trojan://01b69355-17c1-4298-9e00-a266946fd977@176.10.124.178:443?path=/Free-VPN-CF-Geo-Project/176.10.124.178=443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#🇨🇭 CH | 176.10.124.178
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#🇨🇦 CA | 38.96.254.102
 trojan://telegram-id-privatevpns@15.188.166.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.166.63
 trojan://telegram-id-privatevpns@35.180.217.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.217.68
 trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&serviceName=&authority=&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&sni=cloudflare.com&sid=14&spx=/#🇺🇸 US | 180.131.145.161
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&serviceName=&authority=&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&sni=cloudflare.com&sid=3e&spx=/#🇨🇦 CA | 209.200.246.53
-trojan://aacabcb-acba-caba-bdac-babccbcaabac@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#🇨🇦 CA | 172.67.65.113
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&sni=104.17.244.30&allowInsecure=1#🇺🇸 US | 104.17.244.30
 trojan://telegram-id-v2rayvpnchannel@15.188.166.63:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.166.63
@@ -14,4 +12,3 @@ trojan://telegram-id-v2rayvpnchannel@35.180.217.68:22223?security=tls&alpn=http/
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🇵🇱 PL | 5.188.108.13
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#undefined HK | 58.152.26.173
 trojan://sWRWtubCe6@hbn.pmgdrs.site:37563?type=grpc&serviceName=&authority=&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.63.16
