@@ -1,5 +1,6 @@
 trojan://telegram-id-directvpn@52.47.110.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.110.123
 trojan://telegram-id-directvpn@35.181.119.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.119.56
+trojan://telegram-id-directvpn@15.156.28.198:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇨🇦 CA | 15.156.28.198
 trojan://telegram-id-privatevpns@52.47.110.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.110.123
 trojan://telegram-id-privatevpns@35.181.119.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.119.56
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&serviceName=&authority=&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&sni=cloudflare.com&sid=3e&spx=/#🇨🇦 CA | 209.200.246.53
