@@ -1,13 +1,17 @@
-trojan://telegram-id-directvpn@35.180.206.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.206.41
 trojan://telegram-id-directvpn@15.188.13.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.13.192
+trojan://telegram-id-directvpn@18.195.82.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.82.148
+trojan://ccaaabb-caba-aacb-dabc-aaacbcbaccbb@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
+trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?sni=sweetdream.sweetthunder.click&path=/#🇫🇷 FR | 217.69.10.156
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🇨🇦 CA | 198.57.27.27
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🇨🇦 CA | 198.57.27.27
-trojan://telegram-id-privatevpns@35.180.206.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.206.41
 trojan://telegram-id-privatevpns@15.188.13.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.13.192
+trojan://telegram-id-privatevpns@18.195.82.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.82.148
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&serviceName=&authority=&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&sni=cloudflare.com&sid=3e&spx=/#🇨🇦 CA | 209.200.246.53
 trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&serviceName=&authority=&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&sni=cloudflare.com&sid=14&spx=/#🇺🇸 US | 180.131.145.161
+trojan://ccaaabb-caba-aacb-dabc-aaacbcbaccbb@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#🇨🇦 CA | 172.67.65.113
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&sni=104.17.244.30&allowInsecure=1#🇺🇸 US | 104.17.244.30
+trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#🇨🇦 CA | 209.200.246.53
 trojan://telegram-id-v2rayvpnchannel@35.180.206.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.206.41
 trojan://telegram-id-v2rayvpnchannel@15.188.13.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.13.192
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🇨🇦 CA | 198.57.27.27
