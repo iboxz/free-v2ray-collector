@@ -1,12 +1,12 @@
 trojan://telegram-id-directvpn@52.47.206.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.206.247
 trojan://telegram-id-directvpn@13.37.111.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.111.9
-trojan://telegram-id-privatevpns@52.209.59.140:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.209.59.140
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&path=/#🇵🇱 PL | 5.188.108.13
+trojan://ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428@musashino.freetrade.link:443?allowInsecure=1#🏴‍☠️ UN | musashino.freetrade.link
 trojan://telegram-id-privatevpns@52.47.206.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.206.247
 trojan://telegram-id-privatevpns@13.37.111.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.111.9
 trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&serviceName=&authority=&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&sni=cloudflare.com&sid=14&spx=/#🇺🇸 US | 180.131.145.161
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&serviceName=&authority=&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&sni=cloudflare.com&sid=d9&spx=/#🇫🇷 FR | 145.223.70.115
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🇺🇸 US | 23.247.137.64
+trojan://ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428@musashino.freetrade.link:443?allowInsecure=1#🏴‍☠️ UN | musashino.freetrade.link
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🇺🇸 US | 23.247.137.64
 trojan://Aimer@172.67.65.113:2083/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me&allowInsecure=1#🇨🇦 CA | 172.67.65.113
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&sni=104.17.244.30&allowInsecure=1#🇺🇸 US | 104.17.244.30
