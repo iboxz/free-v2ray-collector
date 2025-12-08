@@ -1,9 +1,6 @@
 trojan://telegram-id-directvpn@15.188.34.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.34.139
 trojan://telegram-id-directvpn@51.45.54.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.54.160
-trojan://telegram-id-directvpn@13.39.212.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.212.231
-trojan://telegram-id-privatevpns@3.123.83.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.123.83.170
-trojan://623e1900-473d-4b72-8d6b-c3a2e3223e3e@117.164.185.222:21001?allowInsecure=1&sni=103-135-251-39.nhost.00cdn.com#🇨🇳 CN | 117.164.185.222
-trojan://auto@104.21.48.61:443?encryption=none&security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=/?ed=2560#🇨🇦 CA | 104.21.48.61
+trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&host=internet4everieone7.pages.dev#🇨🇦 CA | 172.67.204.84
 trojan://telegram-id-privatevpns@15.188.34.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.34.139
 trojan://telegram-id-privatevpns@51.45.54.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.54.160
 trojan://POORIARED@www.speedtest.net:443?type=ws&security=tls&sni=rEdfRee8.redfREE8.IR&fp=chrome&allowInsecure=0#🇨🇦 CA | 104.17.148.22
@@ -16,5 +13,4 @@ trojan://telegram-id-v2rayvpnchannel@15.188.34.139:22223?security=tls&alpn=http/
 trojan://telegram-id-v2rayvpnchannel@51.45.54.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.54.160
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#undefined HK | 58.152.26.173
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#🇨🇦 CA | 198.57.27.27
-trojan://telegram-id-v2rayvpnchannel@15.188.34.139:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.34.139
 trojan://telegram-id-v2rayvpnchannel@51.45.54.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.54.160
