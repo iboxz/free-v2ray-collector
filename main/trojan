@@ -1,10 +1,8 @@
 trojan://telegram-id-directvpn@13.37.34.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.34.128
 trojan://telegram-id-directvpn@13.39.249.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.249.92
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🇸🇪 SE | 70.34.218.149
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#🇯🇵 JP | 160.16.153.13
 trojan://telegram-id-privatevpns@13.37.34.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.34.128
 trojan://telegram-id-privatevpns@13.39.249.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.249.92
-trojan://POORIARED@www.speedtest.net:443?type=ws&security=tls&sni=rEdfRee8.redfREE8.IR&fp=chrome&allowInsecure=0#🇨🇦 CA | 104.17.147.22
+trojan://POORIARED@www.speedtest.net:443?type=ws&security=tls&sni=rEdfRee8.redfREE8.IR&fp=chrome&allowInsecure=0#🇨🇦 CA | 104.17.148.22
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🇨🇦 CA | 198.57.27.27
 trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=/#🇺🇸 US | 205.185.115.223
 trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=/#🇺🇸 US | 205.185.115.223
@@ -15,4 +13,3 @@ trojan://telegram-id-v2rayvpnchannel@13.39.249.92:22223?security=tls&alpn=http/1
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.138
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.138
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#🇨🇦 CA | 198.57.27.27
-trojan://telegram-id-v2rayvpnchannel@13.39.249.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.249.92
