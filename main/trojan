@@ -2,7 +2,10 @@ trojan://BxceQaOe@58.152.30.31:443?security=tls&insecure=1&headerType=none&type=
 trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?security=tls&insecure=0&host=TM-AZARBAYJAB1.vip.ne.net&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#undefined HK | 112.118.116.8
 trojan://telegram-id-directvpn@35.181.17.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.17.177
 trojan://telegram-id-directvpn@35.181.219.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.219.104
-trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#🇨🇦 CA | 172.67.134.185
+trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me/ripaojiedian#undefined HK | 58.152.26.107
+trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@36.138.100.57:21002?allowInsecure=1&sni=103-135-251-39.nhost.00cdn.com#🇨🇳 CN | 36.138.100.57
+trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@117.164.185.222:21002?allowInsecure=1&sni=103-135-251-39.nhost.00cdn.com#🇨🇳 CN | 117.164.185.222
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#🇮🇹 IT | 146.70.73.211
 trojan://POORIARED@172.67.134.185:443?type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#🇨🇦 CA | 172.67.134.185
 trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2#🇺🇸 US | 205.185.115.223
 trojan://telegram-id-privatevpns@35.181.17.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.17.177
@@ -16,6 +19,7 @@ trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&t
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#🇨🇦 CA | 172.67.134.185
 trojan://POORIARED@172.67.134.185:443?type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#🇨🇦 CA | 172.67.134.185
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇨🇦 CA | 172.67.134.185
+trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me/ripaojiedian#undefined HK | 58.152.26.107
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🇨🇦 CA | 172.67.134.185
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=ssp2.100896.xyz&allowInsecure=1#🇫🇷 FR | 141.101.120.10
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@188.114.97.58:443/?type=tcp&security=tls&sni=ssp1.100896.xyz&allowInsecure=1#🇨🇦 CA | 188.114.97.58
