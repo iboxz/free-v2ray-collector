@@ -1,14 +1,13 @@
 trojan://d30ab83dbde4480082048fb315bedebd@120.236.198.170:3387?encryption=none&security=tls&sni=120.236.198.170&type=raw&headertype=none#🇨🇳 CN | 120.236.198.170
-trojan://telegram-id-directvpn@63.182.45.246:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.182.45.246
 trojan://telegram-id-directvpn@3.68.162.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.68.162.4
-trojan://telegram-id-privatevpns@3.72.120.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.72.120.152
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click&path=/#🇸🇪 SE | 70.34.218.149
-trojan://5a2c16f9@104.19.220.22:443?security=tls&sni=snippets.kkii.eu.org&type=ws&path=//&Host=snippets.kkii.eu.org#🇨🇦 CA | 104.19.220.22
-trojan://telegram-id-privatevpns@63.182.45.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.182.45.246
+trojan://telegram-id-directvpn@15.237.39.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.39.122
+trojan://telegram-id-directvpn@52.29.42.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.29.42.219
+trojan://404a16fa-9eb0-42ed-8f18-65eba7202f05@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=/#🇹🇼 TW | 220.130.58.138
 trojan://telegram-id-privatevpns@3.68.162.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.68.162.4
-trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#🏴‍☠️ UN | seashell.qzz.io
-trojan://POORIARED@www.speedtest.net:443?type=ws&security=tls&sni=rEdfRee8.redfREE8.IR&fp=chrome&allowInsecure=0#🇨🇦 CA | 104.17.147.22
-trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=/#🇺🇸 US | 205.185.115.223
+trojan://telegram-id-privatevpns@15.237.39.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.39.122
+trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#🇨🇦 CA | 172.66.158.183
+trojan://POORIARED@www.speedtest.net:443?type=ws&security=tls&sni=rEdfRee8.redfREE8.IR&fp=chrome&allowInsecure=0#🇨🇦 CA | 104.17.148.22
+trojan://IXoJvZ7SJb@de.scpnb.top:44792/?type=grpc&serviceName=&authority=&security=reality&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&fp=chrome&sni=cloudflare.com&sid=95&spx=/#🇩🇪 DE | 146.103.42.41
 trojan://IXoJvZ7SJb@de.scpnb.top:44792/?type=grpc&serviceName=&authority=&security=reality&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&fp=chrome&sni=cloudflare.com&sid=95&spx=/#🇩🇪 DE | 146.103.42.41
 trojan://NISHIKUITAN111@104.17.244.30:443/?type=tcp&security=tls&sni=104.17.244.30&allowInsecure=1#🇺🇸 US | 104.17.244.30
 trojan://NISHIKUITAN222@188.114.97.167:443/?type=tcp&security=tls&sni=188.114.97.167&allowInsecure=1#🇨🇦 CA | 188.114.97.167
@@ -18,4 +17,4 @@ trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?typ
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.138
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#🇨🇦 CA | 198.57.27.27
 trojan://4SONxKA7ce@hbn.pmgdrs.site:37563?type=grpc&serviceName=&authority=&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
-trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240:8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#🇨🇦 CA | 104.20.33.44
+trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240:8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#🇬🇧 GB | 2a06:98c1:3121::
