@@ -1,8 +1,6 @@
 trojan://d30ab83dbde4480082048fb315bedebd@149.248.39.92:443?encryption=none&security=tls&sni=149.248.39.92&type=raw&headertype=none#🇺🇸 US | 149.248.39.92
 trojan://telegram-id-directvpn@15.236.5.106:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.5.106
 trojan://telegram-id-directvpn@35.180.94.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.94.81
-trojan://telegram-id-directvpn@35.180.5.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.5.69
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?security=tls&sni=_acme-challenge.2go.cloudns.be&type=ws&host=_acme-challenge.2go.cloudns.be&path=/#🇨🇦 CA | 172.64.149.209
 trojan://telegram-id-privatevpns@15.236.5.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.5.106
 trojan://telegram-id-privatevpns@35.180.94.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.94.81
 trojan://IXoJvZ7SJb@de.scpnb.top:44792/?type=grpc&serviceName=&authority=&security=reality&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&fp=chrome&sni=cloudflare.com&sid=95&spx=/#🇩🇪 DE | 146.103.42.41
@@ -14,3 +12,6 @@ trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?typ
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none#🇨🇦 CA | 198.57.27.27
 trojan://fq9NwX8OC1@hbn.pmgdrs.site:37563?type=grpc&serviceName=&authority=&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
+trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?path=/f2fc2a1f&security=tls&insecure=1&host=free-de-3.undef.network&type=ws&allowInsecure=1&sni=free-de-3.undef.network#🇩🇪 DE | 185.235.137.77
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
+trojan://telegram-id-v2rayvpnchannel@35.180.94.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.94.81
