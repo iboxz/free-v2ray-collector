@@ -1,9 +1,10 @@
 trojan://fkNw9e73uT@i9club.freedomefortecme.com:900?security=none&type=tcp&path=/&headerType=http&host=bmi.ir#🇩🇪 DE | 62.60.158.161
 trojan://5a2c16f9@172.64.147.168:2096?path=/Telegram🇨🇳WangCai2&security=tls&fp=chrome&type=ws&sni=snippets.kkii.eu.org#🇨🇦 CA | 172.64.147.168
-trojan://telegram-id-directvpn@13.36.202.63:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.202.63
 trojan://telegram-id-directvpn@3.76.159.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.76.159.25
-trojan://telegram-id-privatevpns@13.36.202.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.202.63
+trojan://telegram-id-directvpn@13.37.174.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.174.80
+trojan://59d2d083-2b47-4758-8d40-f05c4af165e8@jp04.135235.xyz:443?allowInsecure=1&sni=jp04.135235.xyz#🏴‍☠️ UN | jp04.135235.xyz
 trojan://telegram-id-privatevpns@3.76.159.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.76.159.25
+trojan://telegram-id-privatevpns@13.37.174.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.174.80
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 104.18.9.83
 trojan://fkNw9e73uT@i9club.freedomefortecme.com:900?type=tcp&path=/&host=bmi.ir&headerType=http&security=none#🇩🇪 DE | 62.60.158.161
 trojan://iWnFtzMiac@205.185.115.223:19258/?type=grpc&serviceName=&authority=&security=reality&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&fp=chrome&sni=cloudflare.com&sid=6d7efa97b2&spx=/#🇺🇸 US | 205.185.115.223
