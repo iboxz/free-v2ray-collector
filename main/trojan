@@ -3,8 +3,8 @@ trojan://telegram-id-directvpn@3.65.79.146:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.39.200.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.200.50
 trojan://telegram-id-privatevpns@3.65.79.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.65.79.146
 trojan://telegram-id-privatevpns@13.39.200.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.200.50
-trojan://XZ|P5}oQVc8V@8.6.112.0:443?path=/eyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=004.electrocellco-cf-004.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv#🇺🇸 US | 8.6.112.0
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
+trojan://TurbooServer@cdn.turbooserver.com:80?path=/ed=25&security=none&host=jone-turboo-server.com&type=ws#🇨🇦 CA | 151.101.193.242
 trojan://telegram-id-v2rayvpnchannel@3.65.79.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.65.79.146
 trojan://telegram-id-v2rayvpnchannel@13.39.200.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.200.50
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
