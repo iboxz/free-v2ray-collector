@@ -16,11 +16,11 @@ Below are the subscription links for each protocol:
 
 | Protocol    | Subscription Link                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------ |
-| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix)         |
-| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless)       |
-| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess)       |
-| Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks) |
-| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan)      |
+| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt)         |
+| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless.txt)       |
+| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess.txt)       |
+| Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks.txt) |
+| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan.txt)      |
 
 ## How to Use
 
