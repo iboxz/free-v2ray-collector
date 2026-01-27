@@ -1,13 +1,11 @@
 trojan://5a2c16f9@172.64.147.168:2096?path=/Telegram🇨🇳WangCai2&security=tls&fp=chrome&type=ws&sni=snippets.kkii.eu.org#🇨🇦 CA | 172.64.147.168
 trojan://telegram-id-directvpn@13.39.252.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.252.233
 trojan://telegram-id-directvpn@13.38.222.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.222.199
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.132.38:5076?allowInsecure=1&headerType=none&security=tls&sni=www.nintendogames.net&type=tcp#🇯🇵 JP | 160.16.132.38
 trojan://FreakConfig@77.232.142.141:42598?security=none&headerType=&type=tcp#🇷🇺 RU | 77.232.142.141
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#🇯🇵 JP | 160.16.63.16
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:3901?security=tls&sni=www.nintendogames.net#🇯🇵 JP | 160.16.63.16
 trojan://telegram-id-privatevpns@13.39.252.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.252.233
 trojan://telegram-id-privatevpns@13.38.222.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.222.199
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&allowinsecure=0&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 188.114.96.3
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83=8443&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=gzjx.dpdns.org#🇨🇦 CA | 172.64.152.23
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
 trojan://humanity@free1.aattaash.com:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#🇺🇸 US | 208.103.161.9
@@ -20,4 +18,3 @@ trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?typ
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://humanity@c.panelniazi.sbs:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴‍☠️ UN | c.panelniazi.sbs
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 172.64.152.23
-trojan://2ea04117-9a71-409c-b789-eec6e5f0a8f4@172.64.155.209:443?path=/172.235.54.221=443&security=tls&insecure=1&host=dragonhost9.qzz.io&type=ws&allowInsecure=1&sni=dragonhost9.qzz.io#🇨🇦 CA | 172.64.155.209
