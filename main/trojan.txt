@@ -1,10 +1,9 @@
 trojan://5a2c16f9@172.64.147.168:2096?path=/Telegram🇨🇳WangCai2&security=tls&fp=chrome&type=ws&sni=snippets.kkii.eu.org#🇨🇦 CA | 172.64.147.168
-trojan://telegram-id-directvpn@13.39.252.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.252.233
 trojan://telegram-id-directvpn@13.38.222.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.222.199
+trojan://telegram-id-directvpn@15.188.224.186:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.224.186
 trojan://FreakConfig@77.232.142.141:42598?security=none&headerType=&type=tcp#🇷🇺 RU | 77.232.142.141
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:3901?security=tls&sni=www.nintendogames.net#🇯🇵 JP | 160.16.63.16
-trojan://telegram-id-privatevpns@13.39.252.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.252.233
 trojan://telegram-id-privatevpns@13.38.222.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.222.199
+trojan://telegram-id-privatevpns@15.188.224.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.224.186
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&allowinsecure=0&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 188.114.96.3
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
@@ -16,5 +15,4 @@ trojan://telegram-id-v2rayvpnchannel@13.39.252.233:22223?security=tls&alpn=http/
 trojan://telegram-id-v2rayvpnchannel@13.38.222.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.222.199
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
-trojan://humanity@c.panelniazi.sbs:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🏴‍☠️ UN | c.panelniazi.sbs
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 172.64.152.23
