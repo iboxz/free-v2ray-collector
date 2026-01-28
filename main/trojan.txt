@@ -1,9 +1,6 @@
-trojan://n875vm39ii96@104.17.163.123:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&fp=random&type=ws&allowInsecure=0&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#🇨🇦 CA | 104.17.163.123
-trojan://5a2c16f9@172.64.147.168:2096?path=/Telegram🇨🇳WangCai2&security=tls&fp=chrome&type=ws&sni=snippets.kkii.eu.org#🇨🇦 CA | 172.64.147.168
 trojan://telegram-id-directvpn@15.236.15.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.15.89
 trojan://telegram-id-directvpn@35.181.70.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.70.172
 trojan://FreakConfig@77.232.142.141:42598?security=none&headerType=&type=tcp#🇷🇺 RU | 77.232.142.141
-trojan://qezSX0z8FSnU4MDb8CT8rQ206UMg6vtBQ091TxvKe4Q1T/ltuVg1IPIP0zHRfGW0cc3mgqUr+8YhnMlfhOH4F81ht5C/zsNSJ2tgTfWML1tlID3LpuQqMA1vtTqbmYk1lX9A4znLU+PXP5JNg3V8ZC2WOr3yMv7PLkroXY3g5WwC3+Rbvbkt+lIZgKASNxfko3iwyxXShgT0Qq6UBqSGRCrnzhoAkYJQ7OJb2/i2V9M=#🏴‍☠️ UN | qezSX0z8FSnU4MDb8CT8rQ206UMg6vtBQ091TxvKe4Q1T
 trojan://telegram-id-privatevpns@15.236.15.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.15.89
 trojan://telegram-id-privatevpns@35.181.70.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.70.172
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
