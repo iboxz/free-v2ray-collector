@@ -1,23 +1,23 @@
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 172.64.152.23
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.18.32.47
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 172.64.152.23
-trojan://telegram-id-directvpn@51.44.32.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.32.14
-trojan://telegram-id-directvpn@13.38.161.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.161.110
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🏴‍☠️ UN | 172.64.152.23
+trojan://telegram-id-directvpn@3.75.160.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 3.75.160.91
+trojan://telegram-id-directvpn@3.64.113.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 3.64.113.199
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.9.83
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.18.32.47
-trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 JP | 153.121.39.240
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 CA | 172.64.152.23
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🇨🇦 CA | 104.18.7.147
-trojan://telegram-id-privatevpns@51.44.32.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.32.14
-trojan://telegram-id-privatevpns@13.38.161.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.161.110
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷 FR | 88.214.24.235
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=/f2fc2a1f&type=ws#🇬🇧 GB | 2.56.179.102
+trojan://telegram-id-privatevpns@3.75.160.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.75.160.91
+trojan://telegram-id-privatevpns@3.64.113.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.64.113.199
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.18.32.47
 trojan://cKEKcaigdlmY@43.207.73.53:15105?security=tls&sni=appsvs.shop&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇯🇵 JP | 43.207.73.53
+trojan://telegram-id-privatevpns@3.75.160.91:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇩🇪 DE | 3.75.160.91
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.18.32.47
 trojan://telegram-id-v2rayvpnchannel@63.180.135.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.180.135.146
 trojan://telegram-id-v2rayvpnchannel@3.74.60.51:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.74.60.51
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇨🇦 CA | 104.18.32.47
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 104.18.32.47
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
