@@ -1,8 +1,9 @@
-trojan://telegram-id-directvpn@35.181.88.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.88.119
+trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=tcp&security=tls&sni=dc1bf227.vf-8co.pages.dev#🇨🇦 CA | 172.66.47.130
+trojan://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.162.74:443/?type=tcp&security=tls&sni=10tyu.iran.pp.ua#🇨🇦 CA | 172.67.162.74
 trojan://telegram-id-privatevpns@35.180.72.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.72.19
 trojan://telegram-id-directvpn@35.180.72.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.72.19
 trojan://telegram-id-directvpn@35.181.88.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.88.119
-trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 CA | 172.66.47.45
+trojan://33f64b81-358b-467f-bc9f-8780090c88de@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=/#🇹🇼 TW | 220.130.58.136
 trojan://puwRcQ88qrtFVVxgvjamTCl9FI59TEgpy5q04rU21FhktFr53aoEZV7NIkIhcneaSRQXG5H8kiTUhu0xeS6zUZ5Rd3trhPeG3fbrEXOKWkUvO+UCOGSTdPtszTYxEhR4Wuos8L1kCwZldNB1irpxjrNnujNFBLf1KB+mZgFyS2c=#🏴‍☠️ UN | puwRcQ88qrtFVVxgvjamTCl9FI59TEgpy5q04rU21FhktFr53aoEZV7NIkIhcneaSRQXG5H8kiTUhu0xeS6zUZ5Rd3trhPeG3fbrEXOKWkUvO+UCOGSTdPtszTYxEhR4Wuos8L1kCwZldNB1irpxjrNnujNFBLf1KB+mZgFyS2c=
 trojan://telegram-id-privatevpns@35.180.72.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.72.19
 trojan://telegram-id-privatevpns@35.181.88.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.88.119
