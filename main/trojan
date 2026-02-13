@@ -1,8 +1,11 @@
-trojan://telegram-id-directvpn@52.59.144.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.59.144.4
+trojan://7FjbPVzZX5ZD94fAUxVycSaahvz0Jr3a@node3.neovpn.store:8446?security=tls&sni=node3.neovpn.store&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#🇩🇪 DE | 109.107.181.249
 trojan://telegram-id-directvpn@52.47.88.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.88.193
+trojan://telegram-id-directvpn@15.188.96.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.96.190
+trojan://42714fa2-595c-4993-8b9b-83081e51c076@bestcdn0.868863.xyz:2087?allowInsecure=1&sni=17708924955570.682637.xyz&type=ws&host=17708924955827.682637.xyz&path=/ahyrtuyjykl#🇨🇦 CA | 104.18.38.47
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gbnh.7777112.xyz:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#🇬🇧 GB | 2a06:98c1:3120::
 trojan://puwRcQ88qrtFVVxgvjamTCl9FI59TEgpy5q04rU21FhktFr53aoEZV7NIkIhcneaSRQXG5H8kiTUhu0xeS6zUZ5Rd3trhPeG3fbrEXOKWkUvO+UCOGSTdPtszTYxEhR4Wuos8L1kCwZldNB1irpxjrNnujNFBLf1KB+mZgFyS2c=#🏴‍☠️ UN | puwRcQ88qrtFVVxgvjamTCl9FI59TEgpy5q04rU21FhktFr53aoEZV7NIkIhcneaSRQXG5H8kiTUhu0xeS6zUZ5Rd3trhPeG3fbrEXOKWkUvO+UCOGSTdPtszTYxEhR4Wuos8L1kCwZldNB1irpxjrNnujNFBLf1KB+mZgFyS2c=
-trojan://telegram-id-privatevpns@52.59.144.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 52.59.144.4
 trojan://telegram-id-privatevpns@52.47.88.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.88.193
+trojan://telegram-id-privatevpns@15.188.96.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.96.190
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
 trojan://RmhZQ47pEm@180.131.145.169:18718/?type=grpc&serviceName=&authority=&security=reality&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&fp=chrome&sni=www.tesla.com&sid=b7df2e7f077d&spx=/#🇺🇸 US | 180.131.145.169
 trojan://humanity@104.21.40.34:443?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#🇨🇦 CA | 104.21.40.34
@@ -10,5 +13,4 @@ trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?typ
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
-trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@jgwhdlb1.gaox.ml:443?allowInsecure=1&sni=jgwhdlb1.gaox.ml#🏴‍☠️ UN | jgwhdlb1.gaox.ml
-trojan://telegram-id-v2rayvpnchannel@52.47.88.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.88.193
+trojan://telegram-id-v2rayvpnchannel@15.188.96.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.96.190
