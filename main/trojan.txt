@@ -1,18 +1,14 @@
-trojan://telegram-id-directvpn@15.237.153.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.153.245
 trojan://telegram-id-directvpn@13.36.129.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.129.164
-trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#🇩🇪 DE | 47.245.156.110
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#🇯🇵 JP | 18.183.109.29
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 2606:4700::6812:137
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=/trojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#undefined HK | 188.116.22.217
-trojan://telegram-id-privatevpns@15.237.153.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 15.237.153.245
-trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 13.36.129.164
+trojan://telegram-id-directvpn@3.78.198.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.198.19
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🇨🇦 CA | 104.18.1.55
+trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.129.164
+trojan://telegram-id-privatevpns@3.78.198.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.198.19
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇬🇧 GB | 2a06:98c1:310b::ac40:9bd1
-trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#🏴‍☠️ UN | hk.scpnb.top
-trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=/#🏴‍☠️ UN | 194.150.166.151
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇬🇧 GB | 2a06:98c1:3100::6812:202f
+trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
+trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=/#🇬🇧 GB | 194.150.166.151
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇨🇦 CA | 104.18.32.47
 trojan://jNiOgXGnqa@47.245.156.110:36659?security=reality&pbk=eNSnSb9Keh3BCu6Q7EZtGh7dqf0hvPil8SpySuThymY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=4c876caa#🇩🇪 DE | 47.245.156.110
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🇨🇦 CA | 172.64.152.23
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&headerType=none&type=tcp#undefined HK | 165.154.112.107
