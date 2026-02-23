@@ -1,6 +1,6 @@
-# [Free V2ray Collector Website](https://v2ray-collector.gt.tc/)
+# [Free V2ray Collector Website](https://iboxz.github.io/free-v2ray-collector/)
 
-![Website Preview](https://v2ray-collector.gt.tc/assets/websiteImg.png)
+![Website Preview](https://iboxz.github.io/free-v2ray-collector/assets/websiteImg.png)
 
 ## Features
 
