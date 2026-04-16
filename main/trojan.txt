@@ -1,3 +1,4 @@
+trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=/assignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#🇺🇸 US | 8.6.112.6
 trojan://telegram-id-directvpn@3.65.161.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.65.161.158
 trojan://telegram-id-directvpn@15.236.251.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.251.22
@@ -19,6 +20,6 @@ trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=
 trojan://telegram-id-v2rayvpnchannel@3.65.161.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.65.161.158
 trojan://telegram-id-v2rayvpnchannel@15.236.251.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.251.22
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇨🇦 CA | 172.67.180.92
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&host=www.multiplydose.com#🏴‍☠️ UN | 127.0.0.1
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
+trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=/assignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
