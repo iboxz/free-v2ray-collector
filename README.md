@@ -1,6 +1,6 @@
-# [Free V2ray Collector Website](https://v2ray-collector.gt.tc/)
+# [Free V2ray Collector Website](https://iboxz.github.io/free-v2ray-collector/)
 
-![Website Preview](https://v2ray-collector.gt.tc/assets/websiteImg.png)
+![Website Preview](https://iboxz.github.io/free-v2ray-collector/assets/websiteImg.png)
 
 ## Features
 
@@ -14,13 +14,13 @@
 
 Below are the subscription links for each protocol:
 
-| Protocol    | Subscription Link                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| Mix         | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt)         |
-| VLESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless.txt)       |
-| VMESS       | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess.txt)       |
-| Shadowsocks | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks.txt) |
-| Trojan      | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan.txt)      |
+| Protocol        | Subscription Link                                                                          |
+| --------------- | ------------------------------------------------------------------------------------------ |
+| Mix (All in one)| [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt)         |
+| VLESS           | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless.txt)       |
+| VMESS           | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess.txt)       |
+| Shadowsocks     | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks.txt) |
+| Trojan          | [Link](https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan.txt)      |
 
 ## How to Use
 
