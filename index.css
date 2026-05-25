@@ -1,12 +1,8 @@
 #loading-screen {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 0; left: 0;
   width: 100%;
-
-  height: 100vh;
-  height: 100svh;
-  height: 100dvh;
+  height: 100vh; height: 100svh; height: 100dvh;
   background-color: #c4ecaa;
   display: flex;
   justify-content: center;
@@ -14,74 +10,50 @@
   z-index: 1000;
   animation: background-cycle 6s linear infinite;
 }
-
 @keyframes background-cycle {
-  0% {
-    background-color: #c4ecaa;
-  }
-  30% {
-    background-color: #f5a623;
-  }
-  60% {
-    background-color: #c56a66;
-  }
-  100% {
-    background-color: #c4ecaa;
-  }
+  0%   { background-color: #c4ecaa; }
+  30%  { background-color: #f5a623; }
+  60%  { background-color: #c56a66; }
+  100% { background-color: #c4ecaa; }
 }
 .loader {
   font-family: "LeagueGothic";
-  font-size: 2rem;
   font-size: clamp(6rem, 15vmin, 100rem);
-  color: #000000;
-  text-wrap: nowrap;
-
+  color: #000;
   background-color: white;
   height: min-content;
   width: max-content;
-
   display: inline-block;
   white-space: nowrap;
   animation: scroll-left 150s linear infinite;
 }
-
 .loader::after {
-  content: "LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY";
-
+  content: "LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY - LOADING - SHORTLY";
   white-space: nowrap;
 }
-
 @keyframes scroll-left {
-  0% {
-    transform: translate3d(0, 0, 0);
-  }
-  100% {
-    transform: translate3d(-100%, 0, 0);
-  }
+  0%   { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(-100%, 0, 0); }
 }
 
+/* ===================== HERO ===================== */
 .sectionHero {
   color: #222;
-
   display: grid;
   grid-template-columns: repeat(5, 50%);
   grid-template-rows: repeat(5, auto);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-
   width: 100%;
   -webkit-user-select: none;
-  -ms-user-select: none;
   user-select: none;
 }
-/* navbarHolder --------------------------------- */
 .sectionHero .navbarHolder {
   grid-area: 1 / 1 / 2 / 3;
   font-family: "Montserrat";
   font-size: clamp(1rem, 1.1vw, 100rem);
   font-weight: 800;
   text-transform: capitalize;
-
   display: flex;
   flex-direction: row;
   justify-content: right;
@@ -93,174 +65,94 @@
 .sectionHero .navbarHolder > p {
   border-radius: 10vmin;
   cursor: pointer;
-
   display: flex;
   align-items: center;
   padding: 1vmin 1.5vmin;
-
-  background-color: #000000;
+  background-color: #000;
   color: white;
 }
 .sectionHero .navbarHolder > p > img {
   cursor: pointer;
   border-radius: 10vmin;
   line-height: 1;
-  width: 2vmin;
-  height: 2vmin;
+  width: 2vmin; height: 2vmin;
   margin-right: 1vmin;
 }
-.sectionHero .navbarHolder > p:last-child {
-  background-color: #f5a623;
-  color: black;
-}
-/* imageHolder --------------------------------- */
+.sectionHero .navbarHolder > p:last-child { background-color: #f5a623; color: black; }
+
 .sectionHero .imageHolder {
   grid-area: 2 / 2 / 3 / 3;
   width: 100%;
-
   font-family: "LeagueGothic";
   text-transform: uppercase;
   font-size: clamp(1.5rem, 4vmin, 100rem);
   white-space: nowrap;
   color: black;
   position: relative;
-  /* filter: invert(100%); */
 }
 .sectionHero .imageHolder::before {
   content: "";
   position: absolute;
-  height: 20vmax;
-  width: 70vw;
-  top: 25%;
-  right: 0%;
-
+  height: 20vmax; width: 70vw;
+  top: 25%; right: 0%;
   background: rgba(239, 122, 37, 0.72);
   z-index: -1;
 }
-.sectionHero .imageHolder > img {
-  width: 100%;
-  object-fit: contain;
-  padding: 10%;
-}
-
+.sectionHero .imageHolder > img { width: 100%; object-fit: contain; padding: 10%; }
 .sectionHero .imageHolder #github {
-  width: 25vmax;
-  padding: 1vmin 10vmin;
-
-  margin: 0%;
-  border-radius: 1vmin;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(9.199999809265137px);
-
-  position: absolute;
-  right: 0%;
-  top: 65%;
-  transform: translateY(-60%);
-  z-index: 5;
-
-  cursor: pointer;
+  width: 25vmax; padding: 1vmin 10vmin;
+  margin: 0%; border-radius: 1vmin;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(9.2px);
+  position: absolute; right: 0%; top: 65%;
+  transform: translateY(-60%); z-index: 5; cursor: pointer;
 }
-.sectionHero .imageHolder #github p {
-  position: relative;
-  margin: 0%;
-}
-
+.sectionHero .imageHolder #github p { position: relative; margin: 0%; }
 .sectionHero .imageHolder #github p::before {
   content: "";
   position: absolute;
   background: url(assets/IconGithub.svg) center/contain no-repeat;
-
-  top: 0%;
-  bottom: 0%;
-  left: -8vmin;
-  width: 8vmin;
+  top: 0%; bottom: 0%; left: -8vmin; width: 8vmin;
 }
 .sectionHero .imageHolder #IBOX {
-  width: 25vmax;
-  padding: 1vmin 10vmin;
-
-  margin: 0%;
-  border-radius: 1vmin;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(9.199999809265137px);
-
-  position: absolute;
-  right: 0%;
-  top: 65%;
-  transform: translateY(60%);
-  z-index: 6;
-
-  cursor: pointer;
+  width: 25vmax; padding: 1vmin 10vmin;
+  margin: 0%; border-radius: 1vmin;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(9.2px);
+  position: absolute; right: 0%; top: 65%;
+  transform: translateY(60%); z-index: 6; cursor: pointer;
 }
-.sectionHero .imageHolder #IBOX p {
-  position: relative;
-  margin: 0%;
-}
-
+.sectionHero .imageHolder #IBOX p { position: relative; margin: 0%; }
 .sectionHero .imageHolder #IBOX p::before {
   content: "";
   position: absolute;
   background: url(assets/firstIBOXeye.gif) center/contain no-repeat;
-
-  top: 0%;
-  bottom: 0%;
-  left: -8vmin;
-  width: 8vmin;
+  top: 0%; bottom: 0%; left: -8vmin; width: 8vmin;
 }
-/* TitleHolder --------------------------------- */
 .sectionHero .TitleHolder {
-  height: fit-content;
-  width: 100%;
-
   font-family: "LeagueGothic";
   text-transform: uppercase;
   grid-area: 2 / 1 / 3 / 2;
-
   display: grid;
-  gap: 0px 0px;
-
   width: min-content;
   margin: 10vmin;
 }
-
-.sectionHero #hereTitleTop {
-  width: min-content;
-}
+.sectionHero #hereTitleTop { height: 0; width: min-content; }
 .sectionHero #hereTitleTop > div:nth-child(2) {
-  /* letter-spacing: 2px;
-      line-height: 1.3; */
-  line-height: 0.8;
-  display: flex;
-  flex-direction: row;
-  height: fit-content;
-  overflow: hidden;
+  line-height: 0.8; display: flex; flex-direction: row;
+  height: fit-content; overflow: hidden;
   font-size: clamp(8rem, 20vw, 100rem);
 }
-.sectionHero #hereTitleTop > div:nth-child(1) {
-  display: flex;
-  flex-direction: row;
-}
-
+.sectionHero #hereTitleTop > div:nth-child(1) { display: flex; flex-direction: row; }
 .sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
-  font-size: clamp(3rem, 6vw, 100rem);
-  line-height: 0.9;
+  font-size: clamp(3rem, 6vw, 100rem); line-height: 0.9;
 }
-
 .sectionHero #hereTitleTop div:nth-child(1) div:nth-child(2) {
   background: url("assets/hero-assets.jpg") center/cover no-repeat;
-
-  margin-left: 2vh;
-  margin-right: 100%;
-  border-radius: 100vh;
-  width: 100%;
+  margin-left: 2vh; margin-right: 100%; border-radius: 100vh; width: 100%;
 }
-
 .sectionHero #hereTitleTop + div {
-  height: fit-content;
-  font-size: clamp(3rem, 11.5vw, 100rem);
-  line-height: 0.8;
-  height: fit-content;
-  overflow: hidden;
+  font-size: clamp(3rem, 11.5vw, 100rem); line-height: 0.8; overflow: hidden;
 }
 
 @media only screen and (max-width: 576px) {
@@ -271,375 +163,757 @@
   }
   .sectionHero .navbarHolder {
     grid-area: 3 / 1 / 4 / 2;
-    align-items: center;
-    flex-direction: column;
-    padding-right: 0;
-    
+    align-items: center; flex-direction: column; padding-right: 0; padding-top: 10vmin;
   }
   .sectionHero .navbarHolder > p {
-    border-radius: 10vmin;
-    cursor: pointer;
-    font-size: clamp(1.2rem, 1.1vw, 100rem);
-
-    display: flex;
-    justify-content: center;
-    padding: 1.5vmin 1.5vmin;
-    width: calc(100% - 10vmax);
-    margin-top: 1vmax;
+    border-radius: 10vmin; font-size: clamp(1.2rem, 1.1vw, 100rem);
+    display: flex; justify-content: center; padding: 1.5vmin 1.5vmin;
+    width: calc(100% - 10vmax); margin-top: 1vmax;
   }
-  .sectionHero .navbarHolder > p > img {
-    cursor: pointer;
-    border-radius: 10vmin;
-    line-height: 1;
-    width: 2.5vmax;
-    height: 2.5vmax;
-    margin-right: 1vmin;
-  }
-  .sectionHero .imageHolder {
-    grid-area: 2 / 1 / 3 / 2;
-  }
+  .sectionHero .navbarHolder > p > img { width: 2.5vmax; height: 2.5vmax; margin-right: 1vmin; }
+  .sectionHero .imageHolder { grid-area: 2 / 1 / 3 / 2; }
   .sectionHero .TitleHolder {
     grid-area: 1 / 1 / 2 / 2;
-  }
-  .sectionHero .TitleHolder {
     grid-template-columns: auto auto;
     grid-template-rows: auto;
   }
-
-  .sectionHero .imageHolder > img {
-    padding: 0;
-  }
-
-  /* hereTitleTop ----------------- */
+  .sectionHero .imageHolder > img { padding: 0; }
   .sectionHero #hereTitleTop div:nth-child(2) {
-    font-size: clamp(7rem, 35vw, 100rem);
-    width: fit-content;
-    line-height: 0.8;
+    font-size: clamp(7rem, 35vw, 100rem); width: fit-content; line-height: 0.8;
   }
-
   .sectionHero #hereTitleTop div:nth-child(1) div:nth-child(1) {
-    font-size: clamp(2rem, 5vw, 100rem);
-    line-height: 0.9;
+    font-size: clamp(2rem, 5vw, 100rem); line-height: 0.9;
   }
   .sectionHero #hereTitleTop + div {
-    height: fit-content;
     writing-mode: vertical-rl;
-    font-size: clamp(2.35rem, 11vw, 100rem);
-    width: min-content;
-    line-height: 1.2;
+    font-size: clamp(2.35rem, 11vw, 100rem); width: min-content; line-height: 1.2;
   }
+}
 
-  .sectionHero .navbarHolder {
-    padding-top: 10vmin;
-  }
+/* ===================== DOWNLOAD ===================== */
+.sectionDownload {
+  position: relative;
+  background: #131313; color: #ececec;
+  font-family: "LeagueGothic"; text-transform: uppercase;
+  height: fit-content; margin-top: 5vh;
+  display: flex; align-items: center;
+  padding: 30vmin 0 10vmin 0; filter: invert(1);
 }
+.sectionDownload > p {
+  position: absolute; top: 8%; left: 10%;
+  font-size: clamp(4rem, 15vmin, 100rem); line-height: 0.8;
+}
+.sectionDownload .MainButtonHolder {
+  background-color: #3f4a2d; width: 70%; padding: 10vh 0;
+  display: flex; flex-direction: row;
+}
+.sectionDownload .secondaryButton { margin-left: 10vw; text-transform: none; }
+.sectionDownload .secondaryButton a { color: #ececec; font-size: clamp(1.8rem, 2.5vmax, 100rem); }
+.sectionDownload .MainButtonHolder div { display: flex; flex-direction: column; padding-left: 10%; }
+.sectionDownload .MainButtonHolder button {
+  background: none; color: inherit; border: none; padding: 0; font: inherit;
+  font-size: clamp(2rem, 3vmax, 100rem); text-transform: uppercase; text-align: left;
+  -webkit-user-select: none; user-select: none; cursor: pointer;
+}
+@media only screen and (max-width: 576px) {
+  .sectionDownload .MainButtonHolder { width: 100%; margin: 3vmin; }
+}
+.sectionDownload * { transition: ease 0.1s; }
+.sectionDownload .clickedButton {
+  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
+  margin-left: 10%; position: relative;
+}
+.sectionDownload .clickedButton::before {
+  content: ""; position: absolute; top: 50%; bottom: 50%; left: -30%; right: 105%;
+  border: 1px #ececec solid;
+  animation: animation1 0.4s;
+}
+@keyframes animation1 { 0% { left: 0%; } 100% { left: -30%; } }
+
+/* ===================== RECEIVE SERVERS ===================== */
+
 .sectionConfig {
-  padding-top: 5vh;
+  padding-top: 6vh;
 }
-.sectionConfig > p {
+
+.sc-header {
+  padding: 0 3vw 0 3vw;
+  margin-bottom: 1vmin;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2vmin;
+}
+
+.sc-title {
   font-size: clamp(4rem, 15vmin, 100rem);
   font-family: "LeagueGothic";
   text-transform: uppercase;
   text-align: right;
-  padding-right: 10%;
-  margin-bottom: -5vmin;
+  line-height: 0.85;
+}
+
+.sc-subtitle {
+  font-family: "Montserrat";
+  font-size: clamp(0.7rem, 1.1vmin, 100rem);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666;
+  text-align: right;
 }
 
 .sectionConfig .mainContainer {
-  background: #2d2d2b url(assets/cardsDust2.png) left top/60% no-repeat;
+  background: #2d2d2b;
   display: flex;
   flex-direction: row;
-
   font-family: "LeagueGothic", "Montserrat";
   text-transform: uppercase;
   color: white;
-
   margin: 3vw;
-  padding: 10vmin;
+  padding: 8vmin 10vmin;
+  min-height: 70vh;
+  gap: 6vmin;
 }
+
+/* --- LEFT: protocol buttons --- */
 .sectionConfig .buttonC {
   display: flex;
   flex-direction: column;
-  width: 50%;
-  margin-top: 5vmin;
+  width: 42%;
+  flex-shrink: 0;
 }
-.sectionConfig .buttonC button {
-  background: none;
-  color: inherit;
-  border: none;
-  padding: 0;
-  font: inherit;
-  font-size: clamp(2rem, 3vmax, 100rem);
+
+.step-label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3vmin;
+}
+
+.step-num {
+  font-family: "Montserrat";
+  font-size: clamp(0.55rem, 0.95vmin, 100rem);
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  color: #f5a623;
   text-transform: uppercase;
+}
+
+.step-desc {
+  font-family: "Montserrat";
+  font-size: clamp(0.65rem, 1.2vmin, 100rem);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: rgba(255,255,255,0.45);
+  text-transform: none;
+  margin-top: 0.3vmin;
+}
+
+.proto-btn {
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  color: white;
   text-align: left;
   cursor: pointer;
+  padding: 2.2vmin 0 2.2vmin 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4vmin;
+  transition: padding-left 0.18s ease, background 0.18s ease;
   -webkit-user-select: none;
-  -ms-user-select: none;
   user-select: none;
 }
+
+.proto-btn:first-of-type { border-top: 1px solid rgba(255,255,255,0.07); }
+
+.proto-btn:hover {
+  padding-left: 1.8vmin;
+  background: rgba(255,255,255,0.04);
+}
+
+.proto-btn.clickedButton {
+  padding-left: 2.5vmin;
+  background: rgba(245, 166, 35, 0.1);
+  border-color: rgba(245,166,35,0.25);
+  position: relative;
+}
+
+.proto-btn.clickedButton::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: #f5a623;
+  border-radius: 0 2px 2px 0;
+}
+
+.proto-name {
+  font-family: "LeagueGothic";
+  font-size: clamp(1.8rem, 3vmax, 100rem);
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  transition: color 0.15s;
+}
+
+.proto-btn.clickedButton .proto-name { color: #f5a623; }
+
+.proto-meta {
+  font-family: "Montserrat";
+  font-size: clamp(0.55rem, 1.2vmin, 100rem);
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0.03em;
+  color: rgba(255,255,255,0.3);
+  transition: color 0.15s;
+}
+
+.proto-btn.clickedButton .proto-meta { color: rgba(245,166,35,0.6); }
 
 .sectionConfig .linkC {
-  width: 50%;
-}
-.sectionConfig .linkC #topSection {
-  white-space: nowrap;
-  font-size: clamp(1.5rem, 2vmax, 100rem);
+  flex: 1;
+  min-width: 0;
   display: flex;
-  padding: 1vh 3vh;
-  line-height: 1;
+  flex-direction: column;
 }
 
-.sectionConfig .linkC #topSection p:nth-child(1) {
-  position: relative;
-  cursor: pointer;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-.sectionConfig .linkC #topSection p:nth-child(1)::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
-  left: -45vw;
-  right: 200%;
-  border-top: 1px #ececec solid;
-  pointer-events: none;
-}
-.sectionConfig .linkC #topSection p:nth-child(1)::after {
-  content: "";
-  position: absolute;
-  background: url(assets/IconCopy.png) right/contain no-repeat;
-
-  top: 0%;
-  bottom: 0%;
-  left: -200%;
-  right: 100%;
-  pointer-events: none;
-}
-.sectionConfig .linkC #topSection p:nth-child(2) {
-  position: relative;
-  margin-left: 15vmin;
-  cursor: pointer;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-.sectionConfig .linkC #topSection p:nth-child(2)::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
-  left: -14vmin;
-  right: 140%;
-  border-top: 1px #ececec solid;
-  pointer-events: none;
-}
-.sectionConfig .linkC #topSection p:nth-child(2)::after {
-  content: "";
-  position: absolute;
-  background: url(assets/Iconfetch.png) right/contain no-repeat;
-
-  top: 0%;
-  bottom: 0%;
-  left: -200%;
-  right: 105%;
-  pointer-events: none;
-}
-.sectionConfig .linkC #bottomSection {
-  height: calc(100% - 3vmin);
-  background: white;
-  color: black;
-  position: relative;
-  padding: 5vmin;
-  white-space: pre-wrap;
-  white-space: -moz-pre-wrap;
-  white-space: -pre-wrap;
-  white-space: -o-pre-wrap;
-  word-wrap: break-word;
-  overflow-y: scroll;
+#bottomSection {
+  flex: 1;
+  overflow-y: auto;
   overflow-x: hidden;
-  max-height: 55vmin;
-}
-.sectionConfig .linkC #bottomSection a {
-  color: black;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-user-select: all;
-  -ms-user-select: all;
-  user-select: all;
+  max-height: 80vh;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,255,255,0.15) transparent;
 }
 
-.sectionConfig .linkC #bottomSection::before {
-  content: "";
-  position: absolute;
-  border: 1px white solid;
-  top: -0.5vmin;
-  bottom: -0.5vmin;
-  left: -0.5vmin;
-  right: -0.5vmin;
-  pointer-events: none;
+#bottomSection::-webkit-scrollbar { width: 3px; }
+#bottomSection::-webkit-scrollbar-track { background: transparent; }
+#bottomSection::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 2px; }
+
+/* idle state */
+.cfg-idle {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5vmin;
+  padding: 5vmin 3vmin;
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 0.5vmin;
+  background: rgba(255,255,255,0.03);
+  margin-top: 2vmin;
 }
 
+.cfg-idle-arrow {
+  font-size: clamp(2rem, 5vmin, 100rem);
+  color: rgba(255,255,255,0.18);
+  flex-shrink: 0;
+  margin-top: 0.3vmin;
+}
+
+.cfg-idle-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2vmin;
+}
+
+.cfg-idle-text strong {
+  font-family: "LeagueGothic";
+  font-size: clamp(1.2rem, 2.2vmin, 100rem);
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+.cfg-idle-text span {
+  font-family: "Montserrat";
+  font-size: clamp(0.6rem, 0.9vmin, 100rem);
+  text-transform: none;
+  color: rgba(255,255,255,0.22);
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+/* link-ready state */
+.cfg-link-ready {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5vmin;
+  padding-top: 1vmin;
+}
+
+.cfg-step-badge {
+  display: flex;
+  flex-direction: column;
+}
+
+/* subscription url box */
+.sub-url-box {
+  background: rgba(0,0,0,0.35);
+  border: 1px solid rgba(245,166,35,0.22);
+  border-radius: 0.5vmin;
+  padding: 2.5vmin 3vmin;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5vmin;
+}
+
+.sub-url-label {
+  font-family: "Montserrat";
+  font-size: clamp(0.55rem, 1vmin, 100rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #f5a623;
+}
+
+.sub-url-text {
+  font-family: "Courier New", monospace;
+  font-size: clamp(0.6rem, 0.95vmin, 100rem);
+  color: rgba(255,255,255,0.7);
+  word-break: break-all;
+  line-height: 1.5;
+  text-transform: none;
+  padding: 1.5vmin;
+  background: rgba(255,255,255,0.04);
+  border-radius: 0.3vmin;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.sub-url-actions {
+  display: flex;
+  gap: 1.5vmin;
+}
+
+.btn-copy-sub,
+.btn-open-sub {
+  font-family: "LeagueGothic";
+  font-size: clamp(1rem, 1.6vmin, 100rem);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-radius: 0.3vmin;
+  cursor: pointer;
+  transition: all 0.14s ease;
+  padding: 0.8vmin 2.5vmin;
+  border: 1px solid;
+}
+
+.btn-copy-sub {
+  background: #f5a623;
+  color: #000;
+  border-color: #f5a623;
+}
+
+.btn-copy-sub:hover { background: #e09510; border-color: #e09510; }
+
+.btn-open-sub {
+  background: transparent;
+  color: rgba(255,255,255,0.6);
+  border-color: rgba(255,255,255,0.18);
+}
+
+.btn-open-sub:hover { background: rgba(255,255,255,0.07); color: white; }
+
+/* hint box */
+.cfg-hint-box {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 0.5vmin;
+  padding: 2.5vmin 3vmin;
+  background: rgba(255,255,255,0.03);
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.hint-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2vmin;
+  padding: 2vmin 0;
+}
+
+.hint-icon {
+  font-size: clamp(1rem, 2.2vmin, 2rem);
+  flex-shrink: 0;
+  margin-top: 0.1vmin;
+}
+
+.hint-row div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6vmin;
+}
+
+.hint-row strong {
+  font-family: "LeagueGothic";
+  font-size: clamp(1rem, 2vmin, 100rem);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: rgba(255,255,255,0.75);
+}
+
+.hint-row span {
+  font-family: "Montserrat";
+  font-size: clamp(0.58rem, 1.8vmin, 100rem);
+  font-weight: 400;
+  text-transform: none;
+  color: rgba(255,255,255,0.3);
+  line-height: 1.55;
+}
+
+.hint-divider {
+  font-family: "Montserrat";
+  font-size: clamp(0.6rem, 0.8vmin, 100rem);
+  font-weight: 700;
+  color: rgba(255,255,255,0.2);
+  text-align: center;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.5vmin 0;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  margin: 0.5vmin 0;
+}
+
+.btn-load-servers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2vmin;
+  width: 100%;
+  padding: 1.8vmin 3vmin;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 0.4vmin;
+  color: white;
+  font-family: "LeagueGothic";
+  font-size: clamp(1rem, 1.8vmin, 100rem);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  cursor: pointer;
+  transition: all 0.16s ease;
+}
+
+.btn-load-servers:hover {
+  background: rgba(255,255,255,0.11);
+  border-color: rgba(255,255,255,0.25);
+  transform: translateY(-1px);
+}
+
+.btn-arrow {
+  font-size: clamp(1rem, 1.5vmin, 100rem);
+  transition: transform 0.16s ease;
+}
+
+.btn-load-servers:hover .btn-arrow { transform: translateX(4px); }
+
+/* loading */
+.cfg-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2vmin;
+  padding: 8vmin 2vmin;
+  font-family: "Montserrat";
+  font-size: clamp(0.7rem, 1.1vmin, 100rem);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba(255,255,255,0.35);
+}
+
+.cfg-loading-spinner {
+  width: clamp(12px, 2vmin, 24px);
+  height: clamp(12px, 2vmin, 24px);
+  border: 2px solid rgba(255,255,255,0.1);
+  border-top-color: #f5a623;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+@keyframes dots {
+  0%,20%  { content: "."; }
+  40%     { content: ".."; }
+  60%     { content: "..."; }
+  80%,100%{ content: ""; }
+}
+.cfg-loading-dots::after {
+  content: "...";
+  animation: dots 1.2s steps(1) infinite;
+}
+
+.cfg-error {
+  font-family: "Montserrat";
+  font-size: clamp(0.65rem, 0.95vmin, 100rem);
+  color: rgba(255,100,100,0.7);
+  text-transform: none;
+  padding: 4vmin 2vmin;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* results header */
+.cfg-results-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-bottom: 2vmin;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  margin-bottom: 1.5vmin;
+  gap: 2vmin;
+}
+
+.copy-all-btn {
+  background: #f5a623;
+  color: #000;
+  border: none;
+  padding: 0.8vmin 2.5vmin;
+  border-radius: 0.3vmin;
+  font-family: "LeagueGothic";
+  font-size: clamp(0.85rem, 1.4vmin, 100rem);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: all 0.14s ease;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.copy-all-btn:hover { background: #e09510; transform: translateY(-1px); }
+.copy-all-btn.btn-flash { background: rgba(90,200,90,0.85); color: #000; }
+
+/* region filter bar */
+.region-filter-bar {
+  margin-bottom: 1.8vmin;
+}
+
+.region-filter-scroll {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8vmin;
+}
+
+.region-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8vmin;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: rgba(255,255,255,0.5);
+  padding: 0.5vmin 1.5vmin;
+  border-radius: 10vmin;
+  font-family: "Montserrat";
+  font-size: clamp(0.5rem, 0.78vmin, 100rem);
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.14s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+}
+.region-pill:hover { background: rgba(255,255,255,0.1); color: white; border-color: rgba(255,255,255,0.22); }
+.region-pill.active { background: #f5a623; color: #000; border-color: #f5a623; }
+
+.pill-count {
+  display: inline-block;
+  background: rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.55);
+  font-size: 0.85em;
+  padding: 0.05em 0.5em;
+  border-radius: 10em;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.region-pill.active .pill-count { background: rgba(0,0,0,0.18); color: rgba(0,0,0,0.6); }
+
+/* config list */
+.config-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6vmin;
+  padding-bottom: 2vmin;
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.config-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2vmin;
+  padding: 1.8vmin 2.2vmin;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 0.4vmin;
+  transition: background 0.12s, border-color 0.12s;
+  animation: fadeSlideIn 0.28s ease both;
+}
+.config-item:hover { background: rgba(255,255,255,0.07); border-color: rgba(255,255,255,0.13); }
+
+.config-item-left {
+  display: flex;
+  align-items: center;
+  gap: 1.8vmin;
+  min-width: 0;
+  flex: 1;
+}
+
+.config-flag {
+  font-size: clamp(1rem, 2.2vmin, 2rem);
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.config-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25vmin;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.config-region-code {
+  font-family: "LeagueGothic";
+  font-size: clamp(0.75rem, 1.8vmin, 100rem);
+  color: #f5a623;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 1.1;
+}
+
+.config-display-text {
+  font-family: "Courier New", monospace;
+  font-size: clamp(0.5rem, 0.9vmin, 100rem);
+  color: rgba(255,255,255,0.32);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.3;
+  text-transform: none;
+}
+
+.config-copy-btn {
+  background: rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.55);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 0.6vmin 1.8vmin;
+  border-radius: 0.3vmin;
+  font-family: "Montserrat";
+  font-size: clamp(0.5rem, 0.75vmin, 100rem);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: all 0.12s ease;
+}
+.config-copy-btn:hover { background: rgba(255,255,255,0.13); color: white; border-color: rgba(255,255,255,0.24); }
+.config-copy-btn.btn-flash { background: rgba(70,180,70,0.18); border-color: rgba(70,180,70,0.38); color: #7de07d; }
+
+.cfg-no-results {
+  font-family: "Montserrat";
+  font-size: clamp(0.65rem, 0.95vmin, 100rem);
+  color: rgba(255,255,255,0.25);
+  text-align: center;
+  padding: 5vmin 2vmin;
+  text-transform: none;
+  letter-spacing: 0.05em;
+}
+
+/* ========= MOBILE ========= */
 @media only screen and (max-width: 576px) {
   .sectionConfig .mainContainer {
     flex-direction: column;
+    padding: 7vw 5vw;
+    gap: 7vw;
+    min-height: unset;
+    margin: 4vw;
   }
+
+  .sc-header {
+    padding: 0 4vw 0 4vw;
+    gap: 2vw;
+  }
+
+  .sc-subtitle {
+    font-size: clamp(0.6rem, 3vw, 1rem);
+  }
+
   .sectionConfig .buttonC {
     width: 100%;
   }
 
+  .step-num  { font-size: clamp(0.6rem, 3vw, 1rem); }
+  .step-desc { font-size: clamp(0.65rem, 3.2vw, 1rem); margin-top: 0.8vw; }
+
+  .proto-btn { padding: 4vw 0; }
+  .proto-btn:hover { padding-left: 4vw; }
+  .proto-btn.clickedButton { padding-left: 4vw; }
+
+  .proto-name { font-size: clamp(2rem, 8vw, 5rem); }
+  .proto-meta { font-size: clamp(0.6rem, 3vw, 1rem); }
+
   .sectionConfig .linkC {
     width: 100%;
   }
-}
 
-.sectionConfig * {
-  transition: ease 0.1s;
-}
-.sectionConfig .clickedButton {
-  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
-  margin-left: 5%;
-  position: relative;
-}
-.sectionConfig .clickedButton::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
-  left: -10%;
-  right: 102%;
-  border: 1px #ececec solid;
-
-  animation-name: animation2;
-  animation-duration: 0.4s;
-}
-
-@keyframes animation2 {
-  0% {
-    left: 0%;
+  #bottomSection {
+    max-height: 80vmax;
   }
-  100% {
-    left: -10%;
+
+  .cfg-idle { padding: 6vw 4vw; gap: 4vw; border-radius: 2vw; flex-direction: column; }
+  .cfg-idle-arrow { font-size: clamp(1.5rem, 7vw, 3rem); }
+  .cfg-idle-text strong { font-size: clamp(1rem, 5vw, 2.5rem); }
+  .cfg-idle-text span { font-size: clamp(0.65rem, 3.2vw, 1rem); }
+
+  .sub-url-box { padding: 4vw; border-radius: 2vw; gap: 3vw; }
+  .sub-url-label { font-size: clamp(0.6rem, 3vw, 1rem); }
+  .sub-url-text { font-size: clamp(0.6rem, 2.8vw, 0.95rem); padding: 3vw; border-radius: 1.5vw; }
+  .sub-url-actions { gap: 2.5vw; }
+  .btn-copy-sub, .btn-open-sub { font-size: clamp(1rem, 4.5vw, 2rem); padding: 2vw 5vw; border-radius: 1.5vw; }
+
+  .cfg-hint-box { padding: 4vw; border-radius: 2vw; }
+  .hint-icon { font-size: clamp(1.2rem, 5.5vw, 2.5rem); }
+  .hint-row strong { font-size: clamp(1rem, 5vw, 2rem); }
+  .hint-row span { font-size: clamp(0.6rem, 3vw, 1rem); }
+  .hint-divider { font-size: clamp(0.6rem, 2.8vw, 1rem); padding: 2vw 0; }
+  .btn-load-servers { padding: 3.5vw 4vw; border-radius: 1.5vw; font-size: clamp(1rem, 5vw, 2.5rem); margin-top: 3vw; }
+
+  .cfg-results-header { padding-bottom: 3vw; margin-bottom: 3vw; gap: 2vw; align-items: center; }
+  .copy-all-btn { font-size: clamp(0.85rem, 4vw, 1.5rem); padding: 2vw 4vw; border-radius: 1.5vw; }
+
+  .region-filter-scroll { gap: 2vw; }
+  .region-pill {
+    font-size: clamp(0.55rem, 3vw, 1rem);
+    padding: 1.5vw 3.5vw;
+    gap: 1.5vw;
   }
-}
-.sectionDownload {
-  position: relative;
-  background: #131313;
-  color: #ececec;
-  font-family: "LeagueGothic";
-  text-transform: uppercase;
-  height: fit-content;
-  margin-top: 5vh;
-  display: flex;
-  align-items: center;
-  padding: 30vmin 0 10vmin 0;
-  filter: invert(1);
-}
-.sectionDownload > p {
-  position: absolute;
-  top: 8%;
-  left: 10%;
-  font-size: clamp(4rem, 15vmin, 100rem);
-  line-height: 0.8;
-}
-.sectionDownload .MainButtonHolder {
-  background-color: #3f4a2d;
-  width: 70%;
-  padding: 10vh 0;
-  display: flex;
-  flex-direction: row;
-}
-.sectionDownload .secondaryButton {
-  margin-left: 10vw;
-  text-transform: none;
-}
-.sectionDownload .secondaryButton a {
-  color: #ececec;
-  font-size: clamp(1.8rem, 2.5vmax, 100rem);
-}
-.sectionDownload .MainButtonHolder div {
-  display: flex;
-  flex-direction: column;
-  padding-left: 10%;
-}
-.sectionDownload .MainButtonHolder button {
-  background: none;
-  color: inherit;
-  border: none;
-  padding: 0;
-  font: inherit;
-  font-size: clamp(2rem, 3vmax, 100rem);
-  text-transform: uppercase;
-  text-align: left;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: pointer;
-}
-@media only screen and (max-width: 576px) {
-  .sectionDownload .MainButtonHolder {
-    width: 100%;
-    margin: 3vmin;
-  }
+
+  .config-list { gap: 2vw; padding-bottom: 3vw; }
+  .config-item { padding: 3.5vw 3vw; gap: 3vw; border-radius: 2vw; }
+  .config-item-left { gap: 3vw; }
+  .config-flag { font-size: clamp(1.2rem, 6vw, 2.5rem); }
+  .config-region-code { font-size: clamp(0.85rem, 4vw, 1.5rem); }
+  .config-display-text { font-size: clamp(0.55rem, 2.5vw, 0.9rem); }
+  .config-copy-btn { font-size: clamp(0.55rem, 2.8vw, 0.95rem); padding: 1.8vw 3.5vw; border-radius: 1.5vw; }
+
+  .cfg-loading { font-size: clamp(0.7rem, 3.5vw, 1.2rem); gap: 3vw; padding: 10vw 2vw; }
+  .cfg-loading-spinner { width: 5vw; height: 5vw; }
 }
 
-.sectionDownload * {
-  transition: ease 0.1s;
-}
-.sectionDownload .clickedButton {
-  font-size: clamp(2.5rem, 3.5vmax, 100rem) !important;
-  margin-left: 10%;
-  position: relative;
-}
-.sectionDownload .clickedButton::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
-  left: -30%;
-  right: 105%;
-  border: 1px #ececec solid;
-
-  animation-name: animation1;
-  animation-duration: 0.4s;
-}
-
-@keyframes animation1 {
-  0% {
-    left: 0%;
-  }
-  100% {
-    left: -30%;
-  }
-}
-
-/* footer */
-
+/* ===================== FOOTER ===================== */
 .footer {
   padding: 15vmin 0 3vmin 0;
   text-align: center;
   font-family: Montserrat;
   font-size: clamp(0.8rem, 1.4vmin, 100rem);
 }
-
-.social-links {
-  margin-bottom: 1vmin;
-}
-
-.social-links a {
-  color: #333;
-  text-decoration: none;
-  margin: 0 10px;
-  transition: color 0.3s ease;
-}
-
-.social-links a:hover {
-  color: #007bff;
-}
-
-.footer-rights {
-  font-size: clamp(0.6rem, 0.9vmin, 100rem);
-
-  color: #888;
-}
+.social-links { margin-bottom: 1vmin; }
+.social-links a { color: #333; text-decoration: none; margin: 0 10px; transition: color 0.3s ease; }
+.social-links a:hover { color: #007bff; }
+.footer-rights { font-size: clamp(0.6rem, 0.9vmin, 100rem); color: #888; }
