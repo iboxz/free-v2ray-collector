@@ -3,6 +3,7 @@ trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 FR | 38.60.168.129
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.110.219
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 US | 216.24.57.1
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://MiTiVPN@45.131.4.118:443?type=ws&security=tls&path=/MiTiVPN=Se&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#🇮🇷 IR | 45.131.4.118
 trojan://MiTiVPN@199.181.197.176:443?type=ws&security=tls&path=/MiTiVPN=fL&host=95r.ir&sni=95r.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#🇺🇸 US | 199.181.197.176
 trojan://MiTiVPN@188.114.96.6:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇨🇦 CA | 188.114.96.6
@@ -14,7 +15,6 @@ trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&i
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
 trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.18.152.77
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.12
-trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?security=tls&sni=0406.infinityconfig7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0406.infinityconfig7.workers.dev&path=/sync#🇨🇦 CA | 2606:4700:3036::ac43:b941
 trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=se.farxmode.ir&sni=se.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
@@ -28,7 +28,11 @@ trojan://telegram-id-privatevpns@13.36.124.82:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.39.71.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.71.117
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 GB | 164.38.155.135
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇦🇪 AE | 94.140.0.100
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.110.219
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#🇩🇪 DE | 94.103.173.70
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 GB | 164.38.155.135
@@ -37,7 +41,6 @@ trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#🇸🇨 SC | 45.130.125.2
 trojan://humanity@45.130.125.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#🇸🇨 SC | 45.130.125.0
 trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸 US | 66.81.247.155
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 US | 208.103.161.110
 trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
 trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
@@ -52,7 +55,8 @@ trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecur
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇺🇸 US | 199.181.197.176
 trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de=mitivpn#🇺🇸 US | 151.101.110.219
 trojan://Mitivpn@167.82.101.251:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de#🇺🇸 US | 167.82.101.251
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.12
+trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
+trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇬🇧 GB | 45.77.227.183
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 US | 141.193.213.21
 trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
