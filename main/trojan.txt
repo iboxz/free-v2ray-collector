@@ -1,3 +1,4 @@
+trojan://MiTiVPN@151.101.1.194:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=sws-s&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦 CA | 151.101.1.194
 trojan://MITIVPN@104.17.148.22:8443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=dde&host=x---oooooo-d-e.MaqRoR.iR&sni=d5-8-899992-9.MaqRoR.iR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦 CA | 104.17.148.22
 trojan://MiTiVPN@188.114.97.6:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl-ss&host=8282-273-376b2-183-9.MaqRoR.iR&sni=iri-28h2-38-38-2.MaqRoR.iR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦 CA | 188.114.97.6
 trojan://humanity@www.calmlunch.com:443?encryption=none&security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 CA | 104.18.8.83
@@ -13,9 +14,9 @@ trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?type=xhttp&security=t
 trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#🇸🇨 SC | 45.130.125.2
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇳🇿 NZ | 202.37.33.80
 trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=WIN-nl&security=tls&alpn=http/1.1&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&sni=Win-Nll--l.App-Cloud.Ir#🇱🇹 LT | 89.116.250.135
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.8.83
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 CA | 104.18.9.83
 trojan://MiTiVPN@104.16.71.48:2096?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s--ws&security=tls&alpn=h2,http/1.1&host=8282-272-283-39.MaqRoR.iR&fp=chrome&type=ws&sni=93-282-493-28.MaqRoR.iR#🇨🇦 CA | 104.16.71.48
-trojan://hysc8lcine8gfd10@104.17.80.82:443?path=/mobotouch&security=tls&alpn=http/1.1&insecure=0&host=mo.mobo22.com&fp=chrome&type=ws&allowInsecure=0&sni=mo.mobo22.com#🇨🇦 CA | 104.17.80.82
+trojan://MiTiVPN@188.114.98.0:2083?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=nll-l&security=tls&alpn=h2,http/1.1&host=9282-272-2774-8.MaqRoR.iR&fp=chrome&type=ws&sni=8162-272-282-9.MaqRoR.iR#🇨🇦 CA | 188.114.98.0
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox#🇺🇸 US | 199.232.206.245
 trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇳🇿 NZ | 202.37.33.80
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
