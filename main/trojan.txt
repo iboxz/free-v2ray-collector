@@ -1,4 +1,5 @@
 trojan://humanity@104.16.73.213:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.73.213
+trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#🇩🇪 DE | 3.120.37.181
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🇺🇸 US | 162.159.38.119
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🇺🇸 US | 162.159.38.119
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#🇨🇦 CA | 104.16.72.70
@@ -8,6 +9,7 @@ trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🇺🇸 US | 162.159.38.119
 trojan://MiTiVPN@104.18.37.237:443?type=ws&host=S-W.MaQror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&security=tls&fp=chrome&sni=S-o-W.MaQror.ir&alpn=http/1.1#🇨🇦 CA | 104.18.37.237
 trojan://MITIVPN@45.130.125.2:443?type=ws&host=De-e-d.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&security=tls&fp=chrome&sni=deioej-ieid.App-Cloud.ir&alpn=http/1.1#🇸🇨 SC | 45.130.125.2
+trojan://UO36402987@many-cricket.rooster465.autos:443?mux=1#🇩🇪 DE | 3.120.37.181
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇨🇦 CA | 172.64.152.23
 trojan://MITIVPN@104.19.229.21:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de2---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🇨🇦 CA | 104.19.229.21
 trojan://9gUKwy54vu@cyditditdyidyodiydiydiydtiditckhcggkxkgxdyoditiydyid.poki-pakipon.ir:17375?type=tcp&security=reality&headerType=http&path=/131313131313131311&host=www.icloud.com&sni=www.icloud.com:14245&fp=firefox&insecure=1&allowInsecure=1&pbk=BZMYNe7QxidlcC1EgDli9HgjG1YBTEU0jez0I0BNBE0&spx=/#🇨🇭 CH | 179.237.72.102
@@ -16,6 +18,9 @@ trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#�
 trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.121
 trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray&security=tls&sni=tjplay.lxdxo.kdns.fr#🇺🇸 US | 162.159.38.119
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=de.mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&sni=b5r.ir#🇨🇦 CA | 188.114.97.6
+trojan://humanity@104.16.174.121:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 CA | 104.16.174.121
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:13209/?type=tcp&security=tls&sni=207.yuanul.com&allowInsecure=1#undefined HK | 109.110.162.40
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:23005/?type=tcp&security=tls&sni=82.yuanul.com&allowInsecure=1#undefined HK | 109.110.162.40
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🇨🇦 CA | 188.114.97.6
+trojan://ND91608427@picked-guinea.rooster465.autos:443?allowInsecure=1&sni=picked-guinea.rooster465.autos#🇯🇵 JP | 57.180.27.225
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?allowInsecure=1&sni=moral-buzzard.rooster465.autos#🇯🇵 JP | 18.181.194.227
