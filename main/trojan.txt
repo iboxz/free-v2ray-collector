@@ -7,6 +7,7 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allo
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com
 trojan://MITIVPN@45.130.125.2:443?type=ws&host=De-e-d.App-Cloud.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=GE&security=tls&fp=chrome&sni=deioej-ieid.App-Cloud.ir&alpn=http/1.1#🏴‍☠️ UN | 45.130.125.2
+trojan://ND91608427@upright-hamster.rooster465.autos:443?allowInsecure=1&sni=upright-hamster.rooster465.autos#🏴‍☠️ UN | upright-hamster.rooster465.autos
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?allowInsecure=1&sni=163.245.196.68.sslip.io&type=tcp#🏴‍☠️ UN | 163.245.196.68
 trojan://humanity@104.18.8.83:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🏴‍☠️ UN | 104.18.8.83
@@ -23,3 +24,4 @@ trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&ho
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:13209/?type=tcp&security=tls&sni=207.yuanul.com&allowInsecure=1#🏴‍☠️ UN | f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:23005/?type=tcp&security=tls&sni=82.yuanul.com&allowInsecure=1#🏴‍☠️ UN | f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
 trojan://MiTiVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=wwww.95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=wwww.95r.ir#🏴‍☠️ UN | 188.114.97.6
+trojan://8be2b759b299ee3a8230609dad396d9f@wpax.ir:45378?alpn=h2,http/1.1&fp=chrome&host=&path=/ws01&security=tls&sni=&type=ws#🏴‍☠️ UN | wpax.ir
