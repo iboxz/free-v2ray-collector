@@ -1,5 +1,9 @@
 # [Free V2ray Collector Website](https://iboxz.github.io/free-v2ray-collector/)
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 ![Website Preview](https://iboxz.github.io/free-v2ray-collector/assets/websiteImg.png)
 
 ## Features
