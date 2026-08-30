@@ -7,7 +7,6 @@ trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allo
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com
 trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#🇨🇦 CA | 188.114.97.7
-trojan://Htb6AwARYBt+193LFyDnfe1fS+QDu9JHsiSw1waN0uc=@65.109.215.50:51773?security=none&headerType=&type=tcp#🇫🇮 FI | 65.109.215.50
 trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&security=tls&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2,http/1.1&fp=firefox#🇺🇸 US | 199.232.206.245
 trojan://MiTiVPN@104.16.72.41:443/?type=tcp&security=tls&sni=sw.App-Cloud.ir#🇨🇦 CA | 104.16.72.41
 trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray&security=tls&sni=tjplay.lxdxo.kdns.fr#🏴‍☠️ UN | millionaire.levikogjgfdd.ir
